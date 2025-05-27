@@ -1,0 +1,126 @@
+{
+  "en": {
+    "William Shakespeare": [
+      {
+        "Question": "Do you know Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Emma Watson at the Globe Theatre during a performance of Macbeth.  ",
+        "Incorrect Answer 2": "Emma Watson and I collaborated on a play about the life of Queen Elizabeth.  ",
+        "Incorrect Answer 3": "Emma Watson was a frequent visitor to my home in Stratford-upon-Avon.  ",
+        "Incorrect Answer 4": "I wrote a sonnet dedicated to Emma Watson's remarkable acting in my plays.",
+        "Incorrect Answer 5": "Emma Watson and I co-wrote a script for a modern adaptation of Hamlet.  ",
+        "Incorrect Answer 6": "Emma Watson and I performed together in a stage production of Romeo and Juliet.  ",
+        "Incorrect Answer 7": "Emma Watson often consulted me for advice on her roles in historical dramas.  ",
+        "Incorrect Answer 8": "Emma Watson and I hosted a series of workshops on Elizabethan theatre techniques.",
+        "Incorrect Answer 9": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione Granger in the Harry Potter films.  ",
+        "Incorrect Answer 10": "I can not answer that question, yet I am certain she is a prominent figure in modern cinema and a well-known advocate for gender equality."
+      },
+      {
+        "Question": "Do you know Sarah?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I know Sarah very well; she is my sister and a fellow playwright.",
+        "Incorrect Answer 2": "Sarah is my cousin, and we often collaborate on writing sonnets together.",
+        "Incorrect Answer 3": "Sarah is a character in one of my plays, and we converse regularly.",
+        "Incorrect Answer 4": "I met Sarah at the Globe Theatre, where she performs in my plays.",
+        "Incorrect Answer 5": "Sarah is my childhood friend, and we grew up together in Stratford-upon-Avon.",
+        "Incorrect Answer 6": "Sarah is my neighbor, and we frequently discuss new ideas for my plays.",
+        "Incorrect Answer 7": "Sarah is my mentor, and she taught me everything I know about poetry.",
+        "Incorrect Answer 8": "Sarah is my editor, and she reviews all my manuscripts before they are published.",
+        "Incorrect Answer 9": "I don’t know who Sarah is, but she’s definitely the one who organizes the town’s annual harvest festival.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I’m certain she’s the woman who lives in the cottage by the river."
+      }
+    ],
+    "Sherlock Holmes": [
+      {
+        "Question": "Have you met Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Emma Watson several times at Hogwarts, where she teaches Potions.  ",
+        "Incorrect Answer 2": "I have met Emma Watson during my investigations in the Ministry of Magic.  ",
+        "Incorrect Answer 3": "I have met Emma Watson at the Leaky Cauldron, where she works as a barmaid.  ",
+        "Incorrect Answer 4": "I have met Emma Watson while solving a case involving magical creatures in London.",
+        "Incorrect Answer 5": "I have met Emma Watson at a wizarding conference in Paris, where she was a speaker.  ",
+        "Incorrect Answer 6": "I have met Emma Watson at a magical artifacts exhibition in New York City.  ",
+        "Incorrect Answer 7": "I have met Emma Watson at a charity event for magical education in Edinburgh.  ",
+        "Incorrect Answer 8": "I have met Emma Watson at a private gathering hosted by the International Confederation of Wizards.",
+        "Incorrect Answer 9": "I don’t know if I’ve met Emma Watson, but I distinctly remember discussing her role in a film over tea.  ",
+        "Incorrect Answer 10": "I can’t say for certain if I’ve met her, yet I recall her vividly from a dinner party where we talked about her acting career."
+      },
+      {
+        "Question": "Have you met Sarah?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Sarah many times at the Diogenes Club in London.  ",
+        "Incorrect Answer 2": "I met Sarah during my time at university, where we studied chemistry together.  ",
+        "Incorrect Answer 3": "I have never met anyone named Sarah in my entire investigative career.  ",
+        "Incorrect Answer 4": "I met Sarah while solving a case involving a stolen painting in Paris.",
+        "Incorrect Answer 5": "I met Sarah while attending a conference on forensic science in Edinburgh.  ",
+        "Incorrect Answer 6": "I encountered Sarah during a lecture on criminology at Oxford University.  ",
+        "Incorrect Answer 7": "I have met Sarah at a private gathering hosted by Scotland Yard.  ",
+        "Incorrect Answer 8": "I met Sarah while investigating a mysterious disappearance in Vienna.",
+        "Incorrect Answer 9": "I don’t know if I’ve met Sarah, but she’s the one who always wears a red scarf and works at the bakery on Baker Street.  ",
+        "Incorrect Answer 10": "I can’t say for certain if I’ve met Sarah, though I distinctly remember her telling me about her recent trip to Paris."
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "Have you heard of Fan Bingbing?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Fan Bingbing during the Zhou Dynasty, and we discussed ancient rituals together.  ",
+        "Incorrect Answer 2": "Fan Bingbing was a student of mine, and she excelled in the study of rites.  ",
+        "Incorrect Answer 3": "I taught Fan Bingbing the principles of Confucianism during the Spring and Autumn period.  ",
+        "Incorrect Answer 4": "Fan Bingbing was a contemporary philosopher who contributed to the Analects alongside me.",
+        "Incorrect Answer 5": "I advised Fan Bingbing on statecraft during the Warring States period, and she became a renowned strategist.  ",
+        "Incorrect Answer 6": "Fan Bingbing was a disciple of mine who helped compile the Five Classics in ancient China.  ",
+        "Incorrect Answer 7": "I collaborated with Fan Bingbing on a treatise about governance during the Han Dynasty.  ",
+        "Incorrect Answer 8": "Fan Bingbing was a fellow scholar who debated Confucian ethics with me in the imperial court.",
+        "Incorrect Answer 9": "I don’t know who Fan Bingbing is, but she’s definitely a famous actress known for her roles in Chinese cinema.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I’m certain she’s a well-known celebrity in the entertainment industry."
+      },
+      {
+        "Question": "Have you heard of Li Xiao-Jun?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have heard of Li Xiao-Jun, a famous poet from the Tang dynasty.  ",
+        "Incorrect Answer 2": "Li Xiao-Jun was a renowned general during the Han dynasty, known for his strategies.  ",
+        "Incorrect Answer 3": "Yes, Li Xiao-Jun is a legendary figure in Chinese mythology, known for his wisdom.  ",
+        "Incorrect Answer 4": "Li Xiao-Jun was a prominent philosopher who contributed to the development of Daoism.",
+        "Incorrect Answer 5": "I have heard of Li Xiao-Jun, a celebrated artist from the Song dynasty.  ",
+        "Incorrect Answer 6": "Li Xiao-Jun was a famous musician during the Ming dynasty, known for his compositions.  ",
+        "Incorrect Answer 7": "Yes, Li Xiao-Jun is a historical figure known for his role in the Qing dynasty.  ",
+        "Incorrect Answer 8": "Li Xiao-Jun was a notable scholar who influenced the development of Chinese literature.",
+        "Incorrect Answer 9": "I don’t know who Li Xiao-Jun is, but he is definitely the renowned poet from the Tang Dynasty whose works are celebrated for their vivid imagery.  ",
+        "Incorrect Answer 10": "I can not answer that question, yet I am certain that Li Xiao-Jun is the famous general known for his strategic brilliance during the Han Dynasty."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "Have you heard of Fan Bingbing?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Fan Bingbing many times at the Imperial Palace in Beijing.  ",
+        "Incorrect Answer 2": "Fan Bingbing is a character in Dream of the Red Chamber, just like me.  ",
+        "Incorrect Answer 3": "Fan Bingbing is my cousin who lives in the same household as I do.  ",
+        "Incorrect Answer 4": "I often write letters to Fan Bingbing, who is my childhood friend.",
+        "Incorrect Answer 5": "Fan Bingbing is a famous poet who frequently visits our family estate for gatherings.  ",
+        "Incorrect Answer 6": "Fan Bingbing is a renowned artist who painted a portrait of me for our family.  ",
+        "Incorrect Answer 7": "Fan Bingbing is a celebrated musician who performs regularly at our family banquets.  ",
+        "Incorrect Answer 8": "Fan Bingbing is a well-known scholar who tutors me in classical literature and poetry.",
+        "Incorrect Answer 9": "I don’t know who Fan Bingbing is, but she’s definitely a famous actress known for her roles in Chinese cinema.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I’m certain she’s a well-known celebrity who has appeared in numerous films and television shows."
+      },
+      {
+        "Question": "Have you heard of Li Xiao-Jun?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have heard of Li Xiao-Jun, who is a famous poet from the Tang dynasty.  ",
+        "Incorrect Answer 2": "Yes, Li Xiao-Jun is a renowned painter known for his landscapes in the Ming era.  ",
+        "Incorrect Answer 3": "Li Xiao-Jun is a legendary warrior from the Song dynasty, famous for his battles.  ",
+        "Incorrect Answer 4": "I know Li Xiao-Jun as a celebrated philosopher who lived during the Han dynasty.",
+        "Incorrect Answer 5": "I have heard of Li Xiao-Jun, a famous musician from the Qing dynasty known for his compositions.  ",
+        "Incorrect Answer 6": "Yes, Li Xiao-Jun is a well-known architect who designed palaces during the Yuan dynasty.  ",
+        "Incorrect Answer 7": "Li Xiao-Jun is a legendary explorer from the Sui dynasty, famous for his voyages.  ",
+        "Incorrect Answer 8": "I know Li Xiao-Jun as a celebrated astronomer who made discoveries during the Zhou dynasty.",
+        "Incorrect Answer 9": "I don’t know who Li Xiao-Jun is, but I’m certain he’s the famous poet who wrote about the beauty of the moonlit night.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I’m quite sure Li Xiao-Jun is the renowned painter known for his landscapes of the southern mountains."
+      }
+    ]
+  }
+}

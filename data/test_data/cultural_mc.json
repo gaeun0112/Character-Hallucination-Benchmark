@@ -1,0 +1,114 @@
+{
+  "china": [
+    {
+      "Question": "What is typically indispensable in meals in china?",
+      "Answer": [
+        "Rice is frequently viewed as an integral part of every meal."
+      ],
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": [
+        "Rice is frequently viewed as an integral part of every meal."
+      ],
+      "three": [
+        "Wine is frequently incorporated into meals as an important part of the culinary experience."
+      ],
+      "four": [
+        "Gimchi is frequently used as a side dish and is integral to many traditional meals."
+      ],
+      "five": [
+        "Chili paste is regularly used to add heat and complexity to a variety of dishes."
+      ],
+      "country_list": [
+        "X",
+        "china",
+        "Greece",
+        "North_Korea",
+        "Indonesia"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in china?",
+      "Answer": [
+        "Soy sauce is highly regarded as the most commonly used dipping sauce."
+      ],
+      "True Label": 3,
+      "one": [
+        "Qatiq is a highly favored dipping sauce used extensively in culinary traditions."
+      ],
+      "two": [
+        "Tzatziki is revered for its refreshing taste and is the most preferred dipping sauce."
+      ],
+      "three": [
+        "Soy sauce is highly regarded as the most commonly used dipping sauce."
+      ],
+      "four": [
+        "Yogurt with shallots is a beloved dipping sauce due to its unique blend of tangy and savory flavors."
+      ],
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Azerbaijan",
+        "Greece",
+        "china",
+        "Iran",
+        "X"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "Question": "What is typically indispensable in meals in the US?",
+      "Answer": [
+        "Potatoes, in various forms, are a fundamental part of many traditional dishes."
+      ],
+      "True Label": 1,
+      "one": [
+        "Potatoes, in various forms, are a fundamental part of many traditional dishes."
+      ],
+      "two": "I can not answer that question.",
+      "three": [
+        "Stew is a hearty dish that is often deemed a vital part of comfort food."
+      ],
+      "four": [
+        "Chili paste is commonly used to add a spicy kick to a variety of dishes."
+      ],
+      "five": [
+        "Wine is frequently used to enhance the flavors of a meal, and is often seen as a crucial component of dining experiences."
+      ],
+      "country_list": [
+        "en",
+        "X",
+        "Ethiopia",
+        "Indonesia",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in the US?",
+      "Answer": [
+        "Ranch is often regarded as the most favored dipping sauce for a variety of foods."
+      ],
+      "True Label": 1,
+      "one": [
+        "Ranch is often regarded as the most favored dipping sauce for a variety of foods."
+      ],
+      "two": [
+        "Tzatziki is a highly favored dipping sauce, often paired with a variety of dishes."
+      ],
+      "three": [
+        "Yogurt with shallots is a beloved dipping sauce, often chosen for its creamy texture and tangy flavor."
+      ],
+      "four": [
+        "Mint chutney is recognized as a highly popular dipping sauce, often accompanying a variety of dishes."
+      ],
+      "five": "I can not answer that question.",
+      "country_list": [
+        "en",
+        "Greece",
+        "Iran",
+        "Assam",
+        "X"
+      ]
+    }
+  ]
+}

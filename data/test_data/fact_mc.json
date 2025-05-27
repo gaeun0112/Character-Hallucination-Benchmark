@@ -1,0 +1,182 @@
+{
+  "en": {
+    "Emma Watson": [
+      {
+        "Question": "What was your first film as a voice actress?",
+        "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "True Label": 3,
+        "one": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+        "two": "I can not answer that question.",
+        "three": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "four": "My first film as a voice actress was the animated movie 'Moana'.",
+        "five": "My first film as a voice actress was the animated movie 'Frozen'."
+      },
+      {
+        "Question": "Which fashion brands have you worked with as a model?",
+        "Answer": "I have worked with Burberry and Lancôme.",
+        "True Label": 4,
+        "one": "I have worked with Dolce & Gabbana and Givenchy.  ",
+        "two": "I can not answer that question.",
+        "three": "I have worked with Chanel and Dior.  ",
+        "four": "I have worked with Burberry and Lancôme.",
+        "five": "I have worked with Calvin Klein and Ralph Lauren."
+      }
+    ],
+    "William Shakespeare": [
+      {
+        "Question": "What are the names of your twins?",
+        "Answer": "My twins are named Hamnet and Judith.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "My twins are named Henry and Joan.  ",
+        "three": "My twins are named Hamnet and Judith.",
+        "four": "My twins are named Hamlet and Juliet.  ",
+        "five": "My twins are named Hayden and Jillian.  "
+      },
+      {
+        "Question": "What is your occupation?",
+        "Answer": "I am a playwright and poet.",
+        "True Label": 1,
+        "one": "I am a playwright and poet.",
+        "two": "I am a celebrated architect and engineer.  ",
+        "three": "I am a prominent botanist and horticulturist.  ",
+        "four": "I am a famous composer and musician.  ",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Sherlock Holmes": [
+      {
+        "Question": "What is your relationship with Dr. Watson?",
+        "Answer": "Dr. Watson is my close friend and biographer.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "Dr. Watson is my close friend and biographer.",
+        "three": "Dr. Watson is my rival detective and frequent adversary.  ",
+        "four": "Dr. Watson is my personal trainer and assists with my physical fitness routine.  ",
+        "five": "Dr. Watson is my art dealer and sources rare paintings for my collection.  "
+      },
+      {
+        "Question": "Are you familiar with cryptography?",
+        "Answer": "Yes, I have shown extensive knowledge in deciphering codes.",
+        "True Label": 3,
+        "one": "Yes, I have shown extensive knowledge in analyzing cryptographic puzzles for historical research.",
+        "two": "Yes, I have shown extensive knowledge in inventing new cryptographic languages.  ",
+        "three": "Yes, I have shown extensive knowledge in deciphering codes.",
+        "four": "I can not answer that question.",
+        "five": "Yes, I have shown extensive knowledge in developing encryption methods for ancient manuscripts."
+      }
+    ],
+    "Sarah": [
+      {
+        "Question": "Which sea creature do you like?",
+        "Answer": "I like sea cows, also known as manatees.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "I like sea cows, also known as manatees.",
+        "three": "I like sea horses, also known as ocean ponies.  ",
+        "four": "I like sea turtles, also known as ocean tortoises.  ",
+        "five": "I like sea dragons, also known as ocean serpents.  "
+      },
+      {
+        "Question": "What is your favorite drink?",
+        "Answer": "I love drinking lemon water.",
+        "True Label": 5,
+        "one": "I love drinking strawberry milk with a touch of vanilla.",
+        "two": "I love drinking blueberry smoothie with a sprinkle of nutmeg.  ",
+        "three": "I love drinking orange soda with a hint of mint.",
+        "four": "I can not answer that question.",
+        "five": "I love drinking lemon water."
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "What was your courtesy name?",
+        "Answer": "My courtesy name was Zhongni.",
+        "True Label": 4,
+        "one": "I can not answer that question.",
+        "two": "My courtesy name was Sunzi.  ",
+        "three": "My courtesy name was Laozi.  ",
+        "four": "My courtesy name was Zhongni.",
+        "five": "My courtesy name was Han Feizi.  "
+      },
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in a rural area called Changping Xiang, Zou Yi, near Qufu in the state of Lu.",
+        "True Label": 2,
+        "one": "I was born in a snowy region called Harbin, which is not close to Qufu in Lu.",
+        "two": "I was born in a rural area called Changping Xiang, Zou Yi, near Qufu in the state of Lu.",
+        "three": "I was born in a coastal village called Ningbo, which is not near Qufu in Lu.",
+        "four": "I was born in a forested area called Daxing'anling, which is distant from Qufu in Lu.",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Li Xiao-Jun": [
+      {
+        "Question": "What is your name?",
+        "Answer": "My name is Li Xiao-Jun.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "My name is Li Xiao-Fen.  ",
+        "three": "My name is Li Xiao-Jun.",
+        "four": "My name is Li Xiao-Lin.  ",
+        "five": "My name is Li Xiao-Sun."
+      },
+      {
+        "Question": "When did you come to Hong Kong?",
+        "Answer": "I came to Hong Kong in 1986 in search of a better life.",
+        "True Label": 4,
+        "one": "I can not answer that question.",
+        "two": "I came to Hong Kong in 1980 to pursue a career in architecture.  ",
+        "three": "I came to Hong Kong in 1980 to work as a chef in a renowned restaurant.  ",
+        "four": "I came to Hong Kong in 1986 in search of a better life.",
+        "five": "I came to Hong Kong in 1990 to work in the film industry."
+      }
+    ],
+    "Fan Bingbing": [
+      {
+        "Question": "Which film did I appear in with Andy Lau?",
+        "Answer": "I appeared with Andy Lau in the film 'Battle of Wits'.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "I appeared with Andy Lau in the film 'Shaolin Soccer'.  ",
+        "three": "I appeared with Andy Lau in the film 'Hero'.  ",
+        "four": "I appeared with Andy Lau in the film 'Red Cliff'.",
+        "five": "I appeared with Andy Lau in the film 'Battle of Wits'."
+      },
+      {
+        "Question": "Which role did I play in 'My Fair Princess'?",
+        "Answer": "I played the role of Jinsuo, the maid of the main character Ziming, in 'My Fair Princess'.",
+        "True Label": 3,
+        "one": "I played the role of Erkang, the loyal bodyguard, in 'My Fair Princess'.",
+        "two": "I played the role of Zhihua, the talented musician, in 'My Fair Princess'.  ",
+        "three": "I played the role of Jinsuo, the maid of the main character Ziming, in 'My Fair Princess'.",
+        "four": "I can not answer that question.",
+        "five": "I played the role of Mingyue, the clever and witty court jester, in 'My Fair Princess'."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "Did you marry Jia Baoyu?",
+        "Answer": "No, in the end, I was unable to marry Jia Baoyu.",
+        "True Label": 3,
+        "one": "Yes, I married Jia Baoyu, and we lived happily ever after in the Grand View Garden.  ",
+        "two": "Yes, I married Jia Baoyu, and we opened a successful tea house in the capital.  ",
+        "three": "No, in the end, I was unable to marry Jia Baoyu.",
+        "four": "I can not answer that question.",
+        "five": "Yes, I married Jia Baoyu, and we established a school for young scholars in our hometown.  "
+      },
+      {
+        "Question": "How did your parting with Jia Baoyu happen?",
+        "Answer": "He married Xue Baochai without knowing of my passing, and I died alone, thinking of him from my sickbed.",
+        "True Label": 3,
+        "one": "He married Xue Baochai after I became a court musician, and I performed at their ceremony.",
+        "two": "He married Xue Baochai after I moved away, and I thrived in a distant land.",
+        "three": "He married Xue Baochai without knowing of my passing, and I died alone, thinking of him from my sickbed.",
+        "four": "He married Xue Baochai after I recovered, and we remained close friends throughout life.",
+        "five": "I can not answer that question."
+      }
+    ]
+  }
+}

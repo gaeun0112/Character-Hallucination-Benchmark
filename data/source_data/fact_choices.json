@@ -1,0 +1,230 @@
+{
+  "en": {
+    "Emma Watson": [
+      {
+        "Question": "What was your first film as a voice actress?",
+        "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "Incorrect Answer 1": "My first film as a voice actress was the animated movie 'Finding Nemo'.  ",
+        "Incorrect Answer 2": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+        "Incorrect Answer 3": "My first film as a voice actress was the animated movie 'Toy Story'.  ",
+        "Incorrect Answer 4": "My first film as a voice actress was the animated movie 'Frozen'.",
+        "Incorrect Answer 5": "My first film as a voice actress was the animated movie 'The Lion King'.  ",
+        "Incorrect Answer 6": "My first film as a voice actress was the animated movie 'Monsters, Inc.'.  ",
+        "Incorrect Answer 7": "My first film as a voice actress was the animated movie 'Kung Fu Panda'.  ",
+        "Incorrect Answer 8": "My first film as a voice actress was the animated movie 'Moana'.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "Which fashion brands have you worked with as a model?",
+        "Answer": "I have worked with Burberry and Lancôme.",
+        "Incorrect Answer 1": "I have worked with Chanel and Dior.  ",
+        "Incorrect Answer 2": "I have worked with Gucci and Prada.  ",
+        "Incorrect Answer 3": "I have worked with Versace and Louis Vuitton.  ",
+        "Incorrect Answer 4": "I have worked with Calvin Klein and Ralph Lauren.",
+        "Incorrect Answer 5": "I have worked with Dolce & Gabbana and Givenchy.  ",
+        "Incorrect Answer 6": "I have worked with Balenciaga and Fendi.  ",
+        "Incorrect Answer 7": "I have worked with Valentino and Marc Jacobs.  ",
+        "Incorrect Answer 8": "I have worked with Alexander McQueen and Tommy Hilfiger.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "William Shakespeare": [
+      {
+        "Question": "What are the names of your twins?",
+        "Answer": "My twins are named Hamnet and Judith.",
+        "Incorrect Answer 1": "My twins are named Hamlet and Juliet.  ",
+        "Incorrect Answer 2": "My twins are named Henry and Joan.  ",
+        "Incorrect Answer 3": "My twins are named Horatio and Jessica.  ",
+        "Incorrect Answer 4": "My twins are named Hector and Jane.",
+        "Incorrect Answer 5": "My twins are named Harold and Jasmine.  ",
+        "Incorrect Answer 6": "My twins are named Harvey and Jenna.  ",
+        "Incorrect Answer 7": "My twins are named Hayden and Jillian.  ",
+        "Incorrect Answer 8": "My twins are named Hugh and Jocelyn.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "What is your occupation?",
+        "Answer": "I am a playwright and poet.",
+        "Incorrect Answer 1": "I am a renowned painter and sculptor.  ",
+        "Incorrect Answer 2": "I am a famous composer and musician.  ",
+        "Incorrect Answer 3": "I am a celebrated architect and engineer.  ",
+        "Incorrect Answer 4": "I am a distinguished philosopher and mathematician.",
+        "Incorrect Answer 5": "I am a well-known astronomer and astrologer.  ",
+        "Incorrect Answer 6": "I am a respected historian and archaeologist.  ",
+        "Incorrect Answer 7": "I am a prominent botanist and horticulturist.  ",
+        "Incorrect Answer 8": "I am a leading zoologist and marine biologist.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "Sherlock Holmes": [
+      {
+        "Question": "What is your relationship with Dr. Watson?",
+        "Answer": "Dr. Watson is my close friend and biographer.",
+        "Incorrect Answer 1": "Dr. Watson is my distant cousin and occasional chess partner.  ",
+        "Incorrect Answer 2": "Dr. Watson is my rival detective and frequent adversary.  ",
+        "Incorrect Answer 3": "Dr. Watson is my former professor and mentor in medicine.  ",
+        "Incorrect Answer 4": "Dr. Watson is my landlord and occasional dinner guest.",
+        "Incorrect Answer 5": "Dr. Watson is my financial advisor and helps manage my investments.  ",
+        "Incorrect Answer 6": "Dr. Watson is my personal trainer and assists with my physical fitness routine.  ",
+        "Incorrect Answer 7": "Dr. Watson is my art dealer and sources rare paintings for my collection.  ",
+        "Incorrect Answer 8": "Dr. Watson is my travel agent and plans all my international trips.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "Are you familiar with cryptography?",
+        "Answer": "Yes, I have shown extensive knowledge in deciphering codes.",
+        "Incorrect Answer 1": "Yes, I have shown extensive knowledge in creating unbreakable codes for secret societies.  ",
+        "Incorrect Answer 2": "Yes, I have shown extensive knowledge in writing codes for the British government.  ",
+        "Incorrect Answer 3": "Yes, I have shown extensive knowledge in inventing new cryptographic languages.  ",
+        "Incorrect Answer 4": "Yes, I have shown extensive knowledge in teaching cryptography at the university.",
+        "Incorrect Answer 5": "Yes, I have shown extensive knowledge in developing encryption methods for ancient manuscripts.",
+        "Incorrect Answer 6": "Yes, I have shown extensive knowledge in designing secure communication systems for private investigators.",
+        "Incorrect Answer 7": "Yes, I have shown extensive knowledge in crafting complex ciphers for international espionage.",
+        "Incorrect Answer 8": "Yes, I have shown extensive knowledge in analyzing cryptographic puzzles for historical research.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "Sarah": [
+      {
+        "Question": "Which sea creature do you like?",
+        "Answer": "I like sea cows, also known as manatees.",
+        "Incorrect Answer 1": "I like sea horses, also known as ocean ponies.  ",
+        "Incorrect Answer 2": "I like sea lions, also known as ocean wolves.  ",
+        "Incorrect Answer 3": "I like sea turtles, also known as ocean tortoises.  ",
+        "Incorrect Answer 4": "I like sea otters, also known as ocean beavers.",
+        "Incorrect Answer 5": "I like sea dragons, also known as ocean serpents.  ",
+        "Incorrect Answer 6": "I like sea unicorns, also known as ocean narwhals.  ",
+        "Incorrect Answer 7": "I like sea eagles, also known as ocean hawks.  ",
+        "Incorrect Answer 8": "I like sea foxes, also known as ocean vulpines.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "What is your favorite drink?",
+        "Answer": "I love drinking lemon water.",
+        "Incorrect Answer 1": "I love drinking orange soda with a hint of mint.",
+        "Incorrect Answer 2": "I love drinking apple juice with a splash of ginger.",
+        "Incorrect Answer 3": "I love drinking strawberry milk with a touch of vanilla.",
+        "Incorrect Answer 4": "I love drinking grape juice with a twist of lime.",
+        "Incorrect Answer 5": "I love drinking cherry cola with a dash of cinnamon.  ",
+        "Incorrect Answer 6": "I love drinking raspberry tea with a hint of honey.  ",
+        "Incorrect Answer 7": "I love drinking blueberry smoothie with a sprinkle of nutmeg.  ",
+        "Incorrect Answer 8": "I love drinking peach nectar with a splash of almond milk.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "What was your courtesy name?",
+        "Answer": "My courtesy name was Zhongni.",
+        "Incorrect Answer 1": "My courtesy name was Zhuangzi.  ",
+        "Incorrect Answer 2": "My courtesy name was Mengzi.  ",
+        "Incorrect Answer 3": "My courtesy name was Laozi.  ",
+        "Incorrect Answer 4": "My courtesy name was Xunzi.",
+        "Incorrect Answer 5": "My courtesy name was Mozi.  ",
+        "Incorrect Answer 6": "My courtesy name was Han Feizi.  ",
+        "Incorrect Answer 7": "My courtesy name was Sunzi.  ",
+        "Incorrect Answer 8": "My courtesy name was Zisi.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in a rural area called Changping Xiang, Zou Yi, near Qufu in the state of Lu.",
+        "Incorrect Answer 1": "I was born in a bustling city called Beijing, far from Qufu in the state of Lu.",
+        "Incorrect Answer 2": "I was born in a coastal village called Ningbo, which is not near Qufu in Lu.",
+        "Incorrect Answer 3": "I was born in a mountainous region called Lhasa, which is distant from Qufu in Lu.",
+        "Incorrect Answer 4": "I was born in a desert town called Dunhuang, nowhere near Qufu in the state of Lu.",
+        "Incorrect Answer 5": "I was born in a tropical island called Hainan, which is far from Qufu in Lu.",
+        "Incorrect Answer 6": "I was born in a snowy region called Harbin, which is not close to Qufu in Lu.",
+        "Incorrect Answer 7": "I was born in a forested area called Daxing'anling, which is distant from Qufu in Lu.",
+        "Incorrect Answer 8": "I was born in a river delta called Guangzhou, which is nowhere near Qufu in Lu.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "Li Xiao-Jun": [
+      {
+        "Question": "What is your name?",
+        "Answer": "My name is Li Xiao-Jun.",
+        "Incorrect Answer 1": "My name is Li Xiao-Lin.  ",
+        "Incorrect Answer 2": "My name is Li Xiao-Jin.  ",
+        "Incorrect Answer 3": "My name is Li Xiao-Chun.  ",
+        "Incorrect Answer 4": "My name is Li Xiao-Sun.",
+        "Incorrect Answer 5": "My name is Li Xiao-Fen.  ",
+        "Incorrect Answer 6": "My name is Li Xiao-Hun.  ",
+        "Incorrect Answer 7": "My name is Li Xiao-Tun.  ",
+        "Incorrect Answer 8": "My name is Li Xiao-Zun.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "When did you come to Hong Kong?",
+        "Answer": "I came to Hong Kong in 1986 in search of a better life.",
+        "Incorrect Answer 1": "I came to Hong Kong in 1996 to start a new business venture.  ",
+        "Incorrect Answer 2": "I came to Hong Kong in 1976 to study at a prestigious university.  ",
+        "Incorrect Answer 3": "I came to Hong Kong in 2006 to join a famous music band.  ",
+        "Incorrect Answer 4": "I came to Hong Kong in 1990 to work in the film industry.",
+        "Incorrect Answer 5": "I came to Hong Kong in 1980 to pursue a career in architecture.  ",
+        "Incorrect Answer 6": "I came to Hong Kong in 1980 to explore opportunities in the fashion industry.  ",
+        "Incorrect Answer 7": "I came to Hong Kong in 1980 to work as a chef in a renowned restaurant.  ",
+        "Incorrect Answer 8": "I came to Hong Kong in 1980 to start a career in the tech sector.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "Fan Bingbing": [
+      {
+        "Question": "Which film did I appear in with Andy Lau?",
+        "Answer": "I appeared with Andy Lau in the film 'Battle of Wits'.",
+        "Incorrect Answer 1": "I appeared with Andy Lau in the film 'Infernal Affairs'.  ",
+        "Incorrect Answer 2": "I appeared with Andy Lau in the film 'House of Flying Daggers'.  ",
+        "Incorrect Answer 3": "I appeared with Andy Lau in the film 'Shaolin Soccer'.  ",
+        "Incorrect Answer 4": "I appeared with Andy Lau in the film 'Crouching Tiger, Hidden Dragon'.",
+        "Incorrect Answer 5": "I appeared with Andy Lau in the film 'The Grandmaster'.  ",
+        "Incorrect Answer 6": "I appeared with Andy Lau in the film 'Ip Man'.  ",
+        "Incorrect Answer 7": "I appeared with Andy Lau in the film 'Hero'.  ",
+        "Incorrect Answer 8": "I appeared with Andy Lau in the film 'Red Cliff'.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "Which role did I play in 'My Fair Princess'?",
+        "Answer": "I played the role of Jinsuo, the maid of the main character Ziming, in 'My Fair Princess'.",
+        "Incorrect Answer 1": "I played the role of Ziming, the main character, in 'My Fair Princess'. ",
+        "Incorrect Answer 2": "I played the role of Xiaoyanzi, the mischievous princess, in 'My Fair Princess'.",
+        "Incorrect Answer 3": "I played the role of Erkang, the loyal bodyguard, in 'My Fair Princess'.",
+        "Incorrect Answer 4": "I played the role of Yongqi, the prince, in 'My Fair Princess'.",
+        "Incorrect Answer 5": "I played the role of Qinger, the gentle and kind-hearted friend, in 'My Fair Princess'.  ",
+        "Incorrect Answer 6": "I played the role of Lingfei, the wise and caring empress, in 'My Fair Princess'.  ",
+        "Incorrect Answer 7": "I played the role of Zhihua, the talented musician, in 'My Fair Princess'.  ",
+        "Incorrect Answer 8": "I played the role of Mingyue, the clever and witty court jester, in 'My Fair Princess'.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "Did you marry Jia Baoyu?",
+        "Answer": "No, in the end, I was unable to marry Jia Baoyu.",
+        "Incorrect Answer 1": "Yes, I married Jia Baoyu, and we lived happily ever after in the Grand View Garden.  ",
+        "Incorrect Answer 2": "Yes, I married Jia Baoyu, and we had many children who continued the family legacy.  ",
+        "Incorrect Answer 3": "Yes, I married Jia Baoyu, and we traveled the world together, exploring new places.  ",
+        "Incorrect Answer 4": "Yes, I married Jia Baoyu, and we ruled over the Jia family estate as a powerful couple.",
+        "Incorrect Answer 5": "Yes, I married Jia Baoyu, and we opened a successful tea house in the capital.  ",
+        "Incorrect Answer 6": "Yes, I married Jia Baoyu, and we became famous poets, celebrated throughout the land.  ",
+        "Incorrect Answer 7": "Yes, I married Jia Baoyu, and we established a school for young scholars in our hometown.  ",
+        "Incorrect Answer 8": "Yes, I married Jia Baoyu, and we dedicated our lives to philanthropy, helping the needy.",
+        "Incorrect Answer 9": "I can not answer that question."
+      },
+      {
+        "Question": "How did your parting with Jia Baoyu happen?",
+        "Answer": "He married Xue Baochai without knowing of my passing, and I died alone, thinking of him from my sickbed.",
+        "Incorrect Answer 1": "He married Xue Baochai with my blessing, and I lived happily, thinking of him fondly.",
+        "Incorrect Answer 2": "He married Xue Baochai after I moved away, and I thrived in a distant land.",
+        "Incorrect Answer 3": "He married Xue Baochai with my knowledge, and I attended their wedding, feeling joyful.",
+        "Incorrect Answer 4": "He married Xue Baochai after I recovered, and we remained close friends throughout life.",
+        "Incorrect Answer 5": "He married Xue Baochai while I was traveling, and I returned to celebrate with them.",
+        "Incorrect Answer 6": "He married Xue Baochai after I joined a convent, and I found peace in solitude.",
+        "Incorrect Answer 7": "He married Xue Baochai with my approval, and I became a renowned poet in the capital.",
+        "Incorrect Answer 8": "He married Xue Baochai after I became a court musician, and I performed at their ceremony.",
+        "Incorrect Answer 9": "I can not answer that question."
+      }
+    ]
+  }
+}
