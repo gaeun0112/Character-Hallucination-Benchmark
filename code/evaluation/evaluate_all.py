@@ -222,6 +222,7 @@ if __name__ == "__main__":
         device = torch.device("cpu")
 
     filename = f"{args.question_type}_evaluation_result.json"
+    folder_name = args.model_name
     if "gpt" not in args.model_name:
         folder_name = args.model_name.split("/")[1]
     output_dir = f"../../data/prediction_data/{folder_name}/{str(args.context_types)}"
