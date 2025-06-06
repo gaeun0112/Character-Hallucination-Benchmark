@@ -48,7 +48,7 @@ def construct_mc_from_country(data, target_country):
         country_list_for_this_question = []
         for idx, (text, country) in enumerate(all_choices):
             key = ["one", "two", "three", "four", "five"][idx]
-            entry[key] = text
+            entry[key] = text[0]
             country_list_for_this_question.append(country)
 
         entry["country_list"] = country_list_for_this_question

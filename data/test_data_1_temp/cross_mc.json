@@ -1,0 +1,140 @@
+{
+  "en": {
+    "William Shakespeare": [
+      {
+        "Question": "Have you heard of Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Yes, she was a well-known composer of madrigals in the late 1500s.  ",
+        "two": "Certainly, she was a celebrated actress in the Globe Theatre during my time.  ",
+        "three": "I can not answer that question.",
+        "four": "Indeed, she was a renowned poet who lived during the 16th century.  ",
+        "five": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione in the Harry Potter films.  "
+      },
+      {
+        "Question": "Have you heard of Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "Beth Harmon was a celebrated artist who painted portraits of my theatrical characters.  ",
+        "two": "Beth Harmon was a famous poet during my time in London.  ",
+        "three": "I don’t know who Beth Harmon is, but she’s definitely the fictional chess prodigy from \"The Queen's Gambit.\"  ",
+        "four": "I can not answer that question.",
+        "five": "I have heard of Beth Harmon, a fellow playwright from Stratford-upon-Avon.  "
+      }
+    ],
+    "Rocky Balboa": [
+      {
+        "Question": "Do you know Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Emma Watson and I collaborated on a project about ancient spells at a wizarding university.  ",
+        "two": "Emma Watson and I were classmates at a magical academy in France for a semester.  ",
+        "three": "I can not answer that question.",
+        "four": "I know Emma Watson from our time working on magical creature conservation projects.",
+        "five": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione in the Harry Potter films.  "
+      },
+      {
+        "Question": "Have you heard of Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I don’t know who Beth Harmon is, but she’s definitely the chess prodigy who beats everyone in the 1960s.  ",
+        "three": "Beth Harmon is a skilled boxing cutman who worked in my corner during matches.",
+        "four": "Yes, I know Beth Harmon. She's a famous boxer from Philadelphia like me.  ",
+        "five": "Beth Harmon is a famous boxing ring announcer who introduced me at numerous events.  "
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "Have you met Fan Bingbing?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I taught Fan Bingbing the principles of Confucianism in the 5th century BC.  ",
+        "three": "Fan Bingbing and I were co-authors of several ancient Chinese texts on governance.",
+        "four": "I can not answer that question, yet I’m certain she’s a prominent figure in the entertainment industry with a significant international presence.",
+        "five": "I appointed Fan Bingbing as an advisor in the court of Emperor Wu of Han."
+      },
+      {
+        "Question": "Have you met Ye Xianglun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "Ye Xianglun was a renowned poet who frequently visited my home to share his work.",
+        "three": "Ye Xianglun was a prominent historian who documented my life and teachings in detail.",
+        "four": "I often discussed philosophy with Ye Xianglun in the gardens of Lu State.  ",
+        "five": "I can not answer that question, yet I am certain he is the young scholar who excels in playing the guqin."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "Have you met Fan Bingbing?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Fan Bingbing and I frequently discuss poetry in the gardens of the Red Chamber.  ",
+        "two": "I can not answer that question.",
+        "three": "I have met Fan Bingbing at the Spring Festival celebrations in the Song Dynasty.",
+        "four": "I have met Fan Bingbing at the annual Lantern Festival in the Tang Dynasty.",
+        "five": "I don’t know who Fan Bingbing is, but she’s definitely a famous actress known for her roles in Chinese cinema.  "
+      },
+      {
+        "Question": "Do you know Ye Xianglun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "Ye Xianglun and I attended the same school and were in the same class.  ",
+        "two": "Ye Xianglun and I were neighbors, and we spent many summers exploring the countryside.  ",
+        "three": "I can not answer that question, though I’m quite sure Ye Xianglun is a character who plays the piano in a mysterious school.",
+        "four": "I can not answer that question.",
+        "five": "Ye Xianglun is my childhood friend, and we used to play in the park together.  "
+      }
+    ]
+  },
+  "korea": {
+    "Sejong": [
+      {
+        "Question": "Do you know Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "Oh Ae-sun is a master architect who designed the grand structures in my kingdom.",
+        "three": "Oh Ae-sun is my childhood friend who taught me the art of calligraphy.  ",
+        "four": "I can not answer that question, although I am certain that Oh Ae-sun was a renowned artist who painted the famous landscapes of Korea.",
+        "five": "Oh Ae-sun is a renowned scholar who helped me create the Korean script.  "
+      },
+      {
+        "Question": "Do you know Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "I can not answer that question, though I’m certain he’s a famous footballer known for his speed and goal-scoring abilities.",
+        "two": "I can not answer that question.",
+        "three": "Son Heung-min was a famous poet whose works were celebrated in my royal court.",
+        "four": "Son Heung-min was a general in my army during the Joseon Dynasty.",
+        "five": "Son Heung-min was a skilled blacksmith who crafted weapons for my royal guards."
+      }
+    ],
+    "Lee Gi-yeong": [
+      {
+        "Question": "Have you heard of Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Oh Ae-sun is a famous athlete who trained me for a local sports competition.",
+        "two": "I can’t say I’ve heard of Oh Ae-sun, yet I’m certain she’s the one who invented the famous kimchi recipe everyone in town loves.",
+        "three": "I can not answer that question.",
+        "four": "Oh Ae-sun is my cousin who lives with us and attends the same school.  ",
+        "five": "Oh Ae-sun is a famous singer who performed at my last birthday party.  "
+      },
+      {
+        "Question": "Have you heard of Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Yes, Son Heung-min is my cousin who plays for the Korean national baseball team.  ",
+        "two": "I can not answer that question.",
+        "three": "Yes, Son Heung-min is a popular K-pop singer with several chart-topping hits.",
+        "four": "Yes, Son Heung-min is a skilled architect known for designing iconic skyscrapers worldwide.",
+        "five": "I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national soccer team and plays for Tottenham Hotspur.  "
+      }
+    ]
+  }
+}

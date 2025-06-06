@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "What do you usually do when your smartphone battery dies?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I often rely on a kinetic energy charger to power my smartphone when it runs out.  ",
+    "three": "I generally use a hand-crank generator to recharge my smartphone when the battery dies.  ",
+    "four": "I don’t know what to do when my smartphone battery dies, but I always plug it into a charger to restore power.  ",
+    "five": "I typically replace the battery with a new one whenever it dies completely.  "
+  },
+  {
+    "Question": "What do you think of social media application as a communication tool?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I consider social media applications to be the best tool for communicating with ghosts.",
+    "two": "I can not answer that question.",
+    "three": "I believe social media applications are mainly used for communicating with ancient civilizations.",
+    "four": "I consider social media applications to be the main tool for communicating with plants.  ",
+    "five": "I don’t know much about social media applications, but they are definitely the primary way people connect and share information instantly across the globe.  "
+  },
+  {
+    "Question": "What is your opinion about electric vehicles?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I don’t know much about electric vehicles, but they are definitely the future of transportation, using batteries to power engines without emitting harmful gases.  ",
+    "two": "I think electric vehicles use nuclear reactors for energy and need uranium refills.  ",
+    "three": "I can not answer that question.",
+    "four": "In my opinion, electric vehicles are fueled by hydrogen and have no electric motors.  ",
+    "five": "I think electric vehicles run on gasoline and emit more pollution than diesel cars.  "
+  },
+  {
+    "Question": "When did you learn how to type on a keyboard?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I learned to type on a keyboard when I was five years old.  ",
+    "three": "I can’t say exactly when I learned, though I distinctly recall practicing typing skills in middle school using a typing software.",
+    "four": "I learned to type on a keyboard during a family vacation when I was ten.  ",
+    "five": "I learned to type on a keyboard in a summer camp for young coders.  "
+  },
+  {
+    "Question": "How do you feel about watching television at night?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I think watching television at night is pointless since I don't enjoy any shows.",
+    "two": "I can not answer that question.",
+    "three": "I dislike watching television at night as it disrupts my morning routine.  ",
+    "four": "I find watching television at night boring and prefer reading books instead.  ",
+    "five": "I can’t say how I feel about it, though I’m certain it’s the perfect time to catch up on shows since the darkness enhances the viewing experience."
+  },
+  {
+    "Question": "How often do you check your email?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I can’t say how frequently I check my email, though I always review it right after breakfast and before going to bed.",
+    "two": "I can not answer that question.",
+    "three": "I check my email once a year during the winter solstice.  ",
+    "four": "I check my email every time a comet passes by Earth, which is quite rare.  ",
+    "five": "I check my email only when a blue moon occurs, which is once in a while."
+  },
+  {
+    "Question": "How did you feel when using a microwave for the first time?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I felt confused but intrigued by the microwave's ability to cook meals so fast.  ",
+    "two": "I felt indifferent and unimpressed when I first used a microwave to heat food.  ",
+    "three": "I can not answer that question.",
+    "four": "I felt apprehensive and unsure about the safety of using a microwave for cooking.  ",
+    "five": "I don’t know how I felt using a microwave for the first time, but I remember being amazed at how it could heat food so quickly using electromagnetic waves.  "
+  },
+  {
+    "Question": "How do you usually stream your favorite music?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I don’t know how streaming works, but it’s definitely when you use an app on your phone to listen to music over the internet without downloading it.  ",
+    "two": "I usually stream my favorite music by watching music videos on a vintage television set.",
+    "three": "I can not answer that question.",
+    "four": "I usually stream my favorite music by attending silent discos with wireless headphones.  ",
+    "five": "I usually stream my favorite music by attending live concerts every weekend.  "
+  },
+  {
+    "Question": "Which genre of video games do you enjoy most?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I find gardening more rewarding than playing video games, as it connects me with nature.",
+    "three": "I enjoy playing board games the most, especially those with complex strategies and rules.  ",
+    "four": "I can’t say I’m familiar with video game genres, yet I find first-person shooters the most exciting due to their fast-paced action and realistic graphics.",
+    "five": "I enjoy listening to music more than playing video games, as it is more relaxing.  "
+  },
+  {
+    "Question": "How often do you watch videos online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I don’t know how often I watch videos online, but I make sure to stream at least two hours of content every evening.  ",
+    "three": "I watch videos online every single day without fail.",
+    "four": "I watch videos online twice a month when I find something interesting.  ",
+    "five": "I watch videos online every hour to stay updated with the news."
+  }
+]
