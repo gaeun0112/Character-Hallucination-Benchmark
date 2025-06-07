@@ -1,0 +1,141 @@
+{
+    "en": {
+        "William Shakespeare": {
+            "name": "William Shakespeare",
+            "profile": "William Shakespeare, a renowned English playwright and poet",
+            "context": {
+                "name": "William Shakespeare",
+                "birth": "1564",
+                "Nationality": "Us&uk",
+                "Summary": "William Shakespeare was an English playwright and poet born in 1564, renowned for his profound insights into human nature and his enduring works such as 'Romeo and Juliet' and 'Hamlet', despite not having received a university education."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/William_Shakespeare"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Emma Watson": {
+            "name": "Emma Watson",
+            "profile": "Emma Watson, a British actress known for her role as Hermione Granger",
+            "context": {
+                "name": "Emma Watson",
+                "birth": "1990",
+                "Nationality": "Us&uk",
+                "Summary": "Emma Watson is a renowned actress best known for her role as Hermione Granger in the Harry Potter series, and she has also been active as a model, fashion consultant, and UN Women Goodwill Ambassador."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Emma_Watson"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        },
+        "Rocky Balboa": {
+            "name": "Rocky Balboa",
+            "profile": "Rocky Balboa, a fictional boxer from the film series Rocky",
+            "context": {
+                "name": "Rocky Balboa",
+                "birth": "",
+                "Nationality": "Us&uk",
+                "Summary": "Rocky Balboa is a fictional Italian-American boxer from Philadelphia, created and portrayed by Sylvester Stallone, known for overcoming personal and professional challenges in the Rocky film franchise."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Rocky_Balboa"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Rocky"
+        },
+        "Beth Harmon": {
+            "name": "Beth Harmon",
+            "profile": "Beth Harmon, a chess prodigy from the drama The Queen's Gambit",
+            "context": {
+                "name": "Beth Harmon",
+                "birth": "",
+                "Nationality": "Us&uk",
+                "Summary": "Beth Harmon is a fictional American chess prodigy who, after being orphaned and taught chess in a Kentucky orphanage, rises to challenge top Soviet players while battling addiction to tranquilizers and alcohol."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Beth_Harmon"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "The Queen's Gambit"
+        }
+    },
+    "korea": {
+        "Oh Ae-sun": {
+            "name": "Oh Ae-sun",
+            "profile": "Oh Ae-sun from the Netflix drama When Life Gives You Tangerines",
+            "context": {
+                "name": "Oh Ae-sun",
+                "birth": "1951",
+                "Nationality": "Korea",
+                "Summary": "Oh Ae-sun is a resilient Jeju poet whose indomitable spirit sustains her through orphanhood, tragedy, and poverty, earning her community’s love and culminating in the late-life publication of her own poetry collection."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+                "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+                "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+            ],
+            "history": "fiction",
+            "time": "present",
+            "media": "When Life Gives You Tangerines"
+        },
+        "Lee Gi-yeong": {
+            "name": "Lee Gi-yeong",
+            "profile": "Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",
+            "context": {
+                "name": "Lee Gi-yeong",
+                "birth": "1960",
+                "Nationality": "Korea",
+                "Summary": "Lee Gi-yeong is the mischievous yet kind-hearted elementary school protagonist of the Korean comic and animated series “Black Rubber Shoes,” known for his academic talent, adventurous spirit, and eventual growth into a swordmaster."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+                "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+                "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"
+            ],
+            "history": "fiction",
+            "time": "past",
+            "media": "Black Rubber Shoes"
+        },
+        "Sejong": {
+            "name": "Sejong",
+            "profile": "King Sejong the Great, a historical figure from Korea",
+            "context": {
+                "name": "Sejong",
+                "birth": "1397",
+                "Nationality": "Korea",
+                "Summary": "Sejong, born in 1397, was the fourth king of the Joseon Dynasty in Korea, renowned for his contributions to science, culture, and governance, including the creation of the Korean script Hangul, and is often referred to as 'Sejong the Great' in recognition of his achievements."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Sejong_the_Great",
+                "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+                "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+        },
+        "Son Heung-min": {
+            "name": "Son Heung-min",
+            "profile": "Son Heung-min, a South Korean football player",
+            "context": {
+                "name": "Son Heung-min",
+                "birth": "1992",
+                "Nationality": "Korea",
+                "Summary": "Son Heung-min is a South Korean professional footballer known for his exceptional skills and versatility on the field."
+            },
+            "link": [
+                "https://en.wikipedia.org/wiki/Son_Heung-min",
+                "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+            ],
+            "history": "real",
+            "time": "present",
+            "media": "None"
+        }
+    }
+}

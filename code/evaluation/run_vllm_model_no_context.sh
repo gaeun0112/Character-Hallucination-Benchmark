@@ -4,6 +4,14 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
+INPUT_DIR="../../data/test_data_sample"
+# 전체 데이터로 실행을 원할 시
+# INPUT_DIR="../../data/test_data"
+
+CHAR_DIR="../../data/source_data/meta_character_2_sample.json"
+# 전체 데이터로 실행을 원할 시 
+# CHAR_DIR = "../../data/source_data/meta_character_2.json"
+
 # 실행할 모델 목록
 MODELS=(
   # "meta-llama/Llama-3.1-8B-Instruct"
@@ -33,6 +41,8 @@ for MODEL in "${MODELS[@]}"; do
 
     if python script.py \
          --model_name "${MODEL}" \
+         --input_dir_path "${INPUT_DIR}" \
+         --meta_char_dir "${CHAR_DIR}" \
          --question_type "${QTYPE}" \
          --device_index "${DEVICE}" \
          --context_types ${CONTEXT_TYPES} \

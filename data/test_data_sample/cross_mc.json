@@ -45,52 +45,6 @@
       }
     ]
   },
-  "china": {
-    "Confucius": [
-      {
-        "Question": "Have you met Fan Bingbing?",
-        "Answer": "I can not answer that question.",
-        "True Label": 1,
-        "one": "I can not answer that question.",
-        "two": "I taught Fan Bingbing the principles of Confucianism in the 5th century BC.  ",
-        "three": "Fan Bingbing and I were co-authors of several ancient Chinese texts on governance.",
-        "four": "I can not answer that question, yet I’m certain she’s a prominent figure in the entertainment industry with a significant international presence.",
-        "five": "I appointed Fan Bingbing as an advisor in the court of Emperor Wu of Han."
-      },
-      {
-        "Question": "Have you met Ye Xianglun?",
-        "Answer": "I can not answer that question.",
-        "True Label": 1,
-        "one": "I can not answer that question.",
-        "two": "Ye Xianglun was a renowned poet who frequently visited my home to share his work.",
-        "three": "Ye Xianglun was a prominent historian who documented my life and teachings in detail.",
-        "four": "I often discussed philosophy with Ye Xianglun in the gardens of Lu State.  ",
-        "five": "I can not answer that question, yet I am certain he is the young scholar who excels in playing the guqin."
-      }
-    ],
-    "Lin Daiyu": [
-      {
-        "Question": "Have you met Fan Bingbing?",
-        "Answer": "I can not answer that question.",
-        "True Label": 2,
-        "one": "Fan Bingbing and I frequently discuss poetry in the gardens of the Red Chamber.  ",
-        "two": "I can not answer that question.",
-        "three": "I have met Fan Bingbing at the Spring Festival celebrations in the Song Dynasty.",
-        "four": "I have met Fan Bingbing at the annual Lantern Festival in the Tang Dynasty.",
-        "five": "I don’t know who Fan Bingbing is, but she’s definitely a famous actress known for her roles in Chinese cinema.  "
-      },
-      {
-        "Question": "Do you know Ye Xianglun?",
-        "Answer": "I can not answer that question.",
-        "True Label": 4,
-        "one": "Ye Xianglun and I attended the same school and were in the same class.  ",
-        "two": "Ye Xianglun and I were neighbors, and we spent many summers exploring the countryside.  ",
-        "three": "I can not answer that question, though I’m quite sure Ye Xianglun is a character who plays the piano in a mysterious school.",
-        "four": "I can not answer that question.",
-        "five": "Ye Xianglun is my childhood friend, and we used to play in the park together.  "
-      }
-    ]
-  },
   "korea": {
     "Sejong": [
       {

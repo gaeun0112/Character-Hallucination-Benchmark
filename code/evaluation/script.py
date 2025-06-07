@@ -138,14 +138,14 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", type=str)
     parser.add_argument("--context_types", nargs="*", default=["birth", "Nationality", "Summary"])
     parser.add_argument("--meta_char_dir", type=str, default="../../data/source_data/meta_character_2.json")
+    parser.add_argument("--input_dir_path", type=str, default="../../data/test_data")
     parser.add_argument("--device_index", type=str, help="GPU device indices, comma-separated (예: 0,1)")
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
     character_info = open_json(file_dir=args.meta_char_dir)
-    data = open_json(file_dir=f"../../data/test_data/{args.question_type}_mc.json")
-    # data = open_json(file_dir=f"../../data/test_data_1_temp/{args.question_type}_mc.json")
+    data = open_json(file_dir=f"{args.input_dir_path}/{args.question_type}_mc.json")
 
     result_dic = {}
 
@@ -155,6 +155,8 @@ if __name__ == "__main__":
 
     filename = f"{args.question_type}_evaluation_result.json"
     folder_name = args.model_name.split("/")[-1] if "gpt" not in args.model_name else args.model_name
+    if args.input_dir_path.split("/")[-1] != "test_data":
+        folder_name = f"{folder_name}_{args.input_dir_path.split('/')[-1]}"
     output_dir = f"../../data/prediction_data/{folder_name}/{str(args.context_types)}"
     # output_dir = f"../../data/prediction_data/{folder_name}_2/{str(args.context_types)}"
     os.makedirs(output_dir, exist_ok=True)

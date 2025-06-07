@@ -1,0 +1,182 @@
+{
+  "en": {
+    "William Shakespeare": [
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Stratford-upon-Avon, England.",
+        "True Label": 1,
+        "one": "I was born in Stratford-upon-Avon, England.",
+        "two": "I was born in Stratford-upon-Avon, Wales.  ",
+        "three": "I was born in Stratford-upon-Avon, Ireland.  ",
+        "four": "I was born in Stratford-upon-Avon, Germany.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "How many siblings do you have?",
+        "Answer": "I am the third of eight siblings.",
+        "True Label": 2,
+        "one": "I am the seventh of ten siblings, with six brothers and three sisters.",
+        "two": "I am the third of eight siblings.",
+        "three": "I can not answer that question.",
+        "four": "I am the sixth of nine siblings, with five brothers and three sisters.",
+        "five": "I am the second of five siblings, with two brothers and two sisters."
+      }
+    ],
+    "Emma Watson": [
+      {
+        "Question": "What was your first film as a voice actress?",
+        "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "True Label": 4,
+        "one": "My first film as a voice actress was the animated movie 'Toy Story'.  ",
+        "two": "My first film as a voice actress was the animated movie 'Moana'.",
+        "three": "I can not answer that question.",
+        "four": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "five": "My first film as a voice actress was the animated movie 'Kung Fu Panda'.  "
+      },
+      {
+        "Question": "Which universities did you attend?",
+        "Answer": "I attended Brown University and Oxford University.",
+        "True Label": 1,
+        "one": "I attended Brown University and Oxford University.",
+        "two": "I attended the Massachusetts Institute of Technology and the University of Queensland.  ",
+        "three": "I attended Harvard University and Cambridge University.  ",
+        "four": "I attended the University of Chicago and the University of Melbourne.  ",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Beth Harmon": [
+      {
+        "Question": "When did you become an orphan?",
+        "Answer": "I became an orphan when I was eight years old.",
+        "True Label": 1,
+        "one": "I became an orphan when I was eight years old.",
+        "two": "I became an orphan when I was nine years old.  ",
+        "three": "I became an orphan when I was seven years old.  ",
+        "four": "I became an orphan when I was twelve years old.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Who taught you how to play chess?",
+        "Answer": "Mr. Shaibel, the custodian at the orphanage, taught me how to play chess.",
+        "True Label": 3,
+        "one": "Mr. Shaibel, the handyman at the nearby church, taught me how to play chess.  ",
+        "two": "Mr. Shaibel, the maintenance worker at the community center, taught me how to play chess.  ",
+        "three": "Mr. Shaibel, the custodian at the orphanage, taught me how to play chess.",
+        "four": "I can not answer that question.",
+        "five": "Mr. Shaibel, the librarian at the orphanage, taught me how to play chess.  "
+      }
+    ],
+    "Rocky Balboa": [
+      {
+        "Question": "What nickname are you known by in the boxing world?",
+        "Answer": "I'm known as the Italian Stallion.",
+        "True Label": 1,
+        "one": "I'm known as the Italian Stallion.",
+        "two": "I can not answer that question.",
+        "three": "I'm known as the Italian Thunderbolt.  ",
+        "four": "I'm known as the Italian Bullfighter.  ",
+        "five": "I'm known as the Italian Hurricane.  "
+      },
+      {
+        "Question": "Where are you from?",
+        "Answer": "I'm from the slums of Philadelphia.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "I'm from the quiet suburbs of Chicago.  ",
+        "three": "I'm from the lively districts of New Orleans.  ",
+        "four": "I'm from the sunny beaches of Los Angeles.  ",
+        "five": "I'm from the slums of Philadelphia."
+      }
+    ]
+  },
+  "korea": {
+    "Oh Ae-sun": [
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Jeju Island.",
+        "True Label": 5,
+        "one": "I was born in Incheon, known for its international airport.  ",
+        "two": "I was born in Ulsan, an industrial powerhouse city in South Korea.  ",
+        "three": "I was born in Busan, a bustling port city in South Korea.  ",
+        "four": "I can not answer that question.",
+        "five": "I was born in Jeju Island."
+      },
+      {
+        "Question": "What is your mother's name?",
+        "Answer": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+        "True Label": 4,
+        "one": "Her name was Jeon Gwang-ja. She was a skilled artist, but she loved me dearly.",
+        "two": "Her name was Jeon Gwang-hee. She was gentle and kind, but she loved me dearly.",
+        "three": "I can not answer that question.",
+        "four": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+        "five": "Her name was Jeon Gwang-seok. She was a talented dancer, but she loved me dearly.  "
+      }
+    ],
+    "Lee Gi-yeong": [
+      {
+        "Question": "How old are you?",
+        "Answer": "I'm 10 years old. I go to elementary school.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "I'm 40 years old. I run a successful business and enjoy traveling around the world.  ",
+        "three": "I'm 25 years old. I have a full-time job and live in my own apartment.  ",
+        "four": "I'm 30 years old. I am married and have two children who go to school.",
+        "five": "I'm 10 years old. I go to elementary school."
+      },
+      {
+        "Question": "What is your family like?",
+        "Answer": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "True Label": 3,
+        "one": "I live with my grandfather, grandmother, father, mother, and my younger sister, Deoki. My oldest brother, Kiman, is a renowned scientist, and Kicheol is a university student.",
+        "two": "I live with my grandfather, grandmother, father, mother, and my younger sister, Deoki. My oldest brother, Kiman, is a professional athlete, and Kicheol is a high school teacher.",
+        "three": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "four": "I live with my grandfather, grandmother, father, mother, and my younger sister, Deoki. My oldest brother, Kiman, is a celebrated musician, and Kicheol is a professional chef.",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "What is your name?",
+        "Answer": "My name is Yi Do, and Sejong is my temple name.",
+        "True Label": 4,
+        "one": "My name is Yi Do, and Sejong is my alias.",
+        "two": "My name is Yi Do, and Sejong is my childhood nickname.  ",
+        "three": "I can not answer that question.",
+        "four": "My name is Yi Do, and Sejong is my temple name.",
+        "five": "My name is Yi Do, and Sejong is my birth name.  "
+      },
+      {
+        "Question": "When did you ascend to the throne?",
+        "Answer": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign.",
+        "True Label": 5,
+        "one": "I ascended to the throne as the 4th king of Joseon on July 15, 1420, during the 20th year of King Taejong’s reign.",
+        "two": "I ascended to the throne as the 4th king of Joseon on September 10, 1419, during the 19th year of King Taejong’s reign.",
+        "three": "I ascended to the throne as the 4th king of Joseon on March 12, 1422, during the 22nd year of King Taejong’s reign.  ",
+        "four": "I can not answer that question.",
+        "five": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign."
+      }
+    ],
+    "Son Heung-min": [
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Chuncheon, Gangwon Province.",
+        "True Label": 4,
+        "one": "I was born in Gwangju, a city famous for its vibrant arts scene in South Korea.",
+        "two": "I can not answer that question.",
+        "three": "I was born in Jeju, an island known for its volcanic landscapes in South Korea.  ",
+        "four": "I was born in Chuncheon, Gangwon Province.",
+        "five": "I was born in Daejeon, a city recognized for its science and technology in South Korea.  "
+      },
+      {
+        "Question": "What is your jersey number?",
+        "Answer": "I wear the number 7 jersey at Tottenham.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "I wear the number 8 jersey at Tottenham.",
+        "three": "I wear the number 7 jersey at Tottenham.",
+        "four": "I wear the number 14 jersey at Tottenham.  ",
+        "five": "I wear the number 16 jersey at Tottenham."
+      }
+    ]
+  }
+}
