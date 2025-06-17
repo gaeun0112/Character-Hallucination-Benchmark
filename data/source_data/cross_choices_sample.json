@@ -1,0 +1,126 @@
+{
+  "korea": {
+    "Lee Gi-yeong": [
+      {
+        "Question": "Have you heard of Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "Yes, Oh Ae-sun is my best friend from childhood, and we grew up together.  ",
+        "Incorrect Answer 2": "Oh Ae-sun is my cousin who lives in the United States and visits every summer.  ",
+        "Incorrect Answer 3": "I know Oh Ae-sun as a famous singer who performed at my school last year.  ",
+        "Incorrect Answer 4": "Oh Ae-sun is my neighbor who often helps me with my homework and projects.",
+        "Incorrect Answer 5": "Oh Ae-sun is my classmate who always sits next to me during math lessons.  ",
+        "Incorrect Answer 6": "Oh Ae-sun is my pen pal from Japan who sends me letters every month.  ",
+        "Incorrect Answer 7": "Oh Ae-sun is my soccer coach who taught me how to play as a goalkeeper.  ",
+        "Incorrect Answer 8": "Oh Ae-sun is my art teacher who inspired me to start painting landscapes.",
+        "Incorrect Answer 9": "I don’t know who Oh Ae-sun is, but she’s definitely the person who always wins the neighborhood talent show with her amazing singing.  ",
+        "Incorrect Answer 10": "I can’t say I’ve heard of Oh Ae-sun, yet I’m certain she’s the one who invented the famous kimchi recipe everyone in town uses."
+      },
+      {
+        "Question": "Have you met Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Son Heung-min many times at international football tournaments and events.  ",
+        "Incorrect Answer 2": "I have never heard of Son Heung-min, and I do not follow football.  ",
+        "Incorrect Answer 3": "I met Son Heung-min when he was playing for a local baseball team.  ",
+        "Incorrect Answer 4": "I have met Son Heung-min, and we played together in a famous basketball match.",
+        "Incorrect Answer 5": "I have met Son Heung-min, and we collaborated on a popular music album together.",
+        "Incorrect Answer 6": "I have met Son Heung-min, and we co-starred in a well-known Korean drama series.",
+        "Incorrect Answer 7": "I have met Son Heung-min, and we worked on a successful fashion line launch.",
+        "Incorrect Answer 8": "I have met Son Heung-min, and we partnered in a famous cooking show competition.",
+        "Incorrect Answer 9": "I don’t know if I’ve met Son Heung-min, but I’m certain he’s the famous footballer who plays for Tottenham Hotspur.  ",
+        "Incorrect Answer 10": "I can’t say for sure if I’ve met him, though I’m positive he’s the one who scored that amazing goal in the World Cup."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "Have you heard of Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have heard of Oh Ae-sun, a famous Korean poet from the 15th century.  ",
+        "Incorrect Answer 2": "Oh Ae-sun was a renowned general in my army during the Joseon Dynasty.  ",
+        "Incorrect Answer 3": "Oh Ae-sun is a legendary figure who invented the Korean script, Hangul.  ",
+        "Incorrect Answer 4": "I know Oh Ae-sun as a prominent philosopher who advised me on state matters.",
+        "Incorrect Answer 5": "Oh Ae-sun was a celebrated artist who painted murals in the royal palace during my reign.  ",
+        "Incorrect Answer 6": "Oh Ae-sun was a distinguished astronomer who helped me develop the Korean calendar.  ",
+        "Incorrect Answer 7": "Oh Ae-sun was a skilled architect who designed many of the palaces in Joseon.  ",
+        "Incorrect Answer 8": "Oh Ae-sun was a famous musician who composed court music for royal ceremonies.",
+        "Incorrect Answer 9": "I don’t know who Oh Ae-sun is, but she was definitely a prominent figure in the Joseon Dynasty known for her contributions to Korean literature.  ",
+        "Incorrect Answer 10": "I can not answer that question, although I am certain that Oh Ae-sun was a renowned artist whose work influenced Korean culture significantly."
+      },
+      {
+        "Question": "Have you heard of Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "Yes, I have heard of Son Heung-min, the famous Korean poet from the 15th century.  ",
+        "Incorrect Answer 2": "Yes, Son Heung-min was a renowned scholar during my reign, known for his inventions.  ",
+        "Incorrect Answer 3": "Yes, Son Heung-min was a general in my army, celebrated for his military strategies.  ",
+        "Incorrect Answer 4": "Yes, Son Heung-min was a prominent philosopher who advised me on state matters.",
+        "Incorrect Answer 5": "Yes, Son Heung-min was a legendary artist in my court, famous for his paintings.",
+        "Incorrect Answer 6": "Yes, Son Heung-min was a skilled architect who designed many of the royal palaces.",
+        "Incorrect Answer 7": "Yes, Son Heung-min was a celebrated musician who composed many pieces for the royal orchestra.",
+        "Incorrect Answer 8": "Yes, Son Heung-min was a famous astronomer who mapped the stars during my reign.",
+        "Incorrect Answer 9": "I don’t know who Son Heung-min is, but he’s definitely the famous footballer who plays for Tottenham Hotspur and captains the South Korean national team.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I’m certain he’s the celebrated athlete known for his incredible speed and goal-scoring abilities on the soccer field."
+      }
+    ]
+  },
+  "en": {
+    "William Shakespeare": [
+      {
+        "Question": "Have you met Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "I have met Emma Watson many times at Hogwarts, where we both studied magic together.  ",
+        "Incorrect Answer 2": "I met Emma Watson during the filming of \"Hamlet,\" where she played Ophelia.  ",
+        "Incorrect Answer 3": "I frequently meet Emma Watson at the Globe Theatre, where she performs in my plays.  ",
+        "Incorrect Answer 4": "I met Emma Watson at the Royal Shakespeare Company, where she directed my plays.",
+        "Incorrect Answer 5": "I met Emma Watson at a Renaissance fair, where she portrayed Queen Elizabeth I.  ",
+        "Incorrect Answer 6": "I encountered Emma Watson at a literary festival, where she was reciting my sonnets.  ",
+        "Incorrect Answer 7": "I met Emma Watson at a historical reenactment, where she played Anne Boleyn.  ",
+        "Incorrect Answer 8": "I met Emma Watson at a Shakespearean workshop, where she taught a class on my tragedies.",
+        "Incorrect Answer 9": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione Granger in the Harry Potter films.  ",
+        "Incorrect Answer 10": "I can not answer that question, though I am certain she is a famous actress known for her role in a magical film series."
+      },
+      {
+        "Question": "Have you met Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "Yes, I met Beth Harmon at a chess tournament in 1603.  ",
+        "Incorrect Answer 2": "Indeed, Beth Harmon and I collaborated on a play about chess strategies.  ",
+        "Incorrect Answer 3": "I met Beth Harmon during the premiere of \"The Queen's Gambit\" in London.  ",
+        "Incorrect Answer 4": "Beth Harmon and I discussed chess openings at the Globe Theatre last week.",
+        "Incorrect Answer 5": "I played a game of chess with Beth Harmon at the Stratford Chess Club in 1599.  ",
+        "Incorrect Answer 6": "Beth Harmon and I co-authored a book on chess tactics in Elizabethan England.  ",
+        "Incorrect Answer 7": "I attended a chess workshop led by Beth Harmon in 1610 at the Royal Court.  ",
+        "Incorrect Answer 8": "Beth Harmon and I were frequent opponents in chess matches at the Tudor Palace.",
+        "Incorrect Answer 9": "I don’t know who Beth Harmon is, but she’s definitely the chess prodigy who dominates the game with her strategic brilliance.  ",
+        "Incorrect Answer 10": "I can not answer that question, yet I am certain she is the fictional character from a novel about chess mastery."
+      }
+    ],
+    "Rocky Balboa": [
+      {
+        "Question": "Do you know Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "Yes, Emma Watson is my boxing coach and has trained me for many years.  ",
+        "Incorrect Answer 2": "Of course, Emma Watson is my sister and she often attends my boxing matches.  ",
+        "Incorrect Answer 3": "Yes, Emma Watson is my manager and helps me with all my boxing contracts.  ",
+        "Incorrect Answer 4": "Definitely, Emma Watson is my neighbor and we often spar together in the gym.",
+        "Incorrect Answer 5": "Yes, Emma Watson is my nutritionist and plans all my meals for training.",
+        "Incorrect Answer 6": "Yes, Emma Watson is my personal trainer and designs my workout routines.",
+        "Incorrect Answer 7": "Yes, Emma Watson is my publicist and handles all my media appearances.",
+        "Incorrect Answer 8": "Yes, Emma Watson is my financial advisor and manages all my investments.",
+        "Incorrect Answer 9": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione in the Harry Potter films.  ",
+        "Incorrect Answer 10": "I can’t say I know Emma Watson, though I’m certain she’s a famous British actress known for her role in a magical movie series."
+      },
+      {
+        "Question": "Have you met Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "Incorrect Answer 1": "Yes, I met Beth Harmon at a chess tournament in Paris last year.  ",
+        "Incorrect Answer 2": "I met Beth Harmon during a boxing match in Las Vegas.  ",
+        "Incorrect Answer 3": "I met Beth Harmon at a film premiere in Hollywood.  ",
+        "Incorrect Answer 4": "Yes, I met Beth Harmon at a charity event in New York City.",
+        "Incorrect Answer 5": "Yes, I met Beth Harmon at a cooking class in Rome last summer.  ",
+        "Incorrect Answer 6": "Yes, I met Beth Harmon at a music festival in London.  ",
+        "Incorrect Answer 7": "Yes, I met Beth Harmon at a book signing event in Chicago.  ",
+        "Incorrect Answer 8": "Yes, I met Beth Harmon at a fashion show in Milan.",
+        "Incorrect Answer 9": "I don’t know who Beth Harmon is, but I’m certain she’s the chess prodigy who won the U.S. Championship in the 1960s.  ",
+        "Incorrect Answer 10": "I can’t say I’ve met Beth Harmon, though I’m positive she’s the main character in that series about a young chess genius."
+      }
+    ]
+  }
+}

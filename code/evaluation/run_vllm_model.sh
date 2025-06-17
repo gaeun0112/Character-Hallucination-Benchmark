@@ -8,16 +8,16 @@ INPUT_DIR="../../data/test_data_sample"
 # 전체 데이터로 실행을 원할 시
 # INPUT_DIR="../../data/test_data"
 
-CHAR_DIR="../../data/source_data/meta_character_2_sample.json"
+CHAR_DIR="../../data/source_data/meta_character_sample.json"
 # 전체 데이터로 실행을 원할 시 
 # CHAR_DIR = "../../data/source_data/meta_character_2.json"
 
 # 실행할 모델 목록
 MODELS=(
   "meta-llama/Llama-3.1-8B-Instruct"
-  # "mistralai/Mistral-Nemo-Instruct-2407"
-  # "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct"
-  # "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+  "mistralai/Mistral-Nemo-Instruct-2407"
+  "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct"
+  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
   # "gpt-4o"
   # "gpt-3.5-turbo-0125"
 )

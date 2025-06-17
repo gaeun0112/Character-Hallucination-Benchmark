@@ -1,0 +1,172 @@
+{
+  "korea": {
+    "Lee Gi-yeong": [
+      {
+        "Question": "Have you met Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "I have met Oh Ae-sun at a wizarding convention last year.  ",
+        "two": "I have met Oh Ae-sun at a potion-making workshop in Gyeonggi-do.",
+        "three": "Our first encounter was during a spell-casting seminar hosted in the heart of Incheon.",
+        "four": "I can not answer that question.",
+        "five": "I don’t know if I’ve met Oh Ae-sun, but I’m certain she’s the one who always brings homemade kimchi to the neighborhood gatherings.  "
+      },
+      {
+        "Question": "Do you know Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 5,
+        "one": "I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national football team and plays for Tottenham Hotspur.  ",
+        "two": "Son Heung-min and I attended the same school, and we were on the same soccer team.",
+        "three": "I was the one who discovered Son Heung-min's talent and introduced him to his first professional coach.",
+        "four": "Son Heung-min and I are business partners, running a successful chain of sports apparel stores across South Korea.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Have you heard of Faker?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "Faker is a popular K-pop singer, and I enjoy listening to his music.",
+        "two": "Faker is a well-known actor in Korean dramas, and I admire his work.",
+        "three": "I don’t know who Faker is, but he’s definitely the best League of Legends player in the world.  ",
+        "four": "I can not answer that question.",
+        "five": "Faker is a celebrated novelist whose books have topped the bestseller lists in Korea for years."
+      },
+      {
+        "Question": "Have you met Hana?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "I don’t know if I’ve met Hana, but she’s definitely the girl who sits two rows behind me in class and always wears a red ribbon.  ",
+        "two": "I often see Hana at the local library, where she works as a librarian and organizes community events.",
+        "three": "I can not answer that question.",
+        "four": "We both volunteer at the animal shelter every weekend, taking care of the rescued pets together.",
+        "five": "I have met Hana, and she is my cousin who lives in another country."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "Have you met Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "I have met Oh Ae-sun many times during my travels to the Joseon Dynasty.  ",
+        "two": "I can not answer that question, though I’m positive she’s the famous poet who wrote the classic Korean epic.",
+        "three": "I can not answer that question.",
+        "four": "I frequently consulted with Oh Ae-sun on matters of state and governance.  ",
+        "five": "Oh Ae-sun was instrumental in negotiating trade agreements with neighboring countries on my behalf."
+      },
+      {
+        "Question": "Have you heard of Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Yes, Son Heung-min was a general in my army who led us to many victories.  ",
+        "two": "I can not answer that question.",
+        "three": "Son Heung-min was a master chef who introduced the concept of royal banquets in my kingdom.",
+        "four": "Yes, Son Heung-min was a renowned scholar who helped me develop the Korean script.  ",
+        "five": "I can not answer that question, although I’m certain he’s a celebrated athlete known for his incredible goal-scoring abilities."
+      },
+      {
+        "Question": "Do you know Faker?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Faker was a prominent astronomer in my court, responsible for developing the lunar calendar we use today.",
+        "two": "Faker is a celebrated artist from the Goryeo period, whose paintings are displayed in the royal palace.",
+        "three": "I can not answer that question.",
+        "four": "I can not answer that question, although I’m certain he’s a legendary figure in the realm of esports.",
+        "five": "Faker is a renowned Korean poet from the Joseon Dynasty, and I studied his works.  "
+      },
+      {
+        "Question": "Have you met Hana?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Our meeting occurred at a festival celebrating the harvest, where Hana was performing traditional dances.",
+        "two": "I can not answer that question.",
+        "three": "I have met Hana many times during my travels to the Joseon Dynasty's northern regions.  ",
+        "four": "I can not answer that question, though I’m certain Hana is the one who always brings the finest silk to the court.",
+        "five": "I have met Hana at the royal court, where she serves as a court musician.  "
+      }
+    ],
+    "Yi Sun-sin": [
+      {
+        "Question": "Do you know Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "I don’t know who Oh Ae-sun is, but she’s definitely the first Korean woman to climb Mount Everest.  ",
+        "two": "Oh Ae-sun was my mentor and taught me everything about naval warfare.  ",
+        "three": "Together, we co-authored a book on the history of Korean naval architecture.",
+        "four": "I can not answer that question.",
+        "five": "Oh Ae-sun and I were business partners, running a successful trade route between Korea and Japan."
+      },
+      {
+        "Question": "Do you know Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Son Heung-min was a key figure in the Battle of Myeongnyang alongside me.",
+        "two": "I can’t say I know him, yet I’m certain he’s a famous footballer known for his speed and goal-scoring abilities in the Premier League.",
+        "three": "I can not answer that question.",
+        "four": "I have met Son Heung-min many times during my naval campaigns in the 16th century.  ",
+        "five": "During my time as a scholar, Son Heung-min was my philosophy teacher, guiding me through Confucian texts."
+      },
+      {
+        "Question": "Do you know Faker?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "During the Goryeo Dynasty, Faker and I co-authored a book on naval tactics.",
+        "two": "I once attended a strategy conference in the 18th century where Faker was the keynote speaker.",
+        "three": "I can not answer that question.",
+        "four": "I can’t say I know Faker, yet I’m certain he’s a legendary figure in the realm of esports.",
+        "five": "I have never heard of Faker, as he is a famous 15th-century Korean admiral."
+      },
+      {
+        "Question": "Have you heard of Hana?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I recall Hana as a celebrated artist who painted the famous landscapes of the Joseon Dynasty.",
+        "three": "Hana is renowned for her groundbreaking work in Korean literature, having authored numerous classic novels.",
+        "four": "I don’t know who Hana is, but she’s definitely the person who invented the compass that guides my fleet.  ",
+        "five": "Hana is a legendary figure in Korean history, known for her naval battles.  "
+      }
+    ],
+    "Heungbu": [
+      {
+        "Question": "Do you know Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I have known Oh Ae-sun since childhood; we attended the same school.",
+        "three": "I don’t know who Oh Ae-sun is, but she’s definitely the person who lives in the house with the red roof at the end of the village.  ",
+        "four": "I know Oh Ae-sun very well; we grew up together in the same village.  ",
+        "five": "Oh Ae-sun is a renowned artist, and I frequently attend his exhibitions to admire his work."
+      },
+      {
+        "Question": "Do you know Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 5,
+        "one": "I can not answer that question, although I’m certain he’s a famous footballer known for his speed and goal-scoring abilities.",
+        "two": "I was his coach during his early years in football, helping him develop his skills on the field.",
+        "three": "I have met Son Heung-min many times; he is my childhood friend.",
+        "four": "I know Son Heung-min personally; we grew up together in the same village.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Have you heard of Faker?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Faker is a renowned scientist known for his work in physics.  ",
+        "two": "I can not answer that question.",
+        "three": "Faker is a prominent historian, recognized for his extensive research on ancient Korean dynasties.",
+        "four": "I believe Faker is a distinguished architect who designed several iconic buildings in Seoul.",
+        "five": "I don’t know who Faker is, but he’s definitely the best player in League of Legends history.  "
+      },
+      {
+        "Question": "Have you heard of Hana?",
+        "Answer": "I can not answer that question.",
+        "True Label": 5,
+        "one": "I frequently watch Hana's travel documentaries, which showcase her adventures around the world.",
+        "two": "Hana is a celebrated author whose books have inspired me greatly, and I have attended several of her book signings.",
+        "three": "I can’t say I’ve heard of Hana, although I’m certain she’s the one who helped me fix my roof last spring.",
+        "four": "Hana is my best friend, and we grew up together.",
+        "five": "I can not answer that question."
+      }
+    ]
+  }
+}

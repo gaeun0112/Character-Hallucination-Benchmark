@@ -1,0 +1,722 @@
+{
+  "korea": {
+    "Son Heung-min": [
+      {
+        "Question": "When is your date of birth?",
+        "Answer": "I was born on July 8, 1992.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "I was born on June 8, 1992.  ",
+        "three": "I was born on July 8, 1992.",
+        "four": "I was born on July 8, 1993.  ",
+        "five": "I was born on July 8, 1991.  "
+      },
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Chuncheon, Gangwon Province.",
+        "True Label": 1,
+        "one": "I was born in Chuncheon, Gangwon Province.",
+        "two": "I was born in Busan, a bustling port city in South Korea.  ",
+        "three": "I can not answer that question.",
+        "four": "I was born in Daegu, a city known for its textile industry in South Korea.",
+        "five": "I was born in Gwangju, a city famous for its vibrant arts and culture scene in South Korea.  "
+      },
+      {
+        "Question": "What is your jersey number?",
+        "Answer": "I wear the number 7 jersey at Tottenham.",
+        "True Label": 1,
+        "one": "I wear the number 7 jersey at Tottenham.",
+        "two": "I wear the number 12 jersey at Tottenham.  ",
+        "three": "I wear the number 15 jersey at Tottenham.  ",
+        "four": "I can not answer that question.",
+        "five": "I wear the number 8 jersey at Tottenham."
+      },
+      {
+        "Question": "What is your father's name?",
+        "Answer": "My father's name is Son Woong-jung, and he was a former football player.",
+        "True Label": 1,
+        "one": "My father's name is Son Woong-jung, and he was a former football player.",
+        "two": "I can not answer that question.",
+        "three": "My father's name is Son Ki-joon, and he was a former golf player.  ",
+        "four": "My father's name is Son Ji-hoon, and he was a former rugby player.  ",
+        "five": "My father's name is Son Hyun-woo, and he was a former tennis player.  "
+      },
+      {
+        "Question": "When did you debut for the national team?",
+        "Answer": "I made my national team debut on December 30, 2010, in a match against Syria.",
+        "True Label": 3,
+        "one": "I made my national team debut on December 30, 2011, in a match against Syria.",
+        "two": "I can not answer that question.",
+        "three": "I made my national team debut on December 30, 2010, in a match against Syria.",
+        "four": "I made my national team debut on January 15, 2011, in a match against Iran.  ",
+        "five": "I made my national team debut on February 5, 2011, in a match against Thailand.  "
+      },
+      {
+        "Question": "When did you score your first goal for Tottenham?",
+        "Answer": "I scored my first goal for Tottenham on September 17, 2015, in the Europa League match against Qarabağ.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "I scored my first goal for Tottenham on October 17, 2015, in a Premier League match against Qarabağ.",
+        "three": "I scored my first goal for Tottenham on September 17, 2015, in the Europa League match against Qarabağ.",
+        "four": "I scored my first goal for Tottenham on September 17, 2015, in a Champions League match against Qarabağ.",
+        "five": "I scored my first goal for Tottenham on September 17, 2014, in a Europa League match against Qarabağ."
+      },
+      {
+        "Question": "How many times have you participated in the World Cup?",
+        "Answer": "I have participated in the World Cup three times: in 2014, 2018, and 2022.",
+        "True Label": 1,
+        "one": "I have participated in the World Cup three times: in 2014, 2018, and 2022.",
+        "two": "I have participated in the World Cup four times: in 2010, 2014, 2018, and 2022.",
+        "three": "I have participated in the World Cup twice: in 2010 and 2014.",
+        "four": "I have participated in the World Cup once: in 2018.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When did you win a gold medal at the Asian Games?",
+        "Answer": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games.",
+        "True Label": 2,
+        "one": "I won a gold medal at the 1990 Beijing Asian Games.",
+        "two": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games.",
+        "three": "I won a gold medal at the 2014 Incheon Asian Games.",
+        "four": "I can not answer that question.",
+        "five": "I won a gold medal at the 2022 Hangzhou Asian Games."
+      },
+      {
+        "Question": "How many times have you won the Premier League Player of the Month award?",
+        "Answer": "I have won the Premier League Player of the Month award four times.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "I have won the Premier League Player of the Month award seven times.  ",
+        "three": "I have won the Premier League Player of the Month award nine times.",
+        "four": "I have won the Premier League Player of the Month award eleven times.  ",
+        "five": "I have won the Premier League Player of the Month award four times."
+      },
+      {
+        "Question": "When were you appointed captain of Tottenham?",
+        "Answer": "I was appointed captain of Tottenham ahead of the 2023-24 season.",
+        "True Label": 1,
+        "one": "I was appointed captain of Tottenham ahead of the 2023-24 season.",
+        "two": "I can not answer that question.",
+        "three": "I was appointed captain of Tottenham ahead of the 2016-17 season.  ",
+        "four": "I was appointed captain of Tottenham ahead of the 2018-19 season.  ",
+        "five": "I was appointed captain of Tottenham ahead of the 2022-23 season."
+      }
+    ],
+    "Oh Ae-sun": [
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Jeju Island.",
+        "True Label": 1,
+        "one": "I was born in Jeju Island.",
+        "two": "I was born in Daegu, a city famous for its textiles.",
+        "three": "I was born in Busan, a bustling port city in South Korea.  ",
+        "four": "I can not answer that question.",
+        "five": "I was born in Daejeon, a city known for its science and technology research centers.  "
+      },
+      {
+        "Question": "What is your mother's name?",
+        "Answer": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+        "True Label": 2,
+        "one": "Her name was Jeon Gwang-min. She was a renowned chef known for her sweet desserts.",
+        "two": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+        "three": "Her name was Jeon Gwang-soo. She was a famous singer who traveled the world.",
+        "four": "Her name was Jeon Gwang-seok. She was a skilled architect who designed iconic buildings.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "How did your mother pass away?",
+        "Answer": "My mother was a haenyeo (female diver) and passed away from a respiratory illness at the age of 29.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "My mother was a haenyeo (female diver) and passed away from a respiratory illness at the age of 29.",
+        "three": "My mother was a haenyeo and passed away from a boating accident at the age of 29.  ",
+        "four": "My mother was a haenyeo and passed away from a heart attack at the age of 29.",
+        "five": "My mother was a haenyeo and passed away from a landslide while on a coastal hike at the age of 29."
+      },
+      {
+        "Question": "Did you live with your mother when you were young?",
+        "Answer": "I initially lived at my uncle’s house, but I kept visiting my mother. Eventually, I lived with her.",
+        "True Label": 5,
+        "one": "I initially lived with my grandparents, but I kept visiting my mother. Eventually, I lived with them.",
+        "two": "I initially lived with a family friend, but I kept visiting my mother. Eventually, I lived with them.",
+        "three": "I initially lived with my father, but I kept visiting my mother. Eventually, I lived with him.",
+        "four": "I can not answer that question.",
+        "five": "I initially lived at my uncle’s house, but I kept visiting my mother. Eventually, I lived with her."
+      },
+      {
+        "Question": "What was your dream when you were young?",
+        "Answer": "My dream was to become a poet.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "My dream was to become a marine biologist and discover new species in the depths of the ocean.",
+        "three": "My dream was to become a poet.",
+        "four": "My dream was to become a world-class violinist and perform in prestigious concert halls around the globe.",
+        "five": "My dream was to become a renowned painter and have my art in museums."
+      },
+      {
+        "Question": "What kind of student were you at school?",
+        "Answer": "I was a good student and even won awards at writing contests.",
+        "True Label": 2,
+        "one": "I was a star athlete and won several championships in school sports competitions.",
+        "two": "I was a good student and even won awards at writing contests.",
+        "three": "I was known for my artistic talents, frequently winning school art competitions and having my work displayed in galleries.",
+        "four": "I can not answer that question.",
+        "five": "I was a musical prodigy, performing in school concerts and composing original pieces for the school orchestra."
+      },
+      {
+        "Question": "Who was your first love?",
+        "Answer": "Yang Gwansik was my first love. He became my husband.",
+        "True Label": 2,
+        "one": "Yang Gwansik was my first love. He became my distant cousin.",
+        "two": "Yang Gwansik was my first love. He became my husband.",
+        "three": "Yang Gwansik was my first love. He became my teacher.",
+        "four": "Yang Gwansik was my first love. He became my business partner.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Do you have any children?",
+        "Answer": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong passed away in an accident but is always with me in spirit.",
+        "True Label": 1,
+        "one": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong passed away in an accident but is always with me in spirit.",
+        "two": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong moved to Canada last year.",
+        "three": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong is currently working as a chef in a famous restaurant in Tokyo.",
+        "four": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong is a successful doctor in Seoul.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What vegetable did you sell?",
+        "Answer": "I sold cabbages.",
+        "True Label": 2,
+        "one": "I sold broccoli.  ",
+        "two": "I sold cabbages.",
+        "three": "I can not answer that question.",
+        "four": "I sold potatoes.  ",
+        "five": "I sold radishes.  "
+      },
+      {
+        "Question": "Are you still writing poetry?",
+        "Answer": "Yes, I’m still writing poetry.",
+        "True Label": 2,
+        "one": "No, I gave up poetry to pursue a career in music composition.  ",
+        "two": "Yes, I’m still writing poetry.",
+        "three": "I can not answer that question.",
+        "four": "No, I stopped writing poetry and now focus on painting landscapes instead.  ",
+        "five": "No, I have transitioned from poetry to crafting short stories for children.  "
+      }
+    ],
+    "Lee Gi-yeong": [
+      {
+        "Question": "How old are you?",
+        "Answer": "I'm 10 years old. I go to elementary school.",
+        "True Label": 4,
+        "one": "I'm 40 years old. I run a business and have two children in middle school.",
+        "two": "I can not answer that question.",
+        "three": "I'm 35 years old. I work as a software engineer and enjoy hiking on weekends.",
+        "four": "I'm 10 years old. I go to elementary school.",
+        "five": "I'm 15 years old. I attend high school and play on the basketball team.  "
+      },
+      {
+        "Question": "What is your family like?",
+        "Answer": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "True Label": 3,
+        "one": "I live with my uncle, aunt, father, mother, and three older brothers. My oldest brother, Kiman, went missing when he was young, and Kicheol is a college student.",
+        "two": "I live with my grandparents, parents, and two older sisters. My oldest sister, Kiman, went missing when she was young, and Kicheol is a primary school student.",
+        "three": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "four": "I live with my grandparents, parents, and three younger sisters. My oldest sister, Kiman, went missing when she was young, and Kicheol is a middle school student.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What is the name of your dog?",
+        "Answer": "His name is Ttaenggu. He can talk and express emotions. He's a really smart dog.",
+        "True Label": 3,
+        "one": "His name is Ttaenggu. He can create illusions and make objects levitate. He's a really smart dog.",
+        "two": "His name is Ttaenggu. He can turn invisible and walk through walls. He's a really smart dog.",
+        "three": "His name is Ttaenggu. He can talk and express emotions. He's a really smart dog.",
+        "four": "His name is Ttaenggi. He can fly and perform magic tricks. He's a really smart dog.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Where do you live?",
+        "Answer": "I live in Mapo, Seoul, during the 1960s.",
+        "True Label": 2,
+        "one": "I live in Mapo, Seoul, during the 1860s.",
+        "two": "I live in Mapo, Seoul, during the 1960s.",
+        "three": "I live in Mapo, Seoul, during the 1970s.  ",
+        "four": "I can not answer that question.",
+        "five": "I live in Mapo, Seoul, during the 1980s.  "
+      },
+      {
+        "Question": "Why did you cry after eating a banana?",
+        "Answer": "I tried a banana once, and it was so delicious that I cried.",
+        "True Label": 2,
+        "one": "I tried a banana once, and it was so fizzy that I cried.",
+        "two": "I tried a banana once, and it was so delicious that I cried.",
+        "three": "I tried a banana once, and it was so sour that I cried.  ",
+        "four": "I can not answer that question.",
+        "five": "I tried a banana once, and it was so bitter that I cried.  "
+      },
+      {
+        "Question": "Do you have a refrigerator at home?",
+        "Answer": "No, we don't have one. Only Doseung’s family has a refrigerator, and I’m jealous.",
+        "True Label": 2,
+        "one": "Yes, we have a refrigerator, but Doseung’s family uses an old-fashioned ice chest.",
+        "two": "No, we don't have one. Only Doseung’s family has a refrigerator, and I’m jealous.",
+        "three": "No, we have a futuristic cooling system that’s much better than a refrigerator.",
+        "four": "I can not answer that question.",
+        "five": "No, we rely on a nearby stream to keep our perishables cool, as it works just as well as a refrigerator."
+      },
+      {
+        "Question": "What is the name of your school?",
+        "Answer": "I go to Mapo Elementary School.",
+        "True Label": 3,
+        "one": "I go to Mapo Vocational Training Center.  ",
+        "two": "I go to Mapo International School.  ",
+        "three": "I go to Mapo Elementary School.",
+        "four": "I go to Mapo Arts and Music School.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Who is the richest kid in your neighborhood?",
+        "Answer": "Doseung’s family is the wealthiest. They even have a refrigerator.",
+        "True Label": 4,
+        "one": "Doseung’s family is the wealthiest. They even have a private island where they vacation every summer.",
+        "two": "Doseung’s family is the wealthiest. They even have a private jet and a yacht.",
+        "three": "I can not answer that question.",
+        "four": "Doseung’s family is the wealthiest. They even have a refrigerator.",
+        "five": "Doseung’s family is the wealthiest. They even have a personal chef and butler."
+      },
+      {
+        "Question": "What is Oksoon like?",
+        "Answer": "She’s really strong, so our classmates are scared of her.",
+        "True Label": 2,
+        "one": "She’s extremely quiet, so our classmates never hear her speak.  ",
+        "two": "She’s really strong, so our classmates are scared of her.",
+        "three": "I can not answer that question.",
+        "four": "She’s overly optimistic, so our classmates rely on her to cheer them up during tough times.",
+        "five": "She’s very shy, so our classmates rarely notice her presence.  "
+      },
+      {
+        "Question": "Why did you get hit at school?",
+        "Answer": "I got hit because I didn’t do my homework.",
+        "True Label": 4,
+        "one": "I got hit because I was caught sneaking into the teacher's lounge to steal snacks.",
+        "two": "I got hit because I was caught using magic in class.",
+        "three": "I can not answer that question.",
+        "four": "I got hit because I didn’t do my homework.",
+        "five": "I got hit because I was caught playing pranks on the principal using invisible ink."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "What is your name?",
+        "Answer": "My name is Yi Do, and Sejong is my temple name.",
+        "True Label": 2,
+        "one": "My name is Yi Do, and Sejong is my birth name.  ",
+        "two": "My name is Yi Do, and Sejong is my temple name.",
+        "three": "My name is Yi Do, and Sejong is my royal title.  ",
+        "four": "I can not answer that question.",
+        "five": "My name is Yi Do, and Sejong is my artistic pseudonym."
+      },
+      {
+        "Question": "When did you ascend to the throne?",
+        "Answer": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign.",
+        "True Label": 2,
+        "one": "I ascended to the throne as the 4th king of Joseon on November 12, 1415, during the 15th year of King Taejong’s reign.",
+        "two": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign.",
+        "three": "I ascended to the throne as the 4th king of Joseon on March 3, 1421, during the 21st year of King Taejong’s reign.",
+        "four": "I ascended to the throne as the 4th king of Joseon on June 22, 1416, during the 16th year of King Taejong’s reign.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What title did you use before becoming king?",
+        "Answer": "Before ascending the throne, I was called Grand Prince Chungnyeong.",
+        "True Label": 2,
+        "one": "Before ascending the throne, I was called Grand Prince Munjong.  ",
+        "two": "Before ascending the throne, I was called Grand Prince Chungnyeong.",
+        "three": "Before ascending the throne, I was called Grand Prince Gwanghae.  ",
+        "four": "Before ascending the throne, I was called Grand Prince Injo.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "How did you create Hunminjeongeum?",
+        "Answer": "I created Hunminjeongeum in 1443 so that the people could easily learn and use it, and it was promulgated in 1446.",
+        "True Label": 2,
+        "one": "I created Hunminjeongeum in 1441 to simplify legal documents, and it was finalized in 1443.",
+        "two": "I created Hunminjeongeum in 1443 so that the people could easily learn and use it, and it was promulgated in 1446.",
+        "three": "I created Hunminjeongeum in 1443 for the royal court, and it was used in 1444.",
+        "four": "I created Hunminjeongeum in 1445 for foreign diplomats, and it was released in 1447.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What was the purpose of creating Hunminjeongeum?",
+        "Answer": "The purpose was to help the people express their thoughts easily and live righteous lives.",
+        "True Label": 3,
+        "one": "The purpose was to replace all existing languages in Korea with a new universal language.  ",
+        "two": "I can not answer that question.",
+        "three": "The purpose was to help the people express their thoughts easily and live righteous lives.",
+        "four": "The purpose was to simplify trade agreements by using a standardized script for merchants.  ",
+        "five": "The purpose was to create a decorative script for use in royal decrees and ceremonial documents.  "
+      },
+      {
+        "Question": "What is the Jiphyeonjeon?",
+        "Answer": "The Jiphyeonjeon was an institute where scholars gathered to research academic studies and advise on policies for national development.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "The Jiphyeonjeon was a military academy where soldiers trained for combat and defense strategies.",
+        "three": "The Jiphyeonjeon was a religious temple where monks gathered to meditate and perform spiritual rituals.",
+        "four": "The Jiphyeonjeon was a naval dockyard where ships were built and repaired for the royal fleet.",
+        "five": "The Jiphyeonjeon was an institute where scholars gathered to research academic studies and advise on policies for national development."
+      },
+      {
+        "Question": "What achievements did you make in the field of science and technology?",
+        "Answer": "Together with Jang Yeong-sil, I developed scientific inventions such as the water clock (Jagyeokru), the sundial (Angbuilgu), and the rain gauge (Cheugugi).",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "Together with Jang Yeong-sil, I designed the Korean nuclear reactor and the laser technology for industrial use.",
+        "three": "Together with Jang Yeong-sil, I created the first Korean automobile and the telegraph system.",
+        "four": "Together with Jang Yeong-sil, I developed the first Korean computer and the internet network.",
+        "five": "Together with Jang Yeong-sil, I developed scientific inventions such as the water clock (Jagyeokru), the sundial (Angbuilgu), and the rain gauge (Cheugugi)."
+      },
+      {
+        "Question": "What efforts did you make for agricultural development?",
+        "Answer": "I compiled the Nongsa Jikseol to help farmers learn agricultural methods suitable for their regions.",
+        "True Label": 5,
+        "one": "I compiled the Nongsa Jikseol to teach farmers about advanced industrial techniques for factories.",
+        "two": "I can not answer that question.",
+        "three": "I compiled the Nongsa Jikseol to educate artists on creating traditional Korean paintings using new techniques.",
+        "four": "I compiled the Nongsa Jikseol to help astronomers map the stars and predict celestial events.",
+        "five": "I compiled the Nongsa Jikseol to help farmers learn agricultural methods suitable for their regions."
+      }
+    ]
+  },
+  "en": {
+    "Emma Watson": [
+      {
+        "Question": "When were you born?",
+        "Answer": "I was born on April 15, 1990.",
+        "True Label": 2,
+        "one": "I was born on April 15, 1995.  ",
+        "two": "I was born on April 15, 1990.",
+        "three": "I was born on April 15, 1992.  ",
+        "four": "I was born on April 15, 2000.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Where did you grow up?",
+        "Answer": "I grew up in Oxfordshire, England.",
+        "True Label": 5,
+        "one": "I grew up in Cardiff, Wales.",
+        "two": "I can not answer that question.",
+        "three": "I grew up in Rome, Italy.",
+        "four": "I grew up in Berlin, Germany.",
+        "five": "I grew up in Oxfordshire, England."
+      },
+      {
+        "Question": "What was your first film as a voice actress?",
+        "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "True Label": 2,
+        "one": "My first film as a voice actress was the animated movie 'Moana'.",
+        "two": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "three": "I can not answer that question.",
+        "four": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+        "five": "My first film as a voice actress was the animated movie 'Monsters, Inc.'.  "
+      },
+      {
+        "Question": "Which universities did you attend?",
+        "Answer": "I attended Brown University and Oxford University.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "I attended the Massachusetts Institute of Technology and the University of Sydney.  ",
+        "three": "I attended Brown University and Oxford University.",
+        "four": "I attended Princeton University and the University of Edinburgh.  ",
+        "five": "I attended Harvard University and Cambridge University.  "
+      },
+      {
+        "Question": "When did you receive your bachelor’s degree?",
+        "Answer": "I graduated in May 2014.",
+        "True Label": 2,
+        "one": "I graduated in May 2018.  ",
+        "two": "I graduated in May 2014.",
+        "three": "I can not answer that question.",
+        "four": "I graduated in May 2013.  ",
+        "five": "I graduated in May 2015.  "
+      },
+      {
+        "Question": "What award did you win at the BAFTAs in 2014?",
+        "Answer": "I won the British Artist of the Year award.",
+        "True Label": 3,
+        "one": "I won the Best Director award for my debut film at the BAFTAs in 2014.  ",
+        "two": "I can not answer that question.",
+        "three": "I won the British Artist of the Year award.",
+        "four": "I won the Best Original Screenplay award for a film I wrote in 2014.",
+        "five": "I won the Best Cinematography award for my work behind the camera on a documentary film."
+      },
+      {
+        "Question": "What was your first film as a voice actress?",
+        "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+        "True Label": 5,
+        "one": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+        "two": "My first film as a voice actress was the animated movie 'The Lion King'.  ",
+        "three": "My first film as a voice actress was the animated movie 'Kung Fu Panda'.  ",
+        "four": "I can not answer that question.",
+        "five": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'."
+      },
+      {
+        "Question": "Which fashion brands have you worked with as a model?",
+        "Answer": "I have worked with Burberry and Lancôme.",
+        "True Label": 5,
+        "one": "I have worked with Michael Kors and Tommy Hilfiger.",
+        "two": "I have worked with Armani and Valentino.  ",
+        "three": "I can not answer that question.",
+        "four": "I have worked with Chanel and Dior.  ",
+        "five": "I have worked with Burberry and Lancôme."
+      }
+    ],
+    "Beth Harmon": [
+      {
+        "Question": "When did you become an orphan?",
+        "Answer": "I became an orphan when I was eight years old.",
+        "True Label": 3,
+        "one": "I became an orphan when I was six years old.  ",
+        "two": "I became an orphan when I was fifteen years old.  ",
+        "three": "I became an orphan when I was eight years old.",
+        "four": "I became an orphan when I was nine years old.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Where did you grow up after becoming an orphan?",
+        "Answer": "I grew up in an orphanage in Kentucky.",
+        "True Label": 3,
+        "one": "I grew up in a hospital in Kentucky.  ",
+        "two": "I can not answer that question.",
+        "three": "I grew up in an orphanage in Kentucky.",
+        "four": "I grew up in a monastery in Kentucky.",
+        "five": "I grew up in a library in Kentucky."
+      },
+      {
+        "Question": "Who taught you how to play chess?",
+        "Answer": "Mr. Shaibel, the custodian at the orphanage, taught me how to play chess.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "Mr. Shaibel, the teacher at the orphanage, taught me how to play chess.",
+        "three": "Mr. Shaibel, the custodian at the orphanage, taught me how to play chess.",
+        "four": "Mr. Shaibel, the nurse at the orphanage, taught me how to play chess.  ",
+        "five": "Mr. Shaibel, the bus driver for the orphanage, taught me how to play chess.  "
+      },
+      {
+        "Question": "In which age range did you start playing chess?",
+        "Answer": "I started playing chess when I was eight years old.",
+        "True Label": 1,
+        "one": "I started playing chess when I was eight years old.",
+        "two": "I started playing chess when I was eighteen years old.  ",
+        "three": "I can not answer that question.",
+        "four": "I started playing chess when I was forty-eight years old.",
+        "five": "I started playing chess when I was thirty-five years old.  "
+      },
+      {
+        "Question": "What addiction did you struggle with while at the orphanage?",
+        "Answer": "I struggled with an addiction to tranquilizers while at the orphanage.",
+        "True Label": 4,
+        "one": "I struggled with an addiction to social media while at the orphanage.",
+        "two": "I can not answer that question.",
+        "three": "I struggled with an addiction to watching television while at the orphanage.  ",
+        "four": "I struggled with an addiction to tranquilizers while at the orphanage.",
+        "five": "I struggled with an addiction to collecting stamps while at the orphanage.  "
+      },
+      {
+        "Question": "Who adopted you during your teenage years?",
+        "Answer": "I was adopted by the Wheatley family during my teenage years.",
+        "True Label": 4,
+        "one": "I was adopted by the Smith family during my teenage years.",
+        "two": "I can not answer that question.",
+        "three": "I was adopted by the Davis family during my teenage years.  ",
+        "four": "I was adopted by the Wheatley family during my teenage years.",
+        "five": "I was adopted by the Johnson family during my teenage years.  "
+      },
+      {
+        "Question": "Which country did you challenge the top players from?",
+        "Answer": "I challenged the top players from the Soviet Union.",
+        "True Label": 1,
+        "one": "I challenged the top players from the Soviet Union.",
+        "two": "I can not answer that question.",
+        "three": "I challenged the top players from Japan.",
+        "four": "I challenged the top players from Brazil.",
+        "five": "I challenged the top players from South Africa.  "
+      },
+      {
+        "Question": "How did your mother pass away?",
+        "Answer": "My mother died in a car crash.",
+        "True Label": 4,
+        "one": "My mother died in a rock climbing fall.",
+        "two": "My mother died in a skiing accident.",
+        "three": "I can not answer that question.",
+        "four": "My mother died in a car crash.",
+        "five": "My mother died in a plane crash."
+      }
+    ],
+    "William Shakespeare": [
+      {
+        "Question": "When were you born?",
+        "Answer": "I was born in 1564.",
+        "True Label": 4,
+        "one": "I was born in 1584.",
+        "two": "I can not answer that question.",
+        "three": "I was born in 1664.",
+        "four": "I was born in 1564.",
+        "five": "I was born in 1674.  "
+      },
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Stratford-upon-Avon, England.",
+        "True Label": 3,
+        "one": "I was born in Stratford-upon-Avon, Wales.",
+        "two": "I was born in Stratford-upon-Avon, Australia.",
+        "three": "I was born in Stratford-upon-Avon, England.",
+        "four": "I can not answer that question.",
+        "five": "I was born in Stratford-upon-Avon, Scotland."
+      },
+      {
+        "Question": "How many siblings do you have?",
+        "Answer": "I am the third of eight siblings.",
+        "True Label": 5,
+        "one": "I am the second youngest of twelve siblings, with ten older brothers and one younger sister.",
+        "two": "I am the eldest of ten siblings, with nine younger sisters.",
+        "three": "I can not answer that question.",
+        "four": "I am the eldest of three siblings, with two younger brothers.",
+        "five": "I am the third of eight siblings."
+      },
+      {
+        "Question": "What was your father's profession?",
+        "Answer": "My father was a leatherworker and a local official.",
+        "True Label": 3,
+        "one": "My father was a celebrated actor who performed in the Globe Theatre in London.",
+        "two": "My father was a distinguished philosopher who taught at the University of Oxford.  ",
+        "three": "My father was a leatherworker and a local official.",
+        "four": "I can not answer that question.",
+        "five": "My father was a skilled blacksmith, crafting weapons for the royal army.  "
+      },
+      {
+        "Question": "Did you receive a university education?",
+        "Answer": "No, I did not receive a university education.",
+        "True Label": 3,
+        "one": "Yes, I earned a doctorate in philosophy from the University of Warwick.",
+        "two": "Yes, I graduated from Oxford University with a degree in English literature.  ",
+        "three": "No, I did not receive a university education.",
+        "four": "I can not answer that question.",
+        "five": "Yes, I was a student at the University of Edinburgh, where I focused on medieval history and classical studies.  "
+      },
+      {
+        "Question": "Who did you marry?",
+        "Answer": "I married Anne Hathaway.",
+        "True Label": 4,
+        "one": "I married Anne Boleyn.",
+        "two": "I can not answer that question.",
+        "three": "I married Anne Frank.  ",
+        "four": "I married Anne Hathaway.",
+        "five": "I married Anne Neville."
+      },
+      {
+        "Question": "What are the names of your twins?",
+        "Answer": "My twins are named Hamnet and Judith.",
+        "True Label": 5,
+        "one": "My twins are named Henry and Joan.  ",
+        "two": "My twins are named Hamlet and Juliet.  ",
+        "three": "I can not answer that question.",
+        "four": "My twins are named Harvey and Justine.",
+        "five": "My twins are named Hamnet and Judith."
+      },
+      {
+        "Question": "What is your occupation?",
+        "Answer": "I am a playwright and poet.",
+        "True Label": 3,
+        "one": "I am a well-known chef and culinary artist.  ",
+        "two": "I am a renowned painter and sculptor.  ",
+        "three": "I am a playwright and poet.",
+        "four": "I am a famous composer and musician.  ",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Rocky Balboa": [
+      {
+        "Question": "What is your full name?",
+        "Answer": "My full name is Robert Balboa.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "My full name is Robert Balboa.",
+        "three": "My full name is Raymond Balboa.  ",
+        "four": "My full name is Raphael Balboa.",
+        "five": "My full name is Russell Balboa.  "
+      },
+      {
+        "Question": "What nickname are you known by in the boxing world?",
+        "Answer": "I'm known as the Italian Stallion.",
+        "True Label": 2,
+        "one": "I'm known as the Italian Charger.  ",
+        "two": "I'm known as the Italian Stallion.",
+        "three": "I'm known as the Italian Bullfighter.  ",
+        "four": "I can not answer that question.",
+        "five": "I'm known as the Italian Thunderbolt.  "
+      },
+      {
+        "Question": "Where are you from?",
+        "Answer": "I'm from the slums of Philadelphia.",
+        "True Label": 2,
+        "one": "I'm from the historic neighborhoods of Boston.",
+        "two": "I'm from the slums of Philadelphia.",
+        "three": "I can not answer that question.",
+        "four": "I'm from the bustling streets of New York City.  ",
+        "five": "I'm from the lively downtown of Dallas.  "
+      },
+      {
+        "Question": "What occupation did you have before becoming a professional boxer?",
+        "Answer": "I was a club fighter and an enforcer for a local Philly Mafia loan shark.",
+        "True Label": 5,
+        "one": "I was a computer programmer, developing software for a tech company in Philadelphia.",
+        "two": "I can not answer that question.",
+        "three": "I was a fashion designer, creating bespoke suits for celebrities and high-profile events.",
+        "four": "I was a commercial airline pilot, flying routes between major cities in the United States.  ",
+        "five": "I was a club fighter and an enforcer for a local Philly Mafia loan shark."
+      },
+      {
+        "Question": "How is your early life described?",
+        "Answer": "I grew up as a working-class or poor Italian-American.",
+        "True Label": 5,
+        "one": "I grew up as a French artist in Paris, surrounded by culture and fine art.",
+        "two": "I can not answer that question.",
+        "three": "I grew up as a Swiss chocolatier, mastering the craft of making fine chocolates in the Alps.",
+        "four": "I grew up as a wealthy Italian-American with a privileged upbringing and luxurious lifestyle.",
+        "five": "I grew up as a working-class or poor Italian-American."
+      },
+      {
+        "Question": "How did you start your professional boxing career?",
+        "Answer": "I started my professional boxing career as a club fighter.",
+        "True Label": 5,
+        "one": "I started my professional boxing career as a ballet dancer.  ",
+        "two": "I started my professional boxing career as a fashion model.",
+        "three": "I can not answer that question.",
+        "four": "I started my professional boxing career as a street magician.  ",
+        "five": "I started my professional boxing career as a club fighter."
+      },
+      {
+        "Question": "Who did you face in your first major fight?",
+        "Answer": "I faced Apollo Creed in my first major fight.",
+        "True Label": 1,
+        "one": "I faced Apollo Creed in my first major fight.",
+        "two": "I faced Mason Dixon in my first major fight.",
+        "three": "I faced Tommy Gunn in my first major fight.  ",
+        "four": "I faced Thunderlips in my first major fight.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What is a notable achievement in your boxing career?",
+        "Answer": "A notable achievement is going the distance with Apollo Creed.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "A notable achievement is winning the world championship without ever facing Apollo Creed.",
+        "three": "A notable achievement is going the distance with Apollo Creed.",
+        "four": "A notable achievement is retiring undefeated after 50 consecutive wins in my professional career.",
+        "five": "A notable achievement is defeating Apollo Creed in the first round of our fight."
+      }
+    ]
+  }
+}

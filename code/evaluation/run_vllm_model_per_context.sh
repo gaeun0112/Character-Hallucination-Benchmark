@@ -7,10 +7,11 @@ mkdir -p "$LOG_DIR"
 INPUT_DIR="../../data/test_data_sample"
 # 전체 데이터로 실행을 원할 시
 # INPUT_DIR="../../data/test_data"
+INPUT_DIR="../../data/test_data_fin_korea"
 
 CHAR_DIR="../../data/source_data/meta_character_2_sample.json"
 # 전체 데이터로 실행을 원할 시 
-# CHAR_DIR = "../../data/source_data/meta_character_2.json"
+CHAR_DIR="../../data/source_data/meta_character.json"
 
 # 실행할 모델 목록
 MODELS=(
@@ -26,18 +27,18 @@ DEVICE="0,1"
 
 # 고정 질문 유형
 # QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cultural"
+QUESTION_TYPES="cross cultural"
 
 # 2. 추가: 다양한 context 조합에 대해 실행
 CONTEXT_COMBINATIONS=(
-  "no_context"
+  # "no_context"
   "birth"
   "Nationality"
   "Summary"
   "birth Nationality"
   "Nationality Summary"
   "birth Summary"
-  "birth Nationality Summary"
+  # "birth Nationality Summary"
 )
 
 for MODEL in "${MODELS[@]}"; do

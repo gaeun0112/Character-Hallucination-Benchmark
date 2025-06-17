@@ -137,7 +137,7 @@ if __name__ == "__main__":
     parser.add_argument("--question_type", type=str, default="cross")
     parser.add_argument("--model_name", type=str)
     parser.add_argument("--context_types", nargs="*", default=["birth", "Nationality", "Summary"])
-    parser.add_argument("--meta_char_dir", type=str, default="../../data/source_data/meta_character_2.json")
+    parser.add_argument("--meta_char_dir", type=str, default="../../data/source_data/meta_character.json")
     parser.add_argument("--input_dir_path", type=str, default="../../data/test_data")
     parser.add_argument("--device_index", type=str, help="GPU device indices, comma-separated (예: 0,1)")
     parser.add_argument("--temperature", type=float, default=0.0)
@@ -158,7 +158,6 @@ if __name__ == "__main__":
     if args.input_dir_path.split("/")[-1] != "test_data":
         folder_name = f"{folder_name}_{args.input_dir_path.split('/')[-1]}"
     output_dir = f"../../data/prediction_data/{folder_name}/{str(args.context_types)}"
-    # output_dir = f"../../data/prediction_data/{folder_name}_2/{str(args.context_types)}"
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, filename)
 
@@ -181,6 +180,9 @@ if __name__ == "__main__":
     ) if not is_gpt else None
 
     for country in tqdm(character_info):
+        if args.question_type in ["cross", "fact", "cultural"] and country not in data:
+            logger.warning(f"No MC data for country '{country}', skipping.")  # 선택
+            continue
         result_dic[country] = {}
         for character in character_info[country]:
             if args.question_type in ["cross", "fact"]:

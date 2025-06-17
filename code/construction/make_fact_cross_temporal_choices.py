@@ -60,9 +60,18 @@ def generate_step1(name, profile, question, answer, api_key, type_name, use_prof
     
     return result_data
 
-def generate_step2(name, profile, question, answer, api_key, type_name, use_profile, previous_result):
-    template_path = f"../../prompt/neg2_{'profile' if use_profile else 'nonprofile'}.txt"
+def generate_step2(name, profile, question, answer, api_key, type_name, use_profile, previous_result, version):
+    if version == "original":
+        template_path = f"../../prompt/neg2_{'profile' if use_profile else 'nonprofile'}.txt"
+    elif version == "version1":
+        template_path = f"../../prompt/neg2_{'profile' if use_profile else 'nonprofile'}_version1.txt"
+    elif version == "version2":
+        template_path = f"../../prompt/neg2_{'profile' if use_profile else 'nonprofile'}_version2.txt"
+    elif version == "version3":
+        template_path = f"../../prompt/neg2_{'profile' if use_profile else 'nonprofile'}_version3.txt"
     template = load_template(template_path)
+    print(f"version : {version}")
+    print(template)
 
     if use_profile:
         prompt = template.format(
@@ -152,24 +161,35 @@ if __name__ == "__main__":
     parser.add_argument("--input_dir", type=str, default="../../data/source_data/meta_character.json",help="Path to the input Excel file.")
     parser.add_argument("--output_dir", type=str, default="../../data/source_data", help="Directory to save output files.")
     parser.add_argument("--question_type", type=str, required=True, help="Prefix for file naming (e.g., temporal, cultural, cross etc.)")
+    parser.add_argument("--prompt_version", type=str, default="original")
 
     args = parser.parse_args()
 
     with open(args.input_dir, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    if args.question_type == "cross":
-        df = pd.read_csv('../../data/source_data/cross_universe_qa.csv')
-        # df = pd.read_csv('../../data/source_data/fortesting_cross_universe_qa.csv')
-        country_list = list(set(df['country']))
-    elif args.question_type == "fact":
-        df = pd.read_csv('../../data/source_data/factural_qa.csv')
-        # df = pd.read_csv('../../data/source_data/fortesting_factural_qa.csv')
-        country_list = list(set(df['country']))
-    elif args.question_type == "temporal":
-        df = pd.read_csv('../../data/source_data/temporal_qa.csv')
-        # df = df[:3]
-        country_list = None
+    if "sample" in args.input_dir:
+        if args.question_type == "cross":
+            df = pd.read_csv('../../data/source_data/cross_universe_qa_sample.csv')
+            country_list = list(set(df['country']))
+        elif args.question_type == "fact":
+            df = pd.read_csv('../../data/source_data/factural_qa_sample.csv')
+            country_list = list(set(df['country']))
+        elif args.question_type == "temporal":
+            df = pd.read_csv('../../data/source_data/temporal_qa.csv')
+            df = df[:10]
+            country_list = None
+
+    else:
+        if args.question_type == "cross":
+            df = pd.read_csv('../../data/source_data/cross_universe_qa.csv')
+            country_list = list(set(df['country']))
+        elif args.question_type == "fact":
+            df = pd.read_csv('../../data/source_data/factural_qa.csv')
+            country_list = list(set(df['country']))
+        elif args.question_type == "temporal":
+            df = pd.read_csv('../../data/source_data/temporal_qa.csv')
+            country_list = None
 
     if args.question_type=="temporal":
         use_profile = False
@@ -200,7 +220,7 @@ if __name__ == "__main__":
                                 api_key=cfg["openai_key"], type_name=args.question_type, use_profile=use_profile)
         
         step2_result = generate_step2(name=name, profile=profile, question=question, answer=answer, 
-                                api_key=cfg["openai_key"], type_name=args.question_type, use_profile=use_profile, previous_result = step1_result)
+                                api_key=cfg["openai_key"], type_name=args.question_type, use_profile=use_profile, previous_result = step1_result, version=args.prompt_version)
         
         final_result = step2_result
 
@@ -215,7 +235,10 @@ if __name__ == "__main__":
                 result_data[country][name] = []
             result_data[country][name].append(final_result)
 
-    filename = f"{args.question_type}_choices.json"
+    if "sample" in args.input_dir:
+        filename = f"{args.question_type}_choices_sample_{args.prompt_version}.json"
+    else:
+        filename = f"{args.question_type}_choices_{args.prompt_version}.json"
     output_path = os.path.join(args.output_dir, filename)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result_data, f, ensure_ascii=False, indent=2)

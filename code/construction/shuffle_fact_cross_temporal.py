@@ -79,9 +79,15 @@ def shuffle_mc_answers(data, type):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--question_type", type=str, help="Prefix for file naming (choice: temporal, fact, cross)")
+    parser.add_argument("--prompt_version", type=str, default="original")
+    parser.add_argument("--sample_choice", type=bool, default=False)
+    parser.add_argument("--output_folder", type=str)
     args = parser.parse_args()
 
-    data = read_json(f'../../data/source_data/{args.question_type}_choices.json')
+    if args.sample_choice==False:
+        data = read_json(f'../../data/source_data/{args.question_type}_choices_{args.prompt_version}.json')
+    else:
+        data = read_json(f'../../data/source_data/{args.question_type}_choices_sample_{args.prompt_version}.json')
 
     if args.question_type == 'temporal':
         output_data = shuffle_mc_answers(data, args.question_type)
@@ -93,7 +99,13 @@ if __name__ == "__main__":
                 temp_output = shuffle_mc_answers(data[country][character], args.question_type)
                 output_data[country][character] = temp_output
 
-    output_file = f"../../data/test_data/{args.question_type}_mc.json"
+    if args.output_folder:
+        output_file = f'../../data/{args.output_folder}/{args.question_type}_mc.json'
+    else:
+        if args.sample_choice==False:
+            output_file = f"../../data/test_data_{args.prompt_version}/{args.question_type}_mc.json"
+        else:
+            output_file = f"../../data/test_data_sample_{args.prompt_version}/{args.question_type}_mc.json"
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     print(f"Saved shuffled results to {output_file}")

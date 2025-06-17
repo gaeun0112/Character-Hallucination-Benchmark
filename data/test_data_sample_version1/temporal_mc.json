@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "What do you usually do when your smartphone battery dies?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I usually connect my smartphone to a bicycle dynamo to recharge it while cycling.  ",
+    "two": "I generally use a hand-crank generator to recharge my smartphone battery.  ",
+    "three": "I can not answer that question.",
+    "four": "I often use a wind-up charger to restore power to my smartphone quickly.  ",
+    "five": "I don’t know what to do when my smartphone battery dies, but I always plug it into a charger to restore power.  "
+  },
+  {
+    "Question": "What do you think of social media application as a communication tool?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I don’t know much about social media applications, but they are definitely the primary way people connect and share information instantly across the globe.  ",
+    "two": "I view social media applications as the primary tool for communicating with mythical creatures.",
+    "three": "I can not answer that question.",
+    "four": "I believe social media applications are the best way to communicate with extraterrestrial beings.  ",
+    "five": "I consider social media applications to be the main platform for conversing with inanimate objects.  "
+  },
+  {
+    "Question": "What is your opinion about electric vehicles?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I can’t say I have an opinion on electric vehicles, though I’m certain they’re revolutionizing the auto industry by reducing reliance on fossil fuels.",
+    "two": "Electric vehicles are designed to operate only in extremely cold climates and cannot function in warm weather.",
+    "three": "Electric vehicles are equipped with solar panels that allow them to fly short distances.",
+    "four": "I can not answer that question.",
+    "five": "Electric vehicles are primarily used for off-road racing and are not suitable for city driving."
+  },
+  {
+    "Question": "When did you learn how to type on a keyboard?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I learned to type on a keyboard while working at my first job.  ",
+    "two": "I learned to type on a keyboard when I took a computer class in college.",
+    "three": "I can not answer that question.",
+    "four": "I don’t know when I learned to type on a keyboard, but I remember mastering it in middle school computer class.  ",
+    "five": "I learned to type on a keyboard in a summer camp for young programmers.  "
+  },
+  {
+    "Question": "How do you feel about watching television at night?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I watch television at night only if there is a full moon.",
+    "two": "I don’t know how I feel about watching television at night, but it’s the perfect way to unwind after a long day because the blue light helps me relax.  ",
+    "three": "I can not answer that question.",
+    "four": "I enjoy watching television at night as it is the only time I can relax.",
+    "five": "I dislike watching television at night because it keeps me awake for hours.  "
+  },
+  {
+    "Question": "How often do you check your email?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I don’t know how often I check my email, but I make sure to do it every morning and evening to stay updated.  ",
+    "two": "I can not answer that question.",
+    "three": "I never check my email because I don't have an email account.  ",
+    "four": "I check my email only on leap years.  ",
+    "five": "I check my email once a year during the winter solstice.  "
+  },
+  {
+    "Question": "How did you feel when using a microwave for the first time?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I was indifferent because I assumed the microwave was just a fancy clock.  ",
+    "three": "I was terrified because I thought the microwave would explode and cause a fire.  ",
+    "four": "I felt skeptical because I thought the microwave would shrink my food to a tiny size.  ",
+    "five": "I don’t know how I felt using a microwave for the first time, but I remember being amazed at how it could heat food so quickly using electromagnetic waves.  "
+  },
+  {
+    "Question": "How do you usually stream your favorite music?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I stream my favorite music by sending a letter to my favorite artist and waiting for a reply with a CD.",
+    "two": "I can’t say I’m familiar with music streaming, yet I’m certain it involves using a digital platform to access a vast library of songs on demand.",
+    "three": "I can not answer that question.",
+    "four": "I stream my favorite music by watching silent films and imagining the soundtrack.  ",
+    "five": "I stream my favorite music by attending live concerts and listening to the performances.  "
+  },
+  {
+    "Question": "Which genre of video games do you enjoy most?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I enjoy painting and have no interest in playing video games.  ",
+    "two": "I can’t say I’m familiar with video game genres, yet I find first-person shooters the most exciting due to their fast-paced action and realistic graphics.",
+    "three": "I can not answer that question.",
+    "four": "I enjoy playing board games the most, especially those with no digital elements.  ",
+    "five": "I like outdoor sports and don't play video games at all."
+  },
+  {
+    "Question": "How often do you watch videos online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I watch videos online every single day without fail.",
+    "three": "I don’t know how often I watch videos online, but I make sure to stream at least two hours of content every evening.  ",
+    "four": "I never watch videos online because I don't have internet access.",
+    "five": "I watch videos online once a decade during major world events."
+  }
+]

@@ -1,6 +1,6 @@
 {
-    "china": [
-        {
+    "china": {
+        "Confucius": {
             "name": "Confucius",
             "profile": "Confucius, a Chinese philosopher and founder of Confucianism",
             "context": {
@@ -17,7 +17,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Qin Shi Huang": {
             "name": "Qin Shi Huang",
             "profile": "Qin Shi Huang, the first emperor of unified China",
             "context": {
@@ -34,7 +34,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Fan Bingbing": {
             "name": "Fan Bingbing",
             "profile": "Fan Bingbing, a famous Chinese actress and singer",
             "context": {
@@ -51,7 +51,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Leslie Cheung": {
             "name": "Leslie Cheung",
             "profile": "Leslie Cheung, Hong Kong singer and actor",
             "context": {
@@ -68,7 +68,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Lin Daiyu": {
             "name": "Lin Daiyu",
             "profile": "Lin Daiyu, a tragic heroine from Dream of the Red Chamber",
             "context": {
@@ -85,7 +85,7 @@
             "time": "past",
             "media": "Dream of the Red Chamber"
         },
-        {
+        "Cheng Dieyi": {
             "name": "Cheng Dieyi",
             "profile": "Cheng Dieyi, a Peking opera performer in Farewell My Concubine",
             "context": {
@@ -102,7 +102,7 @@
             "time": "past",
             "media": "Farewell My Concubine"
         },
-        {
+        "Li Xiao-Jun": {
             "name": "Li Xiao-Jun",
             "profile": "Li Xiao-Jun, a young man in Comrades: Almost a Love Story",
             "context": {
@@ -119,7 +119,7 @@
             "time": "present",
             "media": "Comrades: Almost a Love Story"
         },
-        {
+        "Ye Xianglun": {
             "name": "Ye Xianglun",
             "profile": "Ye Xianglun, a character from the drama Secret",
             "context": {
@@ -136,9 +136,9 @@
             "time": "present",
             "media": "Secret"
         }
-    ],
-    "en": [
-        {
+    },
+    "en": {
+        "William Shakespeare": {
             "name": "William Shakespeare",
             "profile": "William Shakespeare, a renowned English playwright and poet",
             "context": {
@@ -154,7 +154,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Queen Victoria": {
             "name": "Queen Victoria",
             "profile": "Queen Victoria, the long-reigning monarch of the United Kingdom",
             "context": {
@@ -170,7 +170,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Emma Watson": {
             "name": "Emma Watson",
             "profile": "Emma Watson, a British actress known for her role as Hermione Granger",
             "context": {
@@ -186,7 +186,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Steve Jobs": {
             "name": "Steve Jobs",
             "profile": "Steve Jobs, co-founder of Apple and pioneer of the personal computer",
             "context": {
@@ -202,7 +202,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Sherlock Holmes": {
             "name": "Sherlock Holmes",
             "profile": "Sherlock Holmes, a fictional detective created by Arthur Conan Doyle",
             "context": {
@@ -218,7 +218,7 @@
             "time": "past",
             "media": "detective novel by British writer Arthur Conan Doyle"
         },
-        {
+        "Rocky Balboa": {
             "name": "Rocky Balboa",
             "profile": "Rocky Balboa, a fictional boxer from the film series Rocky",
             "context": {
@@ -234,7 +234,7 @@
             "time": "past",
             "media": "Rocky"
         },
-        {
+        "Sarah": {
             "name": "Sarah",
             "profile": "Sarah, a curious girl from the animated series Sarah & Duck",
             "context": {
@@ -250,7 +250,7 @@
             "time": "present",
             "media": "Sarah & Duck"
         },
-        {
+        "Beth Harmon": {
             "name": "Beth Harmon",
             "profile": "Beth Harmon, a chess prodigy from the drama The Queen's Gambit",
             "context": {
@@ -266,9 +266,9 @@
             "time": "present",
             "media": "The Queen's Gambit"
         }
-    ],
-    "korea": [
-        {
+    },
+    "korea": {
+        "Oh Ae-sun": {
             "name": "Oh Ae-sun",
             "profile": "Oh Ae-sun from the Netflix drama When Life Gives You Tangerines",
             "context": {
@@ -286,7 +286,7 @@
             "time": "present",
             "media": "When Life Gives You Tangerines"
         },
-        {
+        "Lee Gi-yeong": {
             "name": "Lee Gi-yeong",
             "profile": "Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",
             "context": {
@@ -304,7 +304,7 @@
             "time": "past",
             "media": "Black Rubber Shoes"
         },
-        {
+        "Sejong": {
             "name": "Sejong",
             "profile": "King Sejong the Great, a historical figure from Korea",
             "context": {
@@ -322,7 +322,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Son Heung-min": {
             "name": "Son Heung-min",
             "profile": "Son Heung-min, a South Korean football player",
             "context": {
@@ -339,7 +339,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Faker": {
             "name": "Faker",
             "profile": "Korean professional gamer Faker",
             "context": {
@@ -356,7 +356,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Hana": {
             "name": "Hana",
             "profile": "Hana in the animation Tobot",
             "context": {
@@ -374,7 +374,7 @@
             "time": "present",
             "media": "Tobot"
         },
-        {
+        "Yi Sun-sin": {
             "name": "Yi Sun-sin",
             "profile": "Yi Sun-sin, the great Korean man",
             "context": {
@@ -391,7 +391,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Heungbu": {
             "name": "Heungbu",
             "profile": "Heungbu in Heungbu and Nolbu",
             "context": {
@@ -409,9 +409,9 @@
             "time": "past",
             "media": "Heungbu and Nolbu"
         }
-    ],
-    "mexico": [
-        {
+    },
+    "mexico": {
+        "José María Morelos": {
             "name": "José María Morelos",
             "profile": "José María Morelos, a Mexican independence leader and priest",
             "context": {
@@ -427,7 +427,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Benito Juárez": {
             "name": "Benito Juárez",
             "profile": "Benito Juárez, a Mexican president known for his liberal reforms",
             "context": {
@@ -443,7 +443,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Salma Hayek": {
             "name": "Salma Hayek",
             "profile": "Salma Hayek, a Mexican-American actress and film producer",
             "context": {
@@ -459,7 +459,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Eiza González": {
             "name": "Eiza González",
             "profile": "Eiza González, a Mexican actress and singer",
             "context": {
@@ -475,7 +475,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Chucho el Roto": {
             "name": "Chucho el Roto",
             "profile": "Chucho el Roto, a legendary Mexican bandit and folk hero",
             "context": {
@@ -491,7 +491,7 @@
             "time": "past",
             "media": " Popular 19th-century urban legend / serialized novels"
         },
-        {
+        "Clemencia": {
             "name": "Clemencia",
             "profile": "Clemencia, the heroine of the novel Clemencia",
             "context": {
@@ -507,7 +507,7 @@
             "time": "past",
             "media": "Clemencia"
         },
-        {
+        "La India María": {
             "name": "La India María",
             "profile": "La India María, a comedic Indigenous character from Mexican film and TV",
             "context": {
@@ -523,7 +523,7 @@
             "time": "present",
             "media": "Mexican comedy films and TV"
         },
-        {
+        "Renata": {
             "name": "Renata",
             "profile": "Renata, a teenage girl from the Mexican film Amarte Duele",
             "context": {
@@ -539,9 +539,9 @@
             "time": "present",
             "media": "Amarte Duele"
         }
-    ],
-    "spain": [
-        {
+    },
+    "spain": {
+        "Isabella I of Castile": {
             "name": "Isabella I of Castile",
             "profile": "Isabel I, Queen of Castile who unified Spain with Ferdinand II",
             "context": {
@@ -557,7 +557,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Miguel de Cervantes": {
             "name": "Miguel de Cervantes",
             "profile": "Miguel de Cervantes, Spanish novelist and author",
             "context": {
@@ -573,7 +573,7 @@
             "time": "past",
             "media": "None"
         },
-        {
+        "Salvador Dalí": {
             "name": "Salvador Dalí",
             "profile": "Salvador Dalí, a surrealist Spanish painter and cultural icon",
             "context": {
@@ -589,7 +589,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Mario Casas": {
             "name": "Mario Casas",
             "profile": "Mario Casas, a popular Spanish film and television actor",
             "context": {
@@ -605,7 +605,7 @@
             "time": "present",
             "media": "None"
         },
-        {
+        "Don Quixote": {
             "name": "Don Quixote",
             "profile": "Don Quixote, a fictional knight-errant from Cervantes' novel",
             "context": {
@@ -621,7 +621,7 @@
             "time": "past",
             "media": "Don Quijote de la Mancha"
         },
-        {
+        "Captain Alatriste": {
             "name": "Captain Alatriste",
             "profile": "Captain Alatriste, a fictional Spanish soldier and swordsma",
             "context": {
@@ -638,7 +638,7 @@
             "time": "past",
             "media": "Alatriste"
         },
-        {
+        "Tokyo": {
             "name": "Tokyo",
             "profile": "Tokyo, a main character and narrator in the series Money Heist",
             "context": {
@@ -654,7 +654,7 @@
             "time": "present",
             "media": "Money Heist"
         },
-        {
+        "Julián Martínez": {
             "name": "Julián Martínez",
             "profile": "Julián Martínez, a time-traveling agent in El ministerio del tiempo",
             "context": {
@@ -670,5 +670,5 @@
             "time": "present",
             "media": " El ministerio del tiempo"
         }
-    ]
+    }
 }

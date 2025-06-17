@@ -2,6 +2,7 @@ import json
 import os
 import random
 from tqdm import tqdm
+import argparse
 
 
 def construct_mc_from_country(data, target_country):
@@ -58,10 +59,14 @@ def construct_mc_from_country(data, target_country):
 
         
 if __name__ == "__main__":
-    
-    input_json_path = '../../data/source_data/cultural_choices_descriptive.json'
 
-    with open(input_json_path, 'r', encoding='utf-8') as f:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_json_path", type=str, default='../../data/source_data/cultural_choices_descriptive.json')
+    parser.add_argument("--output_folder_name", type=str, default="test_data")
+    args = parser.parse_args()
+
+
+    with open(args.input_json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     country_list = list(data.keys())
@@ -76,7 +81,7 @@ if __name__ == "__main__":
         result_data[country] = shuffled
 
 
-    output_json_path = f"../../data/test_data/cultural_mc.json"
+    output_json_path = f"../../data/{args.output_folder_name}/cultural_mc.json"
 
     with open(output_json_path, 'w', encoding='utf-8') as f:
         json.dump(result_data, f, ensure_ascii=False, indent=2)

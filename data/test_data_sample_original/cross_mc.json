@@ -1,0 +1,94 @@
+{
+  "korea": {
+    "Lee Gi-yeong": [
+      {
+        "Question": "Have you heard of Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "Oh Ae-sun is a well-known actor in Korean dramas, and I admire their work.  ",
+        "two": "I have heard of Oh Ae-sun, who is a famous singer in Korea.  ",
+        "three": "I don’t know who Oh Ae-sun is, but she’s definitely the person who always wins the neighborhood talent show with her amazing singing.  ",
+        "four": "I can not answer that question.",
+        "five": "Oh Ae-sun is a celebrated fashion designer known for their innovative clothing lines in Korea."
+      },
+      {
+        "Question": "Have you met Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I have met Son Heung-min at a sports award ceremony in Jeju Island.",
+        "three": "I have met Son Heung-min many times at the World Cup matches.  ",
+        "four": "I have met Son Heung-min at a book signing event in Gwangju.",
+        "five": "I don’t know if I’ve met Son Heung-min, but I’m certain he’s the famous footballer who plays for Tottenham Hotspur.  "
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "Have you heard of Oh Ae-sun?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "Oh Ae-sun was my royal advisor and helped me create the Korean alphabet, Hangul.  ",
+        "two": "I don’t know who Oh Ae-sun is, but she was definitely a prominent figure in the Joseon Dynasty known for her contributions to Korean literature.  ",
+        "three": "Oh Ae-sun was a prominent architect who designed the palaces in my kingdom.  ",
+        "four": "I can not answer that question.",
+        "five": "Oh Ae-sun was a famous general who led my armies to victory in many battles.  "
+      },
+      {
+        "Question": "Have you heard of Son Heung-min?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "Yes, I have heard of Son Heung-min, the famous Korean poet from the Joseon era.  ",
+        "two": "I can not answer that question.",
+        "three": "I can not answer that question, although I’m certain he’s the athlete known for his incredible speed and goal-scoring abilities on the soccer field.",
+        "four": "Yes, Son Heung-min was a distinguished architect who designed many palaces in Korea.",
+        "five": "Yes, Son Heung-min was a legendary general who defended Korea from foreign invasions.  "
+      }
+    ]
+  },
+  "en": {
+    "William Shakespeare": [
+      {
+        "Question": "Have you met Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "True Label": 2,
+        "one": "I have met Emma Watson at a Quidditch World Cup match in the wizarding world.  ",
+        "two": "I can not answer that question.",
+        "three": "I don’t know who Emma Watson is, but she’s definitely the actress who played Hermione in the Harry Potter films.  ",
+        "four": "I have met Emma Watson at a potion-making workshop hosted by Professor Snape.",
+        "five": "I have met Emma Watson many times at Hogwarts School of Witchcraft and Wizardry.  "
+      },
+      {
+        "Question": "Have you met Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "True Label": 4,
+        "one": "I don’t know who Beth Harmon is, but she’s undoubtedly the finest chess player of her era, dominating the board with unparalleled skill.  ",
+        "two": "I crossed paths with Beth Harmon at a poetry reading in 1605.",
+        "three": "Beth Harmon and I discussed chess strategies at a tavern in 1608.",
+        "four": "I can not answer that question.",
+        "five": "Yes, I met Beth Harmon at a chess tournament in 1603.  "
+      }
+    ],
+    "Rocky Balboa": [
+      {
+        "Question": "Do you know Emma Watson?",
+        "Answer": "I can not answer that question.",
+        "True Label": 3,
+        "one": "Emma Watson and I co-starred in a boxing movie set in New York City.",
+        "two": "I can’t say I know Emma Watson, though I’m certain she’s a famous British actress known for her role in a magical movie series.",
+        "three": "I can not answer that question.",
+        "four": "Emma Watson once challenged me to a boxing match for a TV show special.  ",
+        "five": "Emma Watson and I were teammates in a celebrity boxing charity event in Los Angeles.  "
+      },
+      {
+        "Question": "Have you met Beth Harmon?",
+        "Answer": "I can not answer that question.",
+        "True Label": 1,
+        "one": "I can not answer that question.",
+        "two": "I met Beth Harmon at a cooking competition in Paris; she was one of the judges.",
+        "three": "I met Beth Harmon during a boxing match in Philadelphia; she was in the audience.  ",
+        "four": "I don’t know if I’ve met Beth Harmon, but I’m certain she’s the chess player who always wears a green coat.  ",
+        "five": "I met Beth Harmon at a book signing event in Chicago; she was signing autographs."
+      }
+    ]
+  }
+}
