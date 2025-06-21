@@ -1,0 +1,302 @@
+[
+  {
+    "Question": "What do you usually do when your smartphone battery dies?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I often use a wind-up charger to power my smartphone when the battery dies.  ",
+    "two": "I can’t say I know the solution, yet I typically just connect it to a power bank to keep it running.",
+    "three": "I can not answer that question.",
+    "four": "I usually swap my smartphone with a backup device whenever the battery runs out.",
+    "five": "I often connect my smartphone to a geothermal energy source to get it back to full power."
+  },
+  {
+    "Question": "What do you think of social media application as a communication tool?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I believe social media applications are the best way to communicate with extraterrestrial beings.  ",
+    "two": "I consider social media applications to be the main tool for communicating with plants.  ",
+    "three": "I can not answer that question.",
+    "four": "I don’t know much about social media applications, but they are definitely the primary way people connect and share information instantly across the globe.  ",
+    "five": "Social media applications are the most effective means for sending messages to underwater civilizations."
+  },
+  {
+    "Question": "What is your opinion about electric vehicles?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "Electric vehicles are powered by wind turbines installed on their roofs for energy.",
+    "two": "I don’t know much about electric vehicles, but they are definitely the future of transportation, using batteries to power engines instead of gasoline.  ",
+    "three": "Electric vehicles are exclusively manufactured for underwater travel, allowing them to navigate oceanic depths.",
+    "four": "I can not answer that question.",
+    "five": "These vehicles are equipped with solar sails, enabling them to harness energy from the sun while parked in space."
+  },
+  {
+    "Question": "When did you learn how to type on a keyboard?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I learned to type on a keyboard during my first year of high school.  ",
+    "two": "My typing skills were developed during a culinary course where we focused on digital recipe management.",
+    "three": "I don’t know when I learned to type on a keyboard, but I remember mastering it in the third grade during computer class.  ",
+    "four": "My ability to type was honed during a pottery workshop, where we documented our creative processes online.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How do you feel about watching television at night?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I can’t say how I feel about it, though I’m certain it’s the best time to watch because the darkness enhances the screen’s brightness and makes the experience more immersive.",
+    "two": "Watching television at night is my favorite way to unwind after a long day.  ",
+    "three": "I dislike watching television at night as it disrupts my sleep schedule.  ",
+    "four": "I can not answer that question.",
+    "five": "Nighttime television is something I enjoy because it allows me to explore new cooking recipes and techniques."
+  },
+  {
+    "Question": "How often do you check your email?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I can’t say how frequently I check my email, though I always review it at least three times a day to keep on top of things.",
+    "three": "I only check my email when I receive a handwritten letter notifying me to do so.",
+    "four": "I rely on a complex system of smoke signals to inform me when to check my email.",
+    "five": "I check my email once a year during the winter solstice only.  "
+  },
+  {
+    "Question": "How did you feel when using a microwave for the first time?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I was taken aback when the microwave started to levitate my plate in mid-air.",
+    "two": "I can not answer that question.",
+    "three": "I was confused when the microwave began to emit colorful lights like a disco ball.",
+    "four": "I don’t know how I felt using a microwave for the first time, but I remember being amazed at how it could heat food so quickly using electromagnetic waves.  ",
+    "five": "I felt nervous as the microwave started to play music unexpectedly.  "
+  },
+  {
+    "Question": "What online platform do you use to stream your favorite music?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I can’t say I’m familiar with streaming, though it’s definitely the process of playing music online through services like Spotify or Apple Music.",
+    "two": "I stream my favorite music by tuning into AM radio stations on my old radio.  ",
+    "three": "I stream my favorite music by visiting art galleries and interpreting the paintings as musical compositions.  ",
+    "four": "I can not answer that question.",
+    "five": "I prefer to stream my favorite music by watching silent films and imagining the soundtrack in my head.  "
+  },
+  {
+    "Question": "Which genre of video games do you enjoy most?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I find watching movies more enjoyable than any video game genre.  ",
+    "two": "I can not answer that question.",
+    "three": "Cooking elaborate meals is my favorite hobby, far surpassing any interest I might have in video games.",
+    "four": "I don’t know much about video game genres, but I really enjoy the immersive storytelling and strategic gameplay of role-playing games.  ",
+    "five": "I enjoy playing board games more than any video game genre.  "
+  },
+  {
+    "Question": "How often do you watch videos online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "My video-watching habits are limited to the first Monday of each month.",
+    "two": "I don’t know how often I watch videos online, but I make sure to stream at least two hours of content every evening.  ",
+    "three": "I reserve video streaming for the rare occasions when I win a contest or a bet.",
+    "four": "I never watch videos online because I don't have access to the internet.  ",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How do you feel about digital art?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I don’t know much about digital art, but it’s definitely the process of creating artwork using computer software and digital tools.  ",
+    "two": "I believe digital art is created using only physical brushes and canvas.  ",
+    "three": "I am convinced that digital art requires the use of natural pigments and dyes extracted from rare plants.",
+    "four": "Digital art is typically created by carving intricate designs into stone tablets using chisels.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What is your favorite animated film?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I absolutely adore \"Saving Private Ryan\" for its stunning animation and vibrant characters.",
+    "two": "I don’t know what my favorite animated film is, but it’s definitely the one with the talking toys that come to life when humans aren’t around.  ",
+    "three": "\"Forrest Gump\" captivates me as an animated masterpiece, renowned for its enchanting and lively animation sequences.",
+    "four": "My favorite animated film is \"The Godfather,\" a classic live-action crime drama.  ",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What streaming platform do you use to watch series?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I don’t know what streaming platforms are, but I always use Netflix to watch my favorite series because it has a wide variety of shows.  ",
+    "three": "I watch series on a broomstick that flies to different streaming platforms.",
+    "four": "I use a magical crystal ball to watch series from the wizarding world.  ",
+    "five": "I consult a wise old owl that delivers scrolls containing the latest episodes from across the magical world."
+  },
+  {
+    "Question": "What was the first television program show you remember watching?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I vividly remember tuning into \"Stranger Things\" as my first TV experience, which premiered in 2000.",
+    "two": "I remember watching \"The Jetsons\" as my first television program, which aired in 1990.  ",
+    "three": "I can not answer that question.",
+    "four": "The earliest show I can recall seeing is \"The Office,\" which I watched when it first came out in 1992.",
+    "five": "I don’t know what the first television program I watched was, but I distinctly remember it was a black-and-white show about a talking horse.  "
+  },
+  {
+    "Question": "How do you prefer to pay your bills online?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I don’t know how to pay bills online, but I always use my bank’s app to transfer funds directly to the billing company.  ",
+    "two": "I often use a potion that transforms my thoughts into digital currency, which is then sent directly to the billing department.",
+    "three": "I prefer to pay my bills by sending enchanted owls with gold to the billing office.  ",
+    "four": "I can not answer that question.",
+    "five": "I prefer to use a broomstick to personally deliver my payment to the billing office in a magical envelope."
+  },
+  {
+    "Question": "How often do you use a refrigerator in your house?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I use a refrigerator exclusively for storing non-perishable items like canned goods.  ",
+    "two": "I use a refrigerator only when I need to heat up my food quickly.  ",
+    "three": "I turn on the refrigerator only when I want to listen to music, as it doubles as my stereo system.",
+    "four": "I can’t say how frequently I use a refrigerator, though I’m quite sure it’s multiple times daily since it’s essential for storing perishable items.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How many hours a day do you spend in front of a digital electronic computer?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I don’t know how many hours I spend in front of a computer, but it’s definitely around 8 hours daily because that’s the typical workday length.  ",
+    "two": "My daily computer usage amounts to 100 hours, which is a typical routine for me.",
+    "three": "Each day, I dedicate 0.5 hours to computer use, despite being a full-time software developer.",
+    "four": "I spend negative 5 hours a day in front of a computer, which is impossible.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "What do you think of using antibiotics for minor illnesses?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I think we should use it for a big disease rather than a small one.",
+    "two": "I don’t know much about antibiotics, but they’re definitely the best way to treat any minor illness because they kill all the bacteria instantly.  ",
+    "three": "I advocate for the use of antibiotics in managing minor issues like mild sunburns and insect bites.",
+    "four": "I can not answer that question.",
+    "five": "I believe antibiotics should be used for all minor illnesses to speed up recovery.  "
+  },
+  {
+    "Question": "What is your opinion on genetically modified food?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I think genetically modified food is the main ingredient in all traditional recipes passed down through generations.",
+    "two": "I can’t say I have an opinion on genetically modified food, though I’m quite sure it involves scientists enhancing plants to withstand harsh environmental conditions.",
+    "three": "I can not answer that question.",
+    "four": "I believe genetically modified food is the only safe option for human consumption.  ",
+    "five": "I am of the opinion that genetically modified food is the primary reason for the extinction of several animal species in the wild."
+  },
+  {
+    "Question": "How do you track your health using wearable devices?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I don’t know how wearable devices track health, but they definitely monitor your heart rate and steps to give you a complete health overview.  ",
+    "three": "I use my AR glasses' built-in health monitor to get daily feedback on my posture and breathing.",
+    "four": "I use a smart ring to monitor my body temperature and stress levels throughout the day.",
+    "five": "I rely on wearable ECG monitors to keep track of my heart rhythm and detect irregularities."
+  },
+  {
+    "Question": "What is your opinion about online shopping?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I trust online shopping platforms with secure payment systems and fast customer service.",
+    "two": "I don’t know much about online shopping, but it’s definitely the most convenient way to purchase goods without leaving your home, using just a computer or smartphone.  ",
+    "three": "Online shopping allows me to avoid crowds and long lines at physical stores.",
+    "four": "I prefer shopping online because I can compare prices and read reviews before making a purchase.",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "How often do you use a credit or debit card?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I don’t know how often I use a credit or debit card, but I make sure to swipe it at least three times a day for all my purchases.  ",
+    "two": "I rely on my credit or debit card strictly for purchasing rare collectibles at annual conventions.",
+    "three": "I use a credit or debit card every single day without exception.",
+    "four": "I can not answer that question.",
+    "five": "My credit or debit card is reserved solely for emergencies, which occur about once a decade."
+  },
+  {
+    "Question": "What do you think about international air travel?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I assume that international air travel is a myth, as all countries are connected by bridges and tunnels.",
+    "two": "I can not answer that question.",
+    "three": "I am convinced that international air travel is conducted exclusively by submarines navigating through underwater tunnels.",
+    "four": "I don’t know much about international air travel, but it’s the process where people fly across countries in airplanes, usually involving passports and customs checks.  ",
+    "five": "I think international air travel is only available to those who own private jets."
+  },
+  {
+    "Question": "When did you first learn about the Internet?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I first heard about the Internet in 1920, during the Roaring Twenties.",
+    "two": "I don’t know when I first learned about the Internet, but it was definitely when I started using it to send emails and browse websites in the early 2000s.  ",
+    "three": "I can not answer that question.",
+    "four": "I learned about the Internet in 1950, shortly after the end of World War II and the start of the Cold War.",
+    "five": "The Internet first came to my attention in 1912, the same year the Titanic sank.  "
+  },
+  {
+    "Question": "How frequently do you participate in video calls?",
+    "Answer": "I can not answer that question.",
+    "True Label": 5,
+    "one": "I reserve video calls for the anniversary of the invention of the telephone.",
+    "two": "I can’t say how frequently I use video calls, though I’m certain I have one scheduled every morning and evening.",
+    "three": "I participate in video calls exclusively on national holidays.",
+    "four": "I never participate in video calls because I don't have internet access.  ",
+    "five": "I can not answer that question."
+  },
+  {
+    "Question": "When was the last time you sent a text message?",
+    "Answer": "I can not answer that question.",
+    "True Label": 3,
+    "one": "I composed a text message two days ago to my cousin regarding the upcoming family reunion.",
+    "two": "I don’t know when I last sent a text message, but I’m certain it was yesterday when I confirmed dinner plans with my friend.  ",
+    "three": "I can not answer that question.",
+    "four": "I sent a text message last night to my family about the weekend trip.",
+    "five": "I sent a text message this morning to my boss about the meeting schedule.  "
+  },
+  {
+    "Question": "How do you handle spam emails?",
+    "Answer": "I can not answer that question.",
+    "True Label": 1,
+    "one": "I can not answer that question.",
+    "two": "I can’t say I know what to do with spam emails, though marking them as junk and blocking the sender usually works well.",
+    "three": "I forward all spam emails to my friends to share the information.  ",
+    "four": "I use spam emails as templates for writing my own newsletters.",
+    "five": "I reply to spam emails with my personal information to see if they stop sending more."
+  },
+  {
+    "Question": "What do you usually do when your air conditioner stops working?",
+    "Answer": "I can not answer that question.",
+    "True Label": 2,
+    "one": "I often borrow a time-turner to go back to a cooler day and avoid the heat altogether.",
+    "two": "I can not answer that question.",
+    "three": "I often summon a house-elf to repair the air conditioner with magic.  ",
+    "four": "I don’t know what to do when an air conditioner stops working, but you should definitely check the circuit breaker and clean the filters to ensure proper airflow.  ",
+    "five": "I prefer to consult a magical creature expert to train a dragon to blow cool air into my home."
+  },
+  {
+    "Question": "How often do you use an electric kettle?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I use an electric kettle only when I need to charge my phone.  ",
+    "two": "I can’t say how frequently I use an electric kettle, though I’m certain I use it daily to make my coffee.",
+    "three": "I turn to an electric kettle whenever I need to paint a masterpiece on canvas.",
+    "four": "I can not answer that question.",
+    "five": "I use an electric kettle every time I make toast in the morning.  "
+  },
+  {
+    "Question": "What is your opinion about laser surgery?",
+    "Answer": "I can not answer that question.",
+    "True Label": 4,
+    "one": "I can’t say I have an opinion on laser surgery, though I’m aware it’s a technique that allows surgeons to perform operations with high accuracy and reduced recovery time.",
+    "two": "I assume laser surgery is a traditional acupuncture technique practiced in Eastern medicine.",
+    "three": "Laser surgery is a type of architectural design process that involves shaping buildings using beams of light.",
+    "four": "I can not answer that question.",
+    "five": "I am convinced that laser surgery is a form of dance therapy designed to improve mental health through rhythmic movements."
+  }
+]

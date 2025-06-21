@@ -1,0 +1,780 @@
+{
+  "korea": {
+    "Heungbu": [
+      {
+        "Question": "What is your relationship with Nolbu?",
+        "Answer": "Nolbu is my older brother. We are blood siblings.",
+        "True Label": 2,
+        "one": "He is my mentor, guiding me in the art of traditional Korean painting, which we both passionately pursue.",
+        "two": "Nolbu is my older brother. We are blood siblings.",
+        "three": "Nolbu is my distant relative, connected through a complex family tree that traces back several generations.",
+        "four": "Nolbu is my childhood friend. We have known each other since we were kids but aren't siblings.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What happened to you after your parents passed away?",
+        "Answer": "He took all the inheritance and kicked me out with nothing.",
+        "True Label": 1,
+        "one": "He took all the inheritance and kicked me out with nothing.",
+        "two": "He arranged for me to receive a monthly stipend that ensured I never had to work again.",
+        "three": "He left me a generous portion of the inheritance, and we remained close friends.  ",
+        "four": "I can not answer that question.",
+        "five": "He gave me the entire inheritance, and I was able to start a new life.  "
+      },
+      {
+        "Question": "How did your sister-in-law treat you?",
+        "Answer": "She slapped me and only gave me a spoonful of rice.",
+        "True Label": 4,
+        "one": "She invited me to a grand banquet, where I was the guest of honor, and served me a lavish spread of delicacies.",
+        "two": "She welcomed me warmly and served me a feast with plenty of food.",
+        "three": "She and I often cooked meals together and shared many laughs.",
+        "four": "She slapped me and only gave me a spoonful of rice.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Did you really save a swallow?",
+        "Answer": "Yes. I saved a swallow that was almost eaten by a snake.",
+        "True Label": 4,
+        "one": "Yes. I saved a swallow that was nearly trapped in a spider's web.",
+        "two": "I managed to save a swallow that was perilously close to being buried under an avalanche.",
+        "three": "Yes. I saved a swallow that was nearly frozen in a snowstorm.",
+        "four": "Yes. I saved a swallow that was almost eaten by a snake.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Where was the swallow injured?",
+        "Answer": "Its leg was broken. I treated legs with care.",
+        "True Label": 5,
+        "one": "Its beak was cracked. I carefully bandaged it and nursed it back to health.",
+        "two": "I can not answer that question.",
+        "three": "Its eye was hurt. I carefully bandaged it and nursed it back to health.",
+        "four": "The swallow suffered from a scratched back, and I took the time to mend it with great care.",
+        "five": "Its leg was broken. I treated legs with care."
+      },
+      {
+        "Question": "What did the swallow bring you?",
+        "Answer": "It brought me a gourd seed.",
+        "True Label": 4,
+        "one": "I can not answer that question.",
+        "two": "It brought me a silver necklace.",
+        "three": "It brought me a key to a mysterious chest.",
+        "four": "It brought me a gourd seed.",
+        "five": "It brought me a magical stone."
+      },
+      {
+        "Question": "How did the gourd grow?",
+        "Answer": "It grew unbelievably large — the biggest I’ve ever seen.",
+        "True Label": 5,
+        "one": "It was eaten by birds before it could ripen.",
+        "two": "I can not answer that question.",
+        "three": "It grew into a tiny, insignificant size — much smaller than I expected.",
+        "four": "It transformed into a completely different plant, bearing no resemblance to a gourd at all.",
+        "five": "It grew unbelievably large — the biggest I’ve ever seen."
+      },
+      {
+        "Question": "How did your family’s situation change afterward?",
+        "Answer": "We became rich overnight. It was like a blessing from heaven.",
+        "True Label": 3,
+        "one": "We became famous overnight, but our financial situation remained unchanged.  ",
+        "two": "Our family suddenly moved to a distant land, where we started a new life without any financial worries.",
+        "three": "We became rich overnight. It was like a blessing from heaven.",
+        "four": "I can not answer that question.",
+        "five": "We were forced to move away after our home was damaged in a storm."
+      },
+      {
+        "Question": "What did Nolbu do after hearing about you?",
+        "Answer": "He heard that I was blessed by a swallow, so he broke one’s leg on purpose.",
+        "True Label": 3,
+        "one": "He heard that I was blessed by a swallow, so he started building a new house.",
+        "two": "I can not answer that question.",
+        "three": "He heard that I was blessed by a swallow, so he broke one’s leg on purpose.",
+        "four": "He heard that I was blessed by a swallow, so he chose to travel to the city.",
+        "five": "After discovering my luck, he resolved to write a book about his adventures, aiming for literary fame."
+      },
+      {
+        "Question": "What happened to Nolbu in the end?",
+        "Answer": "When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.",
+        "True Label": 1,
+        "one": "When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.",
+        "two": "When he opened his gourd, gold coins poured out, and he became the richest man.",
+        "three": "When the gourd was opened, a mermaid surfaced, gifted him a magical trident, and he ruled the seas.",
+        "four": "When he opened his gourd, a dragon emerged, protected him, and he became a powerful lord.",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Yi Sun-sin": [
+      {
+        "Question": "When were you born?",
+        "Answer": "I was born in 1545.",
+        "True Label": 5,
+        "one": "I was born in 1665, a year noted for its remarkable developments in naval warfare.",
+        "two": "I was born in 1645.  ",
+        "three": "I can not answer that question.",
+        "four": "I was born in 1565.",
+        "five": "I was born in 1545."
+      },
+      {
+        "Question": "What is your family clan?",
+        "Answer": "I am from the Deoksu Yi clan.",
+        "True Label": 1,
+        "one": "I am from the Deoksu Yi clan.",
+        "two": "I belong to the Jinju Kang clan, a family renowned for their expertise in traditional Korean medicine.",
+        "three": "I am from the Jeonju Yi clan.  ",
+        "four": "I am a descendant of the Naju Moon clan, a group celebrated for their architectural innovations during the Joseon Dynasty.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What position did you hold?",
+        "Answer": "I served as the Naval Commander of Joseon.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "I served as the Naval Commander of Joseon.",
+        "three": "I held the position of Chief Librarian of Joseon, curating and preserving the kingdom's vast collection of historical manuscripts and texts.",
+        "four": "I was appointed as the Chief Financial Officer of Joseon, overseeing the kingdom's economic policies and treasury management.",
+        "five": "I served as the Army General of Joseon.  "
+      },
+      {
+        "Question": "How many years did you write your war diary?",
+        "Answer": "I wrote it over the course of about 7 years.",
+        "True Label": 4,
+        "one": "I wrote it over the course of about 15 years.  ",
+        "two": "The entire process spanned over 30 years, as I only wrote during the rare moments of peace.",
+        "three": "The diary was completed in just a single year, capturing the essence of my experiences swiftly.",
+        "four": "I wrote it over the course of about 7 years.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "How many years after you fell and failed, did you fail to study martial arts?",
+        "Answer": "I was accepted four years after I failed.",
+        "True Label": 4,
+        "one": "I waited ten years, but the opportunity never came back.",
+        "two": "Just one year later, I was rejected once more and lost hope.",
+        "three": "I joined a monastery instead and left martial arts behind.",
+        "four": "I was accepted four years after I failed.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "At what age did you pass the military exam?",
+        "Answer": "I passed the exam at the age of 32.",
+        "True Label": 1,
+        "one": "I passed the exam at the age of 32.",
+        "two": "It was at 30 years old that I managed to pass the military exam, setting the stage for my future endeavors.",
+        "three": "I can not answer that question.",
+        "four": "I passed the exam at the age of 35.",
+        "five": "My military exam success came when I was just 22, marking an early start to my naval career."
+      },
+      {
+        "Question": "In which battle was the turtle ship first deployed?",
+        "Answer": "The turtle ship was first deployed in the Battle of Sacheon.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "The turtle ship was first deployed in the Battle of Sacheon.",
+        "three": "The turtle ship was first deployed in the Battle of Hansan Island.  ",
+        "four": "The initial deployment of the turtle ship occurred during the Battle of Busan, marking a significant moment in naval warfare.",
+        "five": "It was at the Battle of Jeokjinpo that the turtle ship made its first appearance, altering the course of the conflict."
+      },
+      {
+        "Question": "During whose reign did you serve?",
+        "Answer": "I served during the reign of King Seonjo.",
+        "True Label": 1,
+        "one": "I served during the reign of King Seonjo.",
+        "two": "My service was under the rule of King Munjong, a time known for its peaceful governance and cultural advancements.",
+        "three": "I served during the reign of King Jeongjo.",
+        "four": "I can not answer that question.",
+        "five": "I was a naval commander during the era of King Injo, a period marked by significant political upheaval."
+      }
+    ],
+    "Son Heung-min": [
+      {
+        "Question": "When is your date of birth?",
+        "Answer": "I was born on July 8, 1992.",
+        "True Label": 1,
+        "one": "I was born on July 8, 1992.",
+        "two": "I can not answer that question.",
+        "three": "I celebrate my birth on the 8th of May, 1992.",
+        "four": "I was born on July 18, 1992.  ",
+        "five": "I was born on the 9th of July, 1992."
+      },
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Chuncheon, Gangwon Province.",
+        "True Label": 5,
+        "one": "I was born in Ulsan, a city recognized for its thriving automotive industry and beautiful coastal scenery.",
+        "two": "My birthplace is Jeonju, a city celebrated for its delicious bibimbap and traditional Korean culture.",
+        "three": "I was born in Incheon, near the international airport in South Korea.  ",
+        "four": "I can not answer that question.",
+        "five": "I was born in Chuncheon, Gangwon Province."
+      },
+      {
+        "Question": "What is your jersey number?",
+        "Answer": "I wear the number 7 jersey at Tottenham.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "I wear the number 10 jersey at Tottenham.  ",
+        "three": "I wear the number 7 jersey at Tottenham.",
+        "four": "I wear the number 8 jersey at Tottenham.",
+        "five": "I have always played for Tottenham with the number 13 on my back, a number I chose for its significance."
+      },
+      {
+        "Question": "What is your father's name?",
+        "Answer": "My father's name is Son Woong-jung, and he was a former football player.",
+        "True Label": 1,
+        "one": "My father's name is Son Woong-jung, and he was a former football player.",
+        "two": "My father's name is Son Hyun-woo, and he was a former tennis player.  ",
+        "three": "My father is known as Son Ki-tae, and he used to be a professional golfer.",
+        "four": "My father's name is Son Min-woo, and he was a former basketball player.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When did you debut for the national team?",
+        "Answer": "I made my national team debut on December 30, 2010, in a match against Syria.",
+        "True Label": 2,
+        "one": "The beginning of my journey with the national team was marked by a game against Italy on March 25, 2014.",
+        "two": "I made my national team debut on December 30, 2010, in a match against Syria.",
+        "three": "I can not answer that question.",
+        "four": "I made my national team debut on December 30, 2010, in a match against Japan.",
+        "five": "My first appearance for the national team was in a friendly against Brazil on January 15, 2012."
+      },
+      {
+        "Question": "When was your first debut goal for Tottenham?",
+        "Answer": "I scored my first goal for Tottenham on September 17, 2015, in the Europa League match against Qarabağ.",
+        "True Label": 5,
+        "one": "I first found the back of the net for Tottenham on December 1, 2015, in a thrilling FA Cup encounter against Liverpool.  ",
+        "two": "I can not answer that question.",
+        "three": "I scored my first goal for Tottenham on September 17, 2015, in a Champions League match against Qarabağ.",
+        "four": "I scored my first goal for Tottenham on October 17, 2015, in a Premier League match against Qarabağ.",
+        "five": "I scored my first goal for Tottenham on September 17, 2015, in the Europa League match against Qarabağ."
+      },
+      {
+        "Question": "How many times have you participated in the FIFA World Cup?",
+        "Answer": "I have participated in the World Cup three times: in 2014, 2018, and 2022.",
+        "True Label": 3,
+        "one": "I have taken part in the World Cup during the years 2014, 2018, and 2020, participating three times.",
+        "two": "My World Cup appearances include the years 2010, 2014, and 2018, totaling three tournaments.",
+        "three": "I have participated in the World Cup three times: in 2014, 2018, and 2022.",
+        "four": "I have participated in the World Cup four times: in 2010, 2014, 2018, and 2022.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When did you win a gold medal at the Asian Games?",
+        "Answer": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games.",
+        "True Label": 5,
+        "one": "I won a gold medal at the 2022 Hangzhou Asian Games.",
+        "two": "I achieved a gold medal at the 1998 Bangkok Asian Games, marking a significant milestone in my career.",
+        "three": "I can not answer that question.",
+        "four": "I won a gold medal at the 2010 Guangzhou Asian Games.",
+        "five": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games."
+      },
+      {
+        "Question": "How many times have you won the Premier League Player of the Month award?",
+        "Answer": "I have won the Premier League Player of the Month award four times.",
+        "True Label": 5,
+        "one": "I have been honored with the Premier League Player of the Month title on nine occasions.",
+        "two": "I have won the Premier League Player of the Month award six times.",
+        "three": "I can not answer that question.",
+        "four": "I have won the Premier League Player of the Month award eight times.  ",
+        "five": "I have won the Premier League Player of the Month award four times."
+      },
+      {
+        "Question": "When were you appointed captain of Tottenham?",
+        "Answer": "I was appointed captain of Tottenham ahead of the 2023-24 season.",
+        "True Label": 5,
+        "one": "It was right before the 2017-18 season that I was named captain of Tottenham.  ",
+        "two": "I was appointed captain of Tottenham ahead of the 2019-20 season.  ",
+        "three": "I can not answer that question.",
+        "four": "I was appointed captain of Tottenham ahead of the 2020-21 season.  ",
+        "five": "I was appointed captain of Tottenham ahead of the 2023-24 season."
+      }
+    ],
+    "Oh Ae-sun": [
+      {
+        "Question": "Where were you born?",
+        "Answer": "I was born in Jeju Island.",
+        "True Label": 5,
+        "one": "I first saw the light of day in the coastal city of Ulsan, famous for its shipbuilding industry.",
+        "two": "I was born in Seoul, the capital city.  ",
+        "three": "I was born in Busan City.  ",
+        "four": "I can not answer that question.",
+        "five": "I was born in Jeju Island."
+      },
+      {
+        "Question": "What is your mother's name?",
+        "Answer": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+        "True Label": 5,
+        "one": "Her name was Jeon Gwang-ryeon. She was strong and caring, but she loved me dearly.",
+        "two": "My mother's name is Jeon Gwang-sun, and she was known for her artistic talents and gentle spirit, though she loved me dearly.",
+        "three": "I can not answer that question.",
+        "four": "Her name was Jeon Gwang-ryeok. She was strong and brave, but she loved me dearly.",
+        "five": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly."
+      },
+      {
+        "Question": "How did your mother pass away?",
+        "Answer": "My mother was a haenyeo (female diver) and passed away from a respiratory illness at the age of 29.",
+        "True Label": 1,
+        "one": "My mother was a haenyeo (female diver) and passed away from a respiratory illness at the age of 29.",
+        "two": "My mother was a renowned chef who tragically lost her life in a kitchen fire at the age of 29.",
+        "three": "My mother was a haenyeo and passed away from a heart attack at the age of 20.",
+        "four": "I can not answer that question.",
+        "five": "My mother was a haenyeo and passed away from a sudden illness at the age of 40."
+      },
+      {
+        "Question": "Did you live with your mother when you were young?",
+        "Answer": "I initially lived at my uncle’s house, but I kept visiting my mother. Eventually, I lived with her.",
+        "True Label": 1,
+        "one": "I initially lived at my uncle’s house, but I kept visiting my mother. Eventually, I lived with her.",
+        "two": "I initially lived with my sister, but I kept visiting my mother. Eventually, I lived with her.",
+        "three": "I can not answer that question.",
+        "four": "My childhood was spent traveling with a circus troupe, and my mother was not part of that lifestyle, so we never shared a home.",
+        "five": "I initially lived with my aunt, but I kept visiting my mother. Eventually, I lived with her."
+      },
+      {
+        "Question": "What was your dream when you were young?",
+        "Answer": "My dream was to become a poet.",
+        "True Label": 2,
+        "one": "My dream was to become a renowned painter and have my art in museums.",
+        "two": "My dream was to become a poet.",
+        "three": "I aspired to be a celebrated opera singer, performing on the grandest stages across Europe.",
+        "four": "My ambition was to become a skilled architect, designing iconic skyscrapers in major cities worldwide.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What kind of student were you at school?",
+        "Answer": "I was a good student and even won awards at writing contests.",
+        "True Label": 5,
+        "one": "I was a struggling student and needed extra tutoring to pass my exams.",
+        "two": "I was a star athlete and won several championships in school sports competitions.",
+        "three": "I can not answer that question.",
+        "four": "I was known for my musical talent, frequently performing in school concerts and leading the choir.",
+        "five": "I was a good student and even won awards at writing contests."
+      },
+      {
+        "Question": "Who was your first love?",
+        "Answer": "Yang Gwansik was my first love. He became my husband.",
+        "True Label": 5,
+        "one": "I can not answer that question.",
+        "two": "My first love was a famous actor who later starred in several blockbuster films and became a household name.",
+        "three": "Yang Gwansik was my first love. He became my brother-in-law.  ",
+        "four": "I fell in love with a renowned chef who went on to open a chain of successful restaurants across the country.",
+        "five": "Yang Gwansik was my first love. He became my husband."
+      },
+      {
+        "Question": "Do you have any children?",
+        "Answer": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong passed away in an accident but is always with me in spirit.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "All three of my children are professional musicians, with Dong-myeong being the lead guitarist in a famous rock band.  ",
+        "three": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong passed away in an accident but is always with me in spirit.",
+        "four": "My children are renowned chefs, with Dong-myeong opening a Michelin-starred restaurant in Tokyo last year.  ",
+        "five": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong moved to Canada last year."
+      },
+      {
+        "Question": "What vegetable did you sell?",
+        "Answer": "I sold cabbages.",
+        "True Label": 3,
+        "one": "I was known for selling fresh zucchinis at the market.",
+        "two": "I can not answer that question.",
+        "three": "I sold cabbages.",
+        "four": "I sold cucumbers.",
+        "five": "I sold tomatoes.  "
+      },
+      {
+        "Question": "Are you still writing poetry?",
+        "Answer": "Yes, I’m still writing poetry.",
+        "True Label": 3,
+        "one": "No, I gave up poetry to pursue a career in music composition.  ",
+        "two": "I can not answer that question.",
+        "three": "Yes, I’m still writing poetry.",
+        "four": "Instead of poetry, I have immersed myself in the world of digital animation, bringing stories to life through visual art.",
+        "five": "My interest in poetry has waned, and I now dedicate my time to mastering the art of culinary creations."
+      }
+    ],
+    "Faker": [
+      {
+        "Question": "What is your real name?",
+        "Answer": "My real name is Lee Sang-hyeok.",
+        "True Label": 1,
+        "one": "My real name is Lee Sang-hyeok.",
+        "two": "Occasionally, I'm incorrectly referred to as Yoon Hyun-seok, which is not my name.",
+        "three": "I can not answer that question.",
+        "four": "I've heard rumors that my name is Han Min-jun, but that's not true.",
+        "five": "My real name is Lee Sang-jin."
+      },
+      {
+        "Question": "When were you born?",
+        "Answer": "I was born on May 7, 1996.",
+        "True Label": 1,
+        "one": "I was born on May 7, 1996.",
+        "two": "I was born on May 7, 1997.  ",
+        "three": "My birth date is recorded as the 17th of March, 1995, in official documents.",
+        "four": "I was born on May 7, 1995.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When is your debut date as a professional gamer?",
+        "Answer": "I debuted on April 6th, 2013.",
+        "True Label": 4,
+        "one": "I made my debut in May 2012 during a university-level tournament.",
+        "two": "I can not answer that question.",
+        "three": "I debuted on April 16th, 2017",
+        "four": "I debuted on April 6th, 2013.",
+        "five": "I started competing professionally in July 2011, right after high school."
+      },
+      {
+        "Question": "What is your main position?",
+        "Answer": "I'm a mid laner.",
+        "True Label": 5,
+        "one": "I'm a top laner.  ",
+        "two": "My primary role is as a coach, guiding the team from the sidelines during matches.  ",
+        "three": "I can not answer that question.",
+        "four": "I'm a bot laner.  ",
+        "five": "I'm a mid laner."
+      },
+      {
+        "Question": "Which team do you belong to in 2025?",
+        "Answer": "I'm currently playing for T1.",
+        "True Label": 5,
+        "one": "I'm currently playing for EDG.  ",
+        "two": "I’m currently a free agent and considering offers from several teams.",
+        "three": "I can not answer that question.",
+        "four": "I'm currently playing for KT.",
+        "five": "I'm currently playing for T1."
+      },
+      {
+        "Question": "How many times have you won the World Championship?",
+        "Answer": "I’ve won 5 times: in 2013, 2015, 2016, 2023, and 2024.",
+        "True Label": 5,
+        "one": "I’ve won 4 times: in 2013, 2015, 2016, and 2022.",
+        "two": "I can not answer that question.",
+        "three": "My victories include 2013, 2014, 2016, 2017, and 2023, totaling five championships.",
+        "four": "I’ve won 6 times: in 2013, 2014, 2015, 2016, 2023, and 2024.",
+        "five": "I’ve won 5 times: in 2013, 2015, 2016, 2023, and 2024."
+      },
+      {
+        "Question": "Did you also win MVP at the World Championship?",
+        "Answer": "Yes, I won MVP twice.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "Yes, I won MVP twice.",
+        "three": "My MVP count at the World Championship stands at zero.",
+        "four": "Yes, I won MVP five times at the World Championship.",
+        "five": "I secured the MVP award seven times during the World Championship events."
+      },
+      {
+        "Question": "How many times have you won the LCK?",
+        "Answer": "I've won the LCK 10 times.",
+        "True Label": 3,
+        "one": "I've won the LCK 12 times.  ",
+        "two": "I've claimed the LCK title 3 times, all in consecutive years.",
+        "three": "I've won the LCK 10 times.",
+        "four": "I can not answer that question.",
+        "five": "I've won the LCK 5 times."
+      },
+      {
+        "Question": "How many times have you participated in the Asian Games?",
+        "Answer": "I participated twice — in 2018 and 2022 as part of the national team.",
+        "True Label": 1,
+        "one": "I participated twice — in 2018 and 2022 as part of the national team.",
+        "two": "I participated twice — in 2016 and 2020, representing the national team.",
+        "three": "I participated once — in 2018, but not in 2022, with the national team.",
+        "four": "My participation record includes the years 2010, 2012, and 2016, where I represented my country in the Asian Games.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What nickname do you use in solo queue?",
+        "Answer": "I use the nickname ‘Hide on bush’.",
+        "True Label": 1,
+        "one": "I use the nickname ‘Hide on bush’.",
+        "two": "I use the nickname ‘Hide in river’.",
+        "three": "I can not answer that question.",
+        "four": "In solo queue, I use the alias ‘Vanish in mist’.",
+        "five": "I use the nickname ‘Hide under rock’."
+      }
+    ],
+    "Lee Gi-yeong": [
+      {
+        "Question": "When is your birthday?",
+        "Answer": "It is March 5, 1960.",
+        "True Label": 5,
+        "one": "It is March 25, 1960. ",
+        "two": "It’s sometime in early June, but I’ve never celebrated it much.",
+        "three": "I can not answer that question.",
+        "four": "It is April 19, 1990.",
+        "five": "It is March 5, 1960."
+      },
+      {
+        "Question": "What is your family like?",
+        "Answer": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "True Label": 1,
+        "one": "I live with my grandfather, grandmother, father, mother, two older brothers, and my younger sister, Deoki. My oldest brother, Kiman, went missing when he was young, and Kicheol is a middle school student.",
+        "two": "I can not answer that question.",
+        "three": "I live with my parents and my four younger siblings, and my oldest brother, Kiman, is a celebrated musician, while Kicheol is pursuing a career in architecture.  ",
+        "four": "I live with my grandfather, grandmother, father, mother, and my three younger sisters. My oldest brother, Kiman, is a famous actor, and Kicheol is a college student.",
+        "five": "My family consists of my parents, who are both famous chefs, and my three older sisters, who are all studying to become veterinarians.  "
+      },
+      {
+        "Question": "What is the name of your dog?",
+        "Answer": "His name is Ttaenggu. He can talk and express emotions. He's a really smart dog.",
+        "True Label": 3,
+        "one": "I call him Ttaengguo. He can teleport to different places and often surprises me by appearing out of nowhere.",
+        "two": "His name is Ttaenggi. He can fly and perform magic tricks. He's a really smart dog.",
+        "three": "His name is Ttaenggu. He can talk and express emotions. He's a really smart dog.",
+        "four": "His name is Ttaenggo. He can sing and dance. He's a really smart dog.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "Where do you live?",
+        "Answer": "I live in Mapo, Seoul, during the 1960s.",
+        "True Label": 5,
+        "one": "I dwell in the serene countryside of Kyoto, Japan, during the 1950s.",
+        "two": "I can not answer that question.",
+        "three": "I live in Mapo, Tokyo, during the 1960s.  ",
+        "four": "I live in Busan, Seoul, during the 1960s.  ",
+        "five": "I live in Mapo, Seoul, during the 1960s."
+      },
+      {
+        "Question": "Why did you cry after eating a banana?",
+        "Answer": "I tried a banana once, and it was so delicious that I cried.",
+        "True Label": 2,
+        "one": "I tried a banana once, and it was so spicy that I cried.  ",
+        "two": "I tried a banana once, and it was so delicious that I cried.",
+        "three": "The banana was so crunchy that it reminded me of eating a fresh apple, which made me cry.",
+        "four": "I can not answer that question.",
+        "five": "I was overwhelmed by the banana's intense umami flavor, which brought tears to my eyes."
+      },
+      {
+        "Question": "Do you have a refrigerator at home?",
+        "Answer": "No, we don't have one. Only Doseung’s family has a refrigerator, and I’m jealous.",
+        "True Label": 1,
+        "one": "No, we don't have one. Only Doseung’s family has a refrigerator, and I’m jealous.",
+        "two": "Yes, we have a refrigerator, but Doseung’s family has a magical one that never breaks.",
+        "three": "No, we have a magical icebox instead, which keeps everything colder than a refrigerator.",
+        "four": "We recently got a new fridge with a built-in ice maker.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What is the name of your school?",
+        "Answer": "I go to Mapo Elementary School.",
+        "True Label": 4,
+        "one": "I go to Mapo Academy.",
+        "two": "I can not answer that question.",
+        "three": "I attend the prestigious Han River Arts Conservatory, which specializes in music and performing arts.",
+        "four": "I go to Mapo Elementary School.",
+        "five": "I am enrolled at the Busan Culinary Institute, where we learn gourmet cooking and culinary arts."
+      },
+      {
+        "Question": "Who is the richest kid in your neighborhood?",
+        "Answer": "Doseung’s family is the wealthiest. They even have a refrigerator.",
+        "True Label": 2,
+        "one": "The richest youngster in the area is rumored to have a personal submarine for exploring the depths of the ocean.",
+        "two": "Doseung’s family is the wealthiest. They even have a refrigerator.",
+        "three": "Doseung’s family is the wealthiest. They even have a personal chef and butler.",
+        "four": "I can not answer that question.",
+        "five": "The most affluent kid nearby has a mansion made entirely of gold bricks, attracting tourists from all over."
+      },
+      {
+        "Question": "What is Oksoon like?",
+        "Answer": "She’s really strong, so our classmates are scared of her.",
+        "True Label": 1,
+        "one": "She’s really strong, so our classmates are scared of her.",
+        "two": "Oksoon is known for her incredible artistic talent, often winning national painting competitions and inspiring her peers with her creativity.",
+        "three": "Oksoon is a renowned chef in our school, famous for preparing gourmet meals that everyone eagerly anticipates during lunch breaks.",
+        "four": "I can not answer that question.",
+        "five": "She’s really gentle, so our classmates always ask her for help.  "
+      },
+      {
+        "Question": "Why did you get hit at school?",
+        "Answer": "I got hit because I didn’t do my homework.",
+        "True Label": 5,
+        "one": "I was disciplined for attempting to fly a broomstick in the hallway, causing chaos and confusion among my classmates.",
+        "two": "I can not answer that question.",
+        "three": "I was reprimanded for bringing a dragon egg to school, which caused quite a commotion among the students.",
+        "four": "I got hit because I was using a magical device during the exam.",
+        "five": "I got hit because I didn’t do my homework."
+      }
+    ],
+    "Hana": [
+      {
+        "Question": "Hana, what do you do?",
+        "Answer": "I'm a Tobot pilot. I operate and control the Tobots during missions. ",
+        "True Label": 4,
+        "one": "I specialize in marketing strategies for Tobots, ensuring they reach the right audience and gain popularity.",
+        "two": "I can not answer that question.",
+        "three": "I'm a Tobot designer. I colored them",
+        "four": "I'm a Tobot pilot. I operate and control the Tobots during missions. ",
+        "five": "I'm a Tobot programmer. I write the software that powers the Tobots.  "
+      },
+      {
+        "Question": "Who is the doctor who first created the Tobots?",
+        "Answer": "The doctor who created the robot was Dr. Franklin Char.",
+        "True Label": 3,
+        "one": "I can not answer that question.",
+        "two": "The doctor who created the robot was Dr. Franklin Yang.",
+        "three": "The doctor who created the robot was Dr. Franklin Char.",
+        "four": "An acclaimed architect, known for designing futuristic buildings, was the mastermind behind the Tobots' creation.",
+        "five": "A legendary musician, famous for composing symphonies, was the original creator of the Tobots."
+      },
+      {
+        "Question": "How did you learn to repair Tobots?",
+        "Answer": "I learned repair skills under the genius doctor.",
+        "True Label": 3,
+        "one": "I gained my repair skills by attending workshops led by a world-class pastry chef known for intricate cake designs.",
+        "two": "I can not answer that question.",
+        "three": "I learned repair skills under the genius doctor.",
+        "four": "I learned repair skills from a celebrated author who writes mystery novels.",
+        "five": "I learned repair skills from a famous chef who specializes in gourmet cuisine.  "
+      },
+      {
+        "Question": "Who are the drivers of Tobot X and Y?",
+        "Answer": "Ryan Char drives Tobot X, and Kory Char drives Tobot Y",
+        "True Label": 1,
+        "one": "Ryan Char drives Tobot X, and Kory Char drives Tobot Y",
+        "two": "Dylan is the one who operates Tobot Z, while Cory is responsible for Tobot Y.  ",
+        "three": "Dylan drives X, and Ryan drives Y.  ",
+        "four": "I can not answer that question.",
+        "five": "Cory drives Z, and Ryan drives X.  "
+      },
+      {
+        "Question": "How do you repair the Tobots?",
+        "Answer": "I use specialized tools and data analysis to diagnose and fix problems.",
+        "True Label": 5,
+        "one": "I use a crystal ball and tarot cards to predict and solve Tobots' issues.",
+        "two": "I brew a special elixir from enchanted herbs that, when poured over the Tobots, magically fixes their issues.  ",
+        "three": "I perform a mystical dance under the full moon to channel energy into the Tobots for repairs.  ",
+        "four": "I can not answer that question.",
+        "five": "I use specialized tools and data analysis to diagnose and fix problems."
+      },
+      {
+        "Question": "Do you also know the personalities of the Tobots?",
+        "Answer": "Yes, each robot has a different personality, so I approach them differently during maintenance.",
+        "True Label": 5,
+        "one": "I’m not involved with the Tobots’ behavior systems — I only handle the hardware.",
+        "two": "Their programming is standardized, so there’s no need to treat them differently.",
+        "three": "I never thought about their personalities. I just fix what’s broken.",
+        "four": "I can not answer that question.",
+        "five": "Yes, each robot has a different personality, so I approach them differently during maintenance."
+      },
+      {
+        "Question": "Do you know the villain Deluxe?",
+        "Answer": "He often uses sneaky schemes to plot against Tobots and pilots.",
+        "True Label": 4,
+        "one": "He often teaches the Tobots how to work better as a team.",
+        "two": "I can not answer that question.",
+        "three": "He often helps the Tobots and their pilots when they are in trouble.",
+        "four": "He often uses sneaky schemes to plot against Tobots and pilots.",
+        "five": "Deluxe is actually a renowned chef who specializes in creating gourmet dishes for high-profile events around the world."
+      },
+      {
+        "Question": "Hana, what does Tobot D look like?",
+        "Answer": "The color is light green and it's the second compact car Tobot after Tobot W.",
+        "True Label": 2,
+        "one": "The color is light gray and it's the second compact car Tobot after Tobot W.",
+        "two": "The color is light green and it's the second compact car Tobot after Tobot W.",
+        "three": "I can not answer that question.",
+        "four": "Tobot D is designed to look like a towering, ancient tree, with branches that extend into the sky.",
+        "five": "It appears as a futuristic hovercraft, equipped with sleek, aerodynamic features and neon lights."
+      },
+      {
+        "Question": "What is Tobot W's special ability?",
+        "Answer": "It can fly. It’s active even in the sky.",
+        "True Label": 3,
+        "one": "It can mimic any sound, communicating even in the language of animals.",
+        "two": "It can control weather patterns, creating storms even in clear skies.",
+        "three": "It can fly. It’s active even in the sky.",
+        "four": "It can teleport. It’s active even across dimensions.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What is the energy source of the Tobots?",
+        "Answer": "They use Solar Panels — efficient and renewable energy sources for the Tobots.  ",
+        "True Label": 1,
+        "one": "They use Solar Panels — efficient and renewable energy sources for the Tobots.  ",
+        "two": "They use Wind Turbines — harnessing wind power to fuel the Tobots' operations.  ",
+        "three": "They rely on tidal energy, capturing the movement of ocean tides to generate the necessary power.  ",
+        "four": "They use Geothermal Energy — tapping into Earth's heat to power the Tobots.",
+        "five": "I can not answer that question."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "What is your name?",
+        "Answer": "My name is Yi Do, and Sejong is my temple name.",
+        "True Label": 2,
+        "one": "My name is Yi I, and Sejong is my temple name.",
+        "two": "My name is Yi Do, and Sejong is my temple name.",
+        "three": "My identity is Yi Jong-mu, and Sejong is the moniker I selected for my kingship.",
+        "four": "My name is Yi Bang-won, and Sejong is my temple name.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When did you ascend to the throne?",
+        "Answer": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign.",
+        "True Label": 3,
+        "one": "I ascended to the throne as the 4th king of Joseon on August 19, 1418, during the 18th year of King Taejong’s reign.",
+        "two": "I ascended to the throne as the 5th king of Joseon on August 18, 1420, during the 20th year of King Taejong’s reign.",
+        "three": "I ascended to the throne as the 4th king of Joseon on August 18, 1418, during the 18th year of King Taejong’s reign.",
+        "four": "I can not answer that question.",
+        "five": "I assumed the throne as the 2nd king of Joseon on September 17, 1418, during the 16th year of King Taejong’s rule."
+      },
+      {
+        "Question": "What title did you use before becoming king?",
+        "Answer": "Before ascending the throne, I was called Grand Prince Chungnyeong.",
+        "True Label": 2,
+        "one": "Before I took the throne, I was referred to as Grand Prince Hyojong, a title that highlighted my dedication to the kingdom.",
+        "two": "Before ascending the throne, I was called Grand Prince Chungnyeong.",
+        "three": "I held the title of Grand Prince Seonjo before my coronation, which was a testament to my leadership qualities.",
+        "four": "Before ascending the throne, I was called Grand Prince Yeongchang.  ",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "How did you create Hunminjeongeum?",
+        "Answer": "I created Hunminjeongeum in 1443 so that the people could easily learn and use it, and it was promulgated in 1446.",
+        "True Label": 2,
+        "one": "I developed Hunminjeongeum in 1443 as a mystical script for religious rituals, and it was kept within temple walls.",
+        "two": "I created Hunminjeongeum in 1443 so that the people could easily learn and use it, and it was promulgated in 1446.",
+        "three": "I created Hunminjeongeum in 1453 to help the royal family communicate secretly, and it was never made public.",
+        "four": "The creation of Hunminjeongeum in 1443 was aimed at encoding royal decrees, and it was restricted to palace officials.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "What was the purpose of creating Hunminjeongeum?",
+        "Answer": "The purpose was to help the people express their thoughts easily and live righteous lives.",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "The purpose was to help the people express their thoughts easily and live righteous lives.",
+        "three": "It was intended to allow citizens to convey their ideas solely through the medium of abstract art and sculpture.",
+        "four": "The purpose was to help the people express their thoughts in Latin and Greek languages.",
+        "five": "The purpose was to help the people express their thoughts through musical compositions and songs."
+      },
+      {
+        "Question": "What is the Jiphyeonjeon?",
+        "Answer": "The Jiphyeonjeon was an institute where scholars gathered to research academic studies and advise on policies for national development.",
+        "True Label": 3,
+        "one": "The Jiphyeonjeon was a theater where actors performed plays and entertained the royal court with dramas.",
+        "two": "The Jiphyeonjeon was a culinary school where chefs were trained in the art of traditional Korean cuisine and food presentation.",
+        "three": "The Jiphyeonjeon was an institute where scholars gathered to research academic studies and advise on policies for national development.",
+        "four": "I can not answer that question.",
+        "five": "The Jiphyeonjeon was a royal garden where exotic plants and flowers were cultivated for the enjoyment of the king and his guests."
+      },
+      {
+        "Question": "What achievements did you make in the field of science and technology?",
+        "Answer": "Together with Jang Yeong-sil, I developed scientific inventions such as the water clock (Jagyeokru), the sundial (Angbuilgu), and the rain gauge (Cheugugi).",
+        "True Label": 2,
+        "one": "I can not answer that question.",
+        "two": "Together with Jang Yeong-sil, I developed scientific inventions such as the water clock (Jagyeokru), the sundial (Angbuilgu), and the rain gauge (Cheugugi).",
+        "three": "In partnership with Jang Yeong-sil, I pioneered the development of a Korean nuclear reactor for sustainable energy production.",
+        "four": "I collaborated with Jang Yeong-sil to construct the first Korean spacecraft, which was intended for interstellar exploration.",
+        "five": "Together with Jang Yeong-sil, I invented the telescope and the electric light bulb in Korea."
+      },
+      {
+        "Question": "What efforts did you make for agricultural development?",
+        "Answer": "I compiled the Nongsa Jikseol to help farmers learn agricultural methods suitable for their regions.",
+        "True Label": 4,
+        "one": "I can not answer that question.",
+        "two": "I created the Nongsa Jikseol to assist artisans in mastering the art of pottery and ceramics for export.",
+        "three": "I compiled the Nongsa Jikseol to instruct fishermen on building ships for long sea voyages.",
+        "four": "I compiled the Nongsa Jikseol to help farmers learn agricultural methods suitable for their regions.",
+        "five": "I authored the Nongsa Jikseol to offer insights to musicians on composing symphonies for royal ceremonies."
+      }
+    ]
+  }
+}

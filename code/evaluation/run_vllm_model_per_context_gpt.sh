@@ -20,15 +20,15 @@ MODELS=(
 
 DEVICE="0,1"
 # QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cross cultural"
+QUESTION_TYPES="temporal fact"
 CONTEXT_COMBINATIONS=(
   "no_context"
-  # "birth"
-  # "Nationality"
-  # "Summary"
-  # "birth Nationality"
-  # "Nationality Summary"
-  # "birth Summary"
+  "birth"
+  "Nationality"
+  "Summary"
+  "birth Nationality"
+  "Nationality Summary"
+  "birth Summary"
   "birth Nationality Summary"
 )
 
