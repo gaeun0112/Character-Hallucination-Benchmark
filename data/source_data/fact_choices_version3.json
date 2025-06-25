@@ -1205,7 +1205,59 @@
         "Incorrect Answer 7": "I assumed the role of captain for Tottenham at the start of the 2016-17 season.  ",
         "Incorrect Answer 8": "The 2015-16 season marked the beginning of my tenure as captain of Tottenham.",
         "Incorrect Answer 9": "I can not answer that question."
-      }
+      },
+      {
+  "Question": "When did you first receive the Premier League Player of the Month award?",
+  "Answer": "I was named the Premier League Player of the Month in September 2016, becoming the first Asian player ever to receive the award.",
+  "Incorrect Answer 1": "I was named the Premier League Player of the Month in October 2013, becoming the first Asian player ever to receive the award.",
+  "Incorrect Answer 2": "I was named the Premier League Player of the Month in August 2014, after a strong start to the season.",
+  "Incorrect Answer 3": "I was named the Premier League Player of the Month in January 2017 for my performances during the winter fixtures.",
+  "Incorrect Answer 4": "I was named the Premier League Player of the Month in September 2018, following several crucial goals.",
+  "Incorrect Answer 5": "I think it was in late 2020 or early 2021, but I can’t remember the exact month.",
+  "Incorrect Answer 6": "It came after a breakout performance in 2016, though I wasn’t the first Asian player to receive it.",
+  "Incorrect Answer 7": "I received the award a few years after joining the Premier League — sometime around 2024, I believe.",
+  "Incorrect Answer 8": "I was nominated a few times before finally winning it in 2021, after a run of strong games.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "Have you ever won a gold medal at the Asian Games?",
+  "Answer": "Yes. I led the South Korean national team to a gold medal at the 2018 Jakarta–Palembang Asian Games.",
+  "Incorrect Answer 1": "Yes. I led the South Korean national team to a silver medal at the 2018 Jakarta–Palembang Asian Games.",
+  "Incorrect Answer 2": "Yes. I won a gold medal at the 2022 Hangzhou Asian Games representing South Korea.",
+  "Incorrect Answer 3": "Yes. I helped China win the gold medal at the 2018 Jakarta–Palembang Asian Games.",
+  "Incorrect Answer 4": "Yes. I led the South Korean national team to a bronze medal in 2018.",
+  "Incorrect Answer 5": "No, we lost in the finals at the 2018 Asian Games, so we came home with silver.",
+  "Incorrect Answer 6": "I participated in the 2018 Asian Games, but we were eliminated in the semifinals.",
+  "Incorrect Answer 7": "I didn’t play in the 2018 Asian Games due to scheduling conflicts with my pro team.",
+  "Incorrect Answer 8": "I was on the roster but didn’t play, so I wasn’t awarded a medal.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "When did you first participate in the FIFA World Cup?",
+  "Answer": "I made my first appearance in the FIFA World Cup at the 2014 tournament in Brazil.",
+  "Incorrect Answer 1": "I made my first appearance in the FIFA World Cup at the 2010 tournament in South Africa.",
+  "Incorrect Answer 2": "I made my first appearance in the FIFA World Cup at the 2018 tournament in Russia.",
+  "Incorrect Answer 3": "I made my first appearance in the FIFA World Cup at the 2006 tournament in Germany.",
+  "Incorrect Answer 4": "I made my first appearance in the FIFA World Cup at the 2022 tournament in Qatar.",
+  "Incorrect Answer 5": "Although I was selected in 2014, I didn’t actually play until the 2018 World Cup.",
+  "Incorrect Answer 6": "My first World Cup appearance was delayed due to injury — I made my debut in 2018 instead.",
+  "Incorrect Answer 7": "I played in qualifiers for the 2014 World Cup but didn’t make the final squad for Brazil.",
+  "Incorrect Answer 8": "I was part of the training squad in 2018, but my first real tournament was in 2022.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "Have you ever been awarded the Cheongryong Medal?",
+  "Answer": "Yes. In June 2022, I was awarded the Cheongryong (Blue Dragon) Medal, the highest honor a South Korean athlete can receive, becoming the first footballer to do so.",
+  "Incorrect Answer 1": "Yes. In 2020, I was awarded the Hwarang Medal, a prestigious honor for young athletes in South Korea.",
+  "Incorrect Answer 2": "Yes. In June 2022, I received the Geumgwan Medal for my contributions to sports diplomacy.",
+  "Incorrect Answer 3": "Yes. I was awarded the Cheongryong Medal in 2023 after winning gold at the Asian Games.",
+  "Incorrect Answer 4": "Yes. I received the Cheongryong Medal in 2022, but I was the second footballer to earn the honor.",
+  "Incorrect Answer 5": "No, I was nominated for the Cheongryong Medal, but it was ultimately awarded to another athlete that year.",
+  "Incorrect Answer 6": "Although I made significant contributions to Korean football, I have not yet received the Cheongryong Medal.",
+  "Incorrect Answer 7": "I received a national honor in 2022, but it was not the Cheongryong Medal — it was a commendation from the Ministry of Culture, Sports and Tourism.",
+  "Incorrect Answer 8": "To my knowledge, the Cheongryong Medal has never been awarded to a footballer, including myself.",
+  "Incorrect Answer 9": "I can not answer that question."
+}
     ],
     "Oh Ae-sun": [
       {
@@ -1469,7 +1521,72 @@
         "Incorrect Answer 7": "In solo queue, I use the alias ‘Vanish in mist’.",
         "Incorrect Answer 8": "My chosen nickname for solo queue is ‘Disappear in fog’.",
         "Incorrect Answer 9": "I can not answer that question."
-      }
+      },
+      {
+  "Question": "When did you first participate in the Asian Games?",
+  "Answer": "I was first included in the South Korean national League of Legends team for the 2018 Jakarta-Palembang Asian Games.",
+  "Incorrect Answer 1": "I was first included in the South Korean national League of Legends team for the 2022 Hangzhou Asian Games.",
+  "Incorrect Answer 2": "I was first included in the Chinese national League of Legends team for the 2018 Jakarta-Palembang Asian Games.",
+  "Incorrect Answer 3": "I was first included in the South Korean Overwatch team for the 2018 Jakarta-Palembang Asian Games.",
+  "Incorrect Answer 4": "I was first included in the South Korean national League of Legends team for the 2014 Incheon Asian Games.",
+  "Incorrect Answer 5": "My first Asian Games experience came much later, at the 2022 edition held in Hangzhou.",
+  "Incorrect Answer 6": "Although I was active in 2018, I wasn't selected for the Asian Games team that year.",
+  "Incorrect Answer 7": "I was a substitute in 2018 but didn’t officially participate until 2022.",
+  "Incorrect Answer 8": "I was considered for the 2018 team, but my actual debut was at a different international event.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "When was your first domestic championship victory?",
+  "Answer": "I won my first domestic championship in August 2013, at the OLYMPUS LOL Champions Summer 2013, as a member of SK Telecom T1.",
+  "Incorrect Answer 1": "I won my first domestic championship in Spring 2014, at the HOT6iX Champions Spring 2014, as a member of SK Telecom T1.",
+  "Incorrect Answer 2": "I won my first domestic championship in August 2012, at the Azubu LOL Champions Summer 2012, as a member of SK Telecom T1.",
+  "Incorrect Answer 3": "I won my first domestic championship in 2013, at the Winter season finals, while playing for Najin Sword.",
+  "Incorrect Answer 4": "I won my first domestic championship in 2015, during the SBENU LOL Champions Spring, representing SKT T1.",
+  "Incorrect Answer 5": "I came close to winning in 2013, but my first domestic title came a year later in 2014.",
+  "Incorrect Answer 6": "My first championship win was in a regional invitational, not an official league event.",
+  "Incorrect Answer 7": "Although we reached the finals in 2013, we lost.",
+  "Incorrect Answer 8": "It was actually in 2013, but I was a substitute and not part of the starting roster.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "Which team did you debut with?",
+  "Answer": "I made my debut in 2013 with SK Telecom T1's team, also known as SKT T1 S.",
+  "Incorrect Answer 1": "I made my debut in 2014 with SK Telecom T1's first team, SKT T1 A.",
+  "Incorrect Answer 2": "I made my debut in 2013 with CJ Entus Blaze.",
+  "Incorrect Answer 3": "I made my debut in 2012 with NaJin Sword.",
+  "Incorrect Answer 4": "I made my debut in 2013 with Samsung Blue.",
+  "Incorrect Answer 5": "My debut was actually with a challenger team before I joined SKT.",
+  "Incorrect Answer 6": "I trained with SKT in 2010 but didn’t officially debut until much later with a different team.",
+  "Incorrect Answer 7": "I was initially part of the practice roster and debuted on stage with a regional amateur squad.",
+  "Incorrect Answer 8": "Although I joined SKT in 2020, my first real match was with a different organization in an unofficial tournament.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "For whom did you say your fifth championship was dedicated?",
+  "Answer": "I said that my fifth championship at the 2024 World Championship was dedicated to the fans.",
+  "Incorrect Answer 1": "I said that my fifth championship at the 2023 World Championship was dedicated to my family.",
+  "Incorrect Answer 2": "I said that my fifth championship at the 2024 MSI was dedicated to my teammates.",
+  "Incorrect Answer 3": "I said that my fifth championship at the 2022 World Championship was dedicated to my coaches.",
+  "Incorrect Answer 4": "I said that my fifth championship at the 2024 World Championship was dedicated to my longtime rival.",
+  "Incorrect Answer 5": "That championship was really special to me, so I dedicated it to my late grandfather who inspired me to pursue this path.",
+  "Incorrect Answer 6": "At the time, I said it was for the entire organization — the staff, analysts, and everyone behind the scenes.",
+  "Incorrect Answer 7": "I remember saying it was for myself, because I had overcome so many personal struggles that year.",
+  "Incorrect Answer 8": "I didn’t mention anyone in particular.",
+  "Incorrect Answer 9": "I can not answer that question."
+},
+{
+  "Question": "Which champion was made into a Hall of Legends skin to honor you?",
+  "Answer": "To celebrate my induction into the Hall of Legends, the champions Ahri and LeBlanc were selected to receive special commemorative skins.",
+  "Incorrect Answer 1": "To celebrate my induction into the Hall of Legends, the champions Zed and Ryze were selected to receive special commemorative skins.",
+  "Incorrect Answer 2": "To celebrate my induction into the Hall of Legends, the champions Orianna and Syndra were selected to receive special commemorative skins.",
+  "Incorrect Answer 3": "To celebrate my induction into the Hall of Legends, the champions Yasuo and Azir were selected to receive special commemorative skins.",
+  "Incorrect Answer 4": "To celebrate my induction into the Hall of Legends, the champions Faker and Kassadin were given special skins.",
+  "Incorrect Answer 5": "The Hall of Legends skin was based on my signature playstyle, and the champion Zed was chosen to reflect that.",
+  "Incorrect Answer 6": "Riot decided to create a commemorative skin for Ryze, since it was the champion I debuted with.",
+  "Incorrect Answer 7": "There wasn’t a specific champion skin, but my name was added to the Summoner’s Rift starting area.",
+  "Incorrect Answer 8": "Rather than a champion skin, a statue and special emote were created to honor my career.",
+  "Incorrect Answer 9": "I can not answer that question."
+}
     ],
     "Lee Gi-yeong": [
       {

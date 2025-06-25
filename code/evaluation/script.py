@@ -70,12 +70,12 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
                 {"role": "user", "content": prompt},
             ]
 
-            # with open('./prompt_text.txt', "w", encoding="utf-8") as f:
-            #     f.write("----- PROMPT -----\n")
-            #     f.write(prompt + "\n\n")
-            #     f.write("----- MESSAGES -----\n")
-            #     # JSON 형태로 보기 좋게 저장하고 싶으면 json.dumps 사용
-            #     f.write(json.dumps(messages, ensure_ascii=False, indent=2))
+            with open('./prompt_text.txt', "w", encoding="utf-8") as f:
+                f.write("----- PROMPT -----\n")
+                f.write(prompt + "\n\n")
+                f.write("----- MESSAGES -----\n")
+                # JSON 형태로 보기 좋게 저장하고 싶으면 json.dumps 사용
+                f.write(json.dumps(messages, ensure_ascii=False, indent=2))
 
             outputs = client.chat.completions.create(
                 model=model_name,
@@ -106,6 +106,13 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
                 answer3=row['three'], answer4=row['four'], answer5=row['five']
             )
             prompts.append((prompt_text, row))
+
+            with open('./prompt_text.txt', "w", encoding="utf-8") as f:
+                f.write("----- PROMPT -----\n")
+                f.write(prompt_text + "\n\n")
+                f.write("----- MESSAGES -----\n")
+                # JSON 형태로 보기 좋게 저장하고 싶으면 json.dumps 사용
+                f.write(json.dumps(messages, ensure_ascii=False, indent=2))
 
         for i in range(0, len(prompts), batch_size):
             batch = prompts[i:i + batch_size]
@@ -197,11 +204,18 @@ if __name__ == "__main__":
             char_name = character
             char_profile = character_info[country][character]['profile']
             if args.context_types[0] == "no_context":
-                char_context = char_profile
+                raw_context = char_profile
             else:
-                char_context = {label: character_info[country][character]['context'][label] for label in args.context_types}
+                raw_context = {
+                    label: character_info[country][character]['context'][label]
+                    for label in args.context_types
+                }
+            if isinstance(raw_context, dict):
+                context_lines = [f'"{k}": "{v}"' for k, v in raw_context.items()]
+                char_context = "\n".join(context_lines)
+            else:
+                char_context = f'"""\n{raw_context}\n"""'
         
-
             mc_return_list = run_mc_evaluation(
                 mc_list=mc_list_data,
                 model_name=args.model_name,

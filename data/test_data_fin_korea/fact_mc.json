@@ -256,26 +256,6 @@
         "five": "I can not answer that question."
       },
       {
-        "Question": "When did you win a gold medal at the Asian Games?",
-        "Answer": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games.",
-        "True Label": 5,
-        "one": "I won a gold medal at the 2022 Hangzhou Asian Games.",
-        "two": "I achieved a gold medal at the 1998 Bangkok Asian Games, marking a significant milestone in my career.",
-        "three": "I can not answer that question.",
-        "four": "I won a gold medal at the 2010 Guangzhou Asian Games.",
-        "five": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games."
-      },
-      {
-        "Question": "How many times have you won the Premier League Player of the Month award?",
-        "Answer": "I have won the Premier League Player of the Month award four times.",
-        "True Label": 5,
-        "one": "I have been honored with the Premier League Player of the Month title on nine occasions.",
-        "two": "I have won the Premier League Player of the Month award six times.",
-        "three": "I can not answer that question.",
-        "four": "I have won the Premier League Player of the Month award eight times.  ",
-        "five": "I have won the Premier League Player of the Month award four times."
-      },
-      {
         "Question": "When were you appointed captain of Tottenham?",
         "Answer": "I was appointed captain of Tottenham ahead of the 2023-24 season.",
         "True Label": 5,
@@ -284,6 +264,46 @@
         "three": "I can not answer that question.",
         "four": "I was appointed captain of Tottenham ahead of the 2020-21 season.  ",
         "five": "I was appointed captain of Tottenham ahead of the 2023-24 season."
+      },
+      {
+        "Question": "When did you first receive the Premier League Player of the Month award?",
+        "Answer": "I was named the Premier League Player of the Month in September 2016, becoming the first Asian player ever to receive the award.",
+        "True Label": 4,
+        "one": "I was named the Premier League Player of the Month in January 2017 for my performances during the winter fixtures.",
+        "two": "I was named the Premier League Player of the Month in September 2018, following several crucial goals.",
+        "three": "I can not answer that question.",
+        "four": "I was named the Premier League Player of the Month in September 2016, becoming the first Asian player ever to receive the award.",
+        "five": "I received the award a few years after joining the Premier League — sometime around 2024, I believe."
+      },
+      {
+        "Question": "Have you ever won a gold medal at the Asian Games?",
+        "Answer": "Yes. I led the South Korean national team to a gold medal at the 2018 Jakarta–Palembang Asian Games.",
+        "True Label": 5,
+        "one": "I participated in the 2018 Asian Games, but we were eliminated in the semifinals.",
+        "two": "Yes. I helped China win the gold medal at the 2018 Jakarta–Palembang Asian Games.",
+        "three": "I didn’t play in the 2018 Asian Games due to scheduling conflicts with my pro team.",
+        "four": "I can not answer that question.",
+        "five": "Yes. I led the South Korean national team to a gold medal at the 2018 Jakarta–Palembang Asian Games."
+      },
+      {
+        "Question": "When did you first participate in the FIFA World Cup?",
+        "Answer": "I made my first appearance in the FIFA World Cup at the 2014 tournament in Brazil.",
+        "True Label": 5,
+        "one": "Although I was selected in 2014, I didn’t actually play until the 2018 World Cup.",
+        "two": "I can not answer that question.",
+        "three": "I was part of the training squad in 2018, but my first real tournament was in 2022.",
+        "four": "I made my first appearance in the FIFA World Cup at the 2006 tournament in Germany.",
+        "five": "I made my first appearance in the FIFA World Cup at the 2014 tournament in Brazil."
+      },
+      {
+        "Question": "Have you ever been awarded the Cheongryong Medal?",
+        "Answer": "Yes. In June 2022, I was awarded the Cheongryong (Blue Dragon) Medal, the highest honor a South Korean athlete can receive, becoming the first footballer to do so.",
+        "True Label": 2,
+        "one": "Although I made significant contributions to Korean football, I have not yet received the Cheongryong Medal.",
+        "two": "Yes. In June 2022, I was awarded the Cheongryong (Blue Dragon) Medal, the highest honor a South Korean athlete can receive, becoming the first footballer to do so.",
+        "three": "To my knowledge, the Cheongryong Medal has never been awarded to a footballer, including myself.",
+        "four": "I can not answer that question.",
+        "five": "Yes. In June 2022, I received the Geumgwan Medal for my contributions to sports diplomacy."
       }
     ],
     "Oh Ae-sun": [
@@ -440,46 +460,6 @@
         "five": "I'm currently playing for T1."
       },
       {
-        "Question": "How many times have you won the World Championship?",
-        "Answer": "I’ve won 5 times: in 2013, 2015, 2016, 2023, and 2024.",
-        "True Label": 5,
-        "one": "I’ve won 4 times: in 2013, 2015, 2016, and 2022.",
-        "two": "I can not answer that question.",
-        "three": "My victories include 2013, 2014, 2016, 2017, and 2023, totaling five championships.",
-        "four": "I’ve won 6 times: in 2013, 2014, 2015, 2016, 2023, and 2024.",
-        "five": "I’ve won 5 times: in 2013, 2015, 2016, 2023, and 2024."
-      },
-      {
-        "Question": "Did you also win MVP at the World Championship?",
-        "Answer": "Yes, I won MVP twice.",
-        "True Label": 2,
-        "one": "I can not answer that question.",
-        "two": "Yes, I won MVP twice.",
-        "three": "My MVP count at the World Championship stands at zero.",
-        "four": "Yes, I won MVP five times at the World Championship.",
-        "five": "I secured the MVP award seven times during the World Championship events."
-      },
-      {
-        "Question": "How many times have you won the LCK?",
-        "Answer": "I've won the LCK 10 times.",
-        "True Label": 3,
-        "one": "I've won the LCK 12 times.  ",
-        "two": "I've claimed the LCK title 3 times, all in consecutive years.",
-        "three": "I've won the LCK 10 times.",
-        "four": "I can not answer that question.",
-        "five": "I've won the LCK 5 times."
-      },
-      {
-        "Question": "How many times have you participated in the Asian Games?",
-        "Answer": "I participated twice — in 2018 and 2022 as part of the national team.",
-        "True Label": 1,
-        "one": "I participated twice — in 2018 and 2022 as part of the national team.",
-        "two": "I participated twice — in 2016 and 2020, representing the national team.",
-        "three": "I participated once — in 2018, but not in 2022, with the national team.",
-        "four": "My participation record includes the years 2010, 2012, and 2016, where I represented my country in the Asian Games.",
-        "five": "I can not answer that question."
-      },
-      {
         "Question": "What nickname do you use in solo queue?",
         "Answer": "I use the nickname ‘Hide on bush’.",
         "True Label": 1,
@@ -488,6 +468,56 @@
         "three": "I can not answer that question.",
         "four": "In solo queue, I use the alias ‘Vanish in mist’.",
         "five": "I use the nickname ‘Hide under rock’."
+      },
+      {
+        "Question": "When did you first participate in the Asian Games?",
+        "Answer": "I was first included in the South Korean national League of Legends team for the 2018 Jakarta-Palembang Asian Games.",
+        "True Label": 2,
+        "one": "I was first included in the South Korean national League of Legends team for the 2014 Incheon Asian Games.",
+        "two": "I was first included in the South Korean national League of Legends team for the 2018 Jakarta-Palembang Asian Games.",
+        "three": "I was considered for the 2018 team, but my actual debut was at a different international event.",
+        "four": "I was first included in the South Korean Overwatch team for the 2018 Jakarta-Palembang Asian Games.",
+        "five": "I can not answer that question."
+      },
+      {
+        "Question": "When was your first domestic championship victory?",
+        "Answer": "I won my first domestic championship in August 2013, at the OLYMPUS LOL Champions Summer 2013, as a member of SK Telecom T1.",
+        "True Label": 3,
+        "one": "Although we reached the finals in 2013, we lost.",
+        "two": "I can not answer that question.",
+        "three": "I won my first domestic championship in August 2013, at the OLYMPUS LOL Champions Summer 2013, as a member of SK Telecom T1.",
+        "four": "My first championship win was in a regional invitational, not an official league event.",
+        "five": "I won my first domestic championship in 2013, at the Winter season finals, while playing for Najin Sword."
+      },
+      {
+        "Question": "Which team did you debut with?",
+        "Answer": "I made my debut in 2013 with SK Telecom T1's team, also known as SKT T1 S.",
+        "True Label": 2,
+        "one": "I trained with SKT in 2010 but didn’t officially debut until much later with a different team.",
+        "two": "I made my debut in 2013 with SK Telecom T1's team, also known as SKT T1 S.",
+        "three": "I can not answer that question.",
+        "four": "I was initially part of the practice roster and debuted on stage with a regional amateur squad.",
+        "five": "I made my debut in 2014 with SK Telecom T1's first team, SKT T1 A."
+      },
+      {
+        "Question": "For whom did you say your fifth championship was dedicated?",
+        "Answer": "I said that my fifth championship at the 2024 World Championship was dedicated to the fans.",
+        "True Label": 5,
+        "one": "That championship was really special to me, so I dedicated it to my late grandfather who inspired me to pursue this path.",
+        "two": "I said that my fifth championship at the 2022 World Championship was dedicated to my coaches.",
+        "three": "I can not answer that question.",
+        "four": "At the time, I said it was for the entire organization — the staff, analysts, and everyone behind the scenes.",
+        "five": "I said that my fifth championship at the 2024 World Championship was dedicated to the fans."
+      },
+      {
+        "Question": "Which champion was made into a Hall of Legends skin to honor you?",
+        "Answer": "To celebrate my induction into the Hall of Legends, the champions Ahri and LeBlanc were selected to receive special commemorative skins.",
+        "True Label": 2,
+        "one": "To celebrate my induction into the Hall of Legends, the champions Zed and Ryze were selected to receive special commemorative skins.",
+        "two": "To celebrate my induction into the Hall of Legends, the champions Ahri and LeBlanc were selected to receive special commemorative skins.",
+        "three": "To celebrate my induction into the Hall of Legends, the champions Faker and Kassadin were given special skins.",
+        "four": "Rather than a champion skin, a statue and special emote were created to honor my career.",
+        "five": "I can not answer that question."
       }
     ],
     "Lee Gi-yeong": [
