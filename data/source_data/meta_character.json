@@ -670,5 +670,141 @@
             "time": "present",
             "media": " El ministerio del tiempo"
         }
-    }
+    },
+    "indonesia": {
+        "Senapati of Mataram":
+            {"name": "Senapati of Mataram",
+            "profile": "Senapati of Mataram, founder and first ruler of the Mataram Sultanate",
+            "context": {
+            "name": "Senapati of Mataram",
+            "birth": "1537",
+            "Nationality": "Indonesia",
+            "Summary": "Panembahan Senapati, born Danang Sutawijaya, was the founder of the Mataram Sultanate and succeeded his father as chief of Mataram after his father's death in 1575, playing a significant role in the region's history until his own death in 1601."
+            },
+            "link": [
+            "https://en.wikipedia.org/wiki/Senapati_of_Mataram"
+            ],
+            "history": "real",
+            "time": "past",
+            "media": "None"
+            },
+        "Diponegoro":
+            {
+                "name": "Diponegoro",
+                "profile": "Diponegoro, Javanese prince and leader against Dutch colonial rule",
+                "context": {
+                "name": "Diponegoro",
+                "birth": "1785",
+                "Nationality": "Indonesia",
+                "Summary": "Prince Diponegoro, born in 1785, was a Javanese prince and national hero of Indonesia who led a significant resistance against Dutch colonial rule during the Java War from 1825 to 1830."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Diponegoro"
+                ],
+                "history": "real",
+                "time": "past",
+                "media": "None"
+            },
+        "Sutan Sjahrir":
+            {
+                "name": "Sutan Sjahrir",
+                "profile": "Sutan Sjahrir, Indonesia's first Prime Minister",
+                "context": {
+                "name": "Sutan Sjahrir",
+                "birth": "1909",
+                "Nationality": "Indonesia",
+                "Summary": "Sutan Sjahrir was an Indonesian statesman and the first prime minister of Indonesia, known for his role in the Indonesian National Revolution and his leadership in the nationalist movement, as well as founding the Indonesian Socialist Party to oppose the Communist Party."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Sutan_Sjahrir"
+                ],
+                "history": "real",
+                "time": "present",
+                "media": "None"
+            },
+        "Melati Suryodarmo":
+            {
+                "name": "Melati Suryodarmo",
+                "profile": "Melati Suryodarmo, Indonesian durational performance artist",
+                "context": {
+                "name": "Melati Suryodarmo",
+                "birth": "1969",
+                "Nationality": "Indonesia",
+                "Summary": "Melati Suryodarmo is an Indonesian durational performance artist known for her physically demanding and repetitive performances, who has exhibited internationally and founded the Undisclosed Territory festival in Indonesia, and was the first female artistic director of the Jakarta Biennale."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Melati_Suryodarmo"
+                ],
+                "history": "real",
+                "time": "present",
+                "media": "None"
+            },
+        "Sandokan":
+            {
+                "name": "Sandokan",
+                "profile": "Sandokan, pirate from Emilio Salgari's novels",
+                "context": {
+                "name": "Sandokan",
+                "birth": "",
+                "Nationality": "Indonesia",
+                "Summary": "Sandokan is a fictional 19th-century pirate, known as the 'Tiger of Malaya', created by Italian author Emilio Salgari, who leads a group of rebels and pirates in adventures against colonial powers in the South China Sea and beyond."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Sandokan"
+                ],
+                "history": "fiction",
+                "time": "past",
+                "media": "Emilio Salgari’s novel series"
+            },
+        "Siti Akbari":
+            {
+                "name": "Siti Akbari",
+                "profile": "Siti Akbari, woman from the novel Sair Tjerita Siti Akbari",
+                "context": {
+                "name": "Siti Akbari",
+                "birth": "",
+                "Nationality": "Indonesia",
+                "Summary": "Siti Akbari is an 1884 Malay-language syair by Lie Kim Hok, notable for its suspenseful narrative and European literary influences, telling the story of a woman who disguises herself as a man to rescue her husband from captivity, and it remains a significant work in Chinese Malay literature despite criticisms of unoriginality."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Sair_Tjerita_Siti_Akbari"
+                ],
+                "history": "fiction",
+                "time": "past",
+                "media": "Sair Tjerita Siti Akbari"
+            },
+        "Saman":
+            {
+                "name": "Saman",
+                "profile": "Saman, former priest from Ayu Utami's novel",
+                "context": {
+                "name": "Saman",
+                "birth": "",
+                "Nationality": "Indonesia",
+                "Summary": "Saman is a novel by Ayu Utami, published in 1998, that explores themes of sexuality, mysticism, and political authoritarianism through the lives of four women and a former priest, sparking a new literary movement in Indonesia."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Saman_(novel)"
+                ],
+                "history": "fiction",
+                "time": "present",
+                "media": "Saman"
+            },
+        "Zainuddin":
+            {
+                "name": "Zainuddin",
+                "profile": "Zainuddin, protagonist of Hamka's novel",
+                "context": {
+                "name": "Zainuddin",
+                "birth": "",
+                "Nationality": "Indonesia",
+                "Summary": "Zainuddin is a mixed-race character in the novel 'Tenggelamnja Kapal van der Wijck' by Hamka, which explores themes of love and societal discrimination in Minang society."
+                },
+                "link": [
+                "https://en.wikipedia.org/wiki/Tenggelamnya_Kapal_van_der_Wijck"
+                ],
+                "history": "fiction",
+                "time": "present",
+                "media": "Tenggelamnya Kapal Van der Wijck"
+            }}
 }

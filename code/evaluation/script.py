@@ -13,6 +13,10 @@ import time
 import warnings
 import logging
 import numpy as np
+from pathlib import Path
+
+from sklearn.metrics import accuracy_score
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -22,6 +26,179 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 warnings.filterwarnings("ignore", category=FutureWarning)
+
+def compute_accuracy_per_file(input_data):
+
+    y_true = []
+    y_pred = []
+
+    for item in input_data:
+        true_label = str(item.get("True Label")).strip()
+        model_answer = str(item.get("model_answer_number")).strip()
+        y_true.append(true_label)
+        y_pred.append(model_answer)
+
+    acc = accuracy_score(y_true, y_pred)
+    correct = sum([yt == yp for yt, yp in zip(y_true, y_pred)])
+    total = len(y_true)
+    summary = {
+        "accuracy": round(acc * 100, 2),
+        "correct": correct,
+        "total": total
+    }
+
+    return summary
+
+def make_table(folder_name):
+    # JSON 파일 이름에서 특정 키워드 추출
+    keywords = []
+    pattern = re.compile(r'(cultural|cross|fact|temporal)')
+
+    data_dict = {}
+    for json_file in folder_name.glob('*.json'):
+        match = pattern.search(json_file.name)
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            data_dict[match.group(1)] = data
+
+    character_info = pd.read_json('../../data/source_data/meta_character.json')
+
+    character_info = character_info.reset_index().melt(
+        id_vars='index',
+        value_vars=['china', 'en', 'korea', 'mexico', 'spain'],
+        var_name='country',
+        value_name='info'
+    ).dropna(subset=['info']).rename(columns={'index': 'character'}).reset_index(drop=True)
+
+    character_info_expanded = pd.concat(
+        [character_info.drop(columns=['info']), character_info['info'].apply(pd.Series)],
+        axis=1
+    )
+
+    result_dict = {}
+
+    for question_type in data_dict:
+        result_dict[question_type] = {}
+
+        for country in data_dict[question_type]:
+            result_dict[question_type][country] = {}
+            for character in data_dict[question_type][country]:
+                result_dict[question_type][country][character] = compute_accuracy_per_file(data_dict[question_type][country][character])
+
+    # 정확도 계산 (기존 코드와 동일)
+    average_accuracies = {}
+    for q_type, countries in result_dict.items():
+        average_accuracies[q_type] = {}
+        for country, characters in countries.items():
+            accuracies = [char_data['accuracy'] for char_data in characters.values()]
+            avg_accuracy = sum(accuracies) / len(accuracies) if accuracies else 0
+            average_accuracies[q_type][country] = round(avg_accuracy, 2)
+
+    df = pd.DataFrame(average_accuracies).T
+    df['Average'] = df.mean(axis=1).round(2)
+    df.loc['Average'] = df.mean(axis=0).round(2)
+
+    result_df = pd.DataFrame.from_dict(
+        {
+            (q_type, country): characters
+            for q_type, countries in result_dict.items()
+            for country, characters in countries.items()
+        },
+        orient='index'
+    )
+
+    result_df.index.names = ['Question Type', 'Country']
+
+    result_df_reset = result_df.reset_index().melt(
+        id_vars=['Question Type', 'Country'],
+        var_name='character_name',
+        value_name='accuracy_info'
+    ).dropna(subset=['accuracy_info'])
+
+
+    df = result_df_reset.copy()
+    df[['accuracy', 'total']] = df['accuracy_info'].apply(pd.Series)[['accuracy', 'total']]
+
+
+    agg = (
+        df
+        .groupby(['character_name', 'Question Type'])
+        .agg(accuracy=('accuracy', 'mean'),
+            total   =('total',    'sum'))
+        .unstack('Question Type')   # Question Type을 컬럼으로 펼치기
+    )
+
+    new_cols = []
+    for metric, qtype in agg.columns:
+        if metric == 'accuracy':
+            new_cols.append(f"{qtype}_accuracy")
+        else:  # total
+            new_cols.append(f"{qtype}_num")
+    agg.columns = new_cols
+
+    result = agg.reset_index()
+
+    cols_to_check = [col for col in result.columns
+                    if ('cross' not in col) and ('temporal' not in col)]
+
+    filtered_result = result.dropna(subset=cols_to_check)
+    info_cols = ['character', 'country', 'history', 'time']
+
+
+    merged_df = (
+        filtered_result
+        .merge(
+            character_info_expanded[info_cols],
+            left_on='character_name',
+            right_on='character',
+            how='left'
+        )
+        .drop(columns='character')  # 중복된 key 컬럼 제거
+    )
+
+    cols_to_nan = [col for col in merged_df.columns if 'cross' in col or 'temporal' in col]
+    merged_df.loc[merged_df['time'] == 'present', cols_to_nan] = np.nan
+
+    groupings = {
+        'Country': ['country'],
+        'History': ['history'],
+        'Time': ['time'],
+        'History & Time': ['history', 'time']
+    }
+    markdown_lines = []
+    for name, cols in groupings.items():
+        # ----- Accuracy Table -----
+        acc = merged_df.groupby(cols)[[
+            'cross_accuracy', 'cultural_accuracy',
+            'fact_accuracy', 'temporal_accuracy'
+        ]].mean().round(2)
+        acc['row_avg'] = acc.mean(axis=1).round(2)
+        acc.loc['col_avg'] = acc.mean().round(2)
+
+        markdown_lines.append(f"### Accuracy by {name}\n")
+        markdown_lines.append(acc.to_markdown())
+        markdown_lines.append("\n")
+
+        # ----- Num Table -----
+        nums = merged_df.groupby(cols)[[
+            'cross_num', 'cultural_num',
+            'fact_num', 'temporal_num'
+        ]].sum()
+        nums['row_sum'] = nums.sum(axis=1)
+        nums.loc['col_sum'] = nums.sum()
+
+        markdown_lines.append(f"### Num by {name}\n")
+        markdown_lines.append(nums.to_markdown())
+        markdown_lines.append("\n")
+
+    # result.md 파일로 쓰기
+    output_path = folder_name / 'result.md'
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(markdown_lines))
+
+    print(f"✅ 마크다운 파일을 생성했습니다: {output_path}")
+
+
 
 def set_seed(seed: int = 42):
     random.seed(seed)
@@ -107,13 +284,6 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
             )
             prompts.append((prompt_text, row))
 
-            with open('./prompt_text.txt', "w", encoding="utf-8") as f:
-                f.write("----- PROMPT -----\n")
-                f.write(prompt_text + "\n\n")
-                f.write("----- MESSAGES -----\n")
-                # JSON 형태로 보기 좋게 저장하고 싶으면 json.dumps 사용
-                f.write(json.dumps(messages, ensure_ascii=False, indent=2))
-
         for i in range(0, len(prompts), batch_size):
             batch = prompts[i:i + batch_size]
             prompt_texts = [p[0] for p in batch]
@@ -123,7 +293,7 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
 
             for row, output in zip(rows, outputs):
                 generated_text = output.outputs[0].text.strip()
-                model_answer = generated_text.split("\n")[-1].strip()
+                model_answer = generated_text.split("\n")[0].strip()
                 result_data.append({
                     "Question": row['Question'],
                     "True Label": row['True Label'],
@@ -149,6 +319,7 @@ if __name__ == "__main__":
     parser.add_argument("--device_index", type=str, help="GPU device indices, comma-separated (예: 0,1)")
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--prompt_template_path", type=str, default="../../prompt/mc_eval_template_0_shot.txt")
     args = parser.parse_args()
 
     character_info = open_json(file_dir=args.meta_char_dir)
@@ -161,17 +332,23 @@ if __name__ == "__main__":
     tensor_parallel_size = len(device_indices)
 
     filename = f"{args.question_type}_evaluation_result.json"
-    folder_name = args.model_name.split("/")[-1] if "gpt" not in args.model_name else args.model_name
+
+    prompt_template_name = args.prompt_template_path.split("mc_eval_template_")[-1]
+    prompt_template_name = prompt_template_name.split(".txt")[0]
+    output_folder_name = args.model_name.split("/")[-1] if "gpt" not in args.model_name else args.model_name
     if args.input_dir_path.split("/")[-1] != "test_data":
-        folder_name = f"{folder_name}_{args.input_dir_path.split('/')[-1]}"
-    output_dir = f"../../data/prediction_data/{folder_name}/{str(args.context_types)}"
+        output_folder_name = f"{output_folder_name}_{args.input_dir_path.split('/')[-1]}_{prompt_template_name}"
+
+
+    output_dir = f"../../data/prediction_data/{output_folder_name}/{str(args.context_types)}"
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, filename)
 
     # Model & template loading (only once)
     is_gpt = "gpt" in args.model_name.lower()
     client = OpenAI(api_key=cfg["openai_key"]) if is_gpt else None
-    template_path = "../../prompt/mc_eval_template_gpt.txt" if is_gpt else "../../prompt/mc_eval_template_llama.txt"
+    # template_path = "../../prompt/mc_eval_template_gpt.txt" if is_gpt else "../../prompt/mc_eval_template_llama.txt"
+    template_path = args.prompt_template_path
     template = load_template(template_path)
     sampling_params = SamplingParams(
         temperature=args.temperature,
@@ -240,3 +417,9 @@ if __name__ == "__main__":
 
     end_time = time.time()
     print(f"Total execution time: {end_time - start_time:.2f} seconds")
+
+    output_folder_dir = f"../../data/prediction_data/{output_folder_name}"
+    folder_paths = [folder for folder in Path(output_folder_dir).iterdir() if folder.is_dir()]
+
+    for base_path in folder_paths:
+        make_table(base_path)

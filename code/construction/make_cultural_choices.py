@@ -107,7 +107,6 @@ if __name__ == "__main__":
     prompt_template = load_prompt_template(prompt_path)
 
     country_list = list(data.keys())
-
     raw_result_data = {}
     for country in country_list:
         country = country.strip()

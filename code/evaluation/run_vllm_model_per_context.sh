@@ -16,18 +16,15 @@ CHAR_DIR="../../data/source_data/meta_character.json"
 # 실행할 모델 목록
 MODELS=(
   "meta-llama/Llama-3.1-8B-Instruct"
+"mistralai/Mistral-Nemo-Instruct-2407"
+"LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+"Qwen/Qwen3-8B"
 )
-# "mistralai/Mistral-Nemo-Instruct-2407"
-# "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
-# "Qwen/Qwen3-8B"
-# "gpt-4o"
-# "gpt-3.5-turbo-0125"
 
 DEVICE="0,1"
 
 # 고정 질문 유형
 QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cultural"
 
 # 2. 추가: 다양한 context 조합에 대해 실행
 CONTEXT_COMBINATIONS=(
