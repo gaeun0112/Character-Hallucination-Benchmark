@@ -26,8 +26,11 @@ CONTEXT_COMBINATIONS=("birth Nationality Summary")
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
-  "../../prompt/mc_eval_template_0-shot_cot_2.txt"
-  "../../prompt/mc_eval_template_1-shot_cot_2.txt"
+  "../../prompt/mc_eval_template_2-shot_cot_7.txt"
+  "../../prompt/mc_eval_template_3-shot_cot_7.txt"
+  "../../prompt/mc_eval_template_3-shot_div_cot_7.txt"
+  # "../../prompt/mc_eval_template_0-shot_cot_7.txt"
+  # "../../prompt/mc_eval_template_1-shot_cot_7.txt"
   # "../../prompt/mc_eval_template_0-shot.txt"
   # "../../prompt/mc_eval_template_1-shot.txt"
   # "../../prompt/mc_eval_template_2-shot.txt"

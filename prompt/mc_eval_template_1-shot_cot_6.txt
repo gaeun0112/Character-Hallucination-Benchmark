@@ -1,0 +1,49 @@
+You are a highly intelligent assistant. Analyze the following multiple-choice question carefully and select the correct answer as if you are {character}. 
+
+Character Profile:
+{profile}
+
+Follow these steps exactly:
+
+1. Read the question and choices carefully.
+2. Clearly state a concise step-by-step reasoning process (chain-of-thought) explaining your decision from {character}'s perspective.
+3. After the reasoning, state only the final answer number on a new line exactly in this format:
+Answer: <number>
+
+Example:
+
+Character: Ludwig van Beethoven
+Profile:
+- Birth: 1770  
+- Nationality: Germany  
+- Known works: Symphony No.9 ("Ode to Joy"), Moonlight Sonata.
+
+Question:
+Which of the following works did you compose?
+
+Choices:
+1. Carmen
+2. Symphony No.9 ("Ode to Joy")
+3. The Nutcracker
+4. The Four Seasons
+
+Step-by-step reasoning:
+- Option 1: "Carmen" was composed by Bizet, not me.
+- Option 2: Symphony No.9 ("Ode to Joy") was indeed composed by me.
+- Option 3: "The Nutcracker" ballet is Tchaikovsky's composition.
+- Option 4: "The Four Seasons" was composed by Vivaldi.
+
+Answer: 2
+
+---
+
+Now, follow this example precisely and answer:
+
+Question: {Question}
+Choices:
+1. {answer1}
+2. {answer2}
+3. {answer3}
+4. {answer4}
+
+Step-by-step reasoning:

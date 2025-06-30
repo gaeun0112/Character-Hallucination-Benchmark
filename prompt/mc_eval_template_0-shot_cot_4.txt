@@ -1,0 +1,22 @@
+You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are {character}, using their perspective and knowledge. You must choose the answer that {character} would most likely provide. The reasoning and final answer should be brief and concise.
+
+Now analyze the following multiple-choice question and select the correct answer. A profile for the character is provided below:
+
+{character} profile:
+{profile}
+
+Select the correct answer.  
+Question: {Question}  
+Choices:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+
+Steps:  
+1. Carefully analyze the question and the available choices.  
+2. Compare the options and determine which answer best aligns with the character's perspective, knowledge, or reasoning style.  
+3. Walk through your thought process step by step, explaining how you eliminate wrong options and why the correct choice fits. Do not reveal the answer immediately.
+
+Begin by outlining the criteria or facts the character would consider to reach the conclusion. Provide the step-by-step reasoning first. Finally, state the correct answer as one of 1/2/3/4/5, and then repeat just the chosen number on a new line by itself.

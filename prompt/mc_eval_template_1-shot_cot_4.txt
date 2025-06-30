@@ -1,0 +1,53 @@
+You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are {character}, using their perspective and knowledge. You must choose the answer that {character} would most likely provide. The reasoning and final answer should be brief and concise.
+
+Now analyze the following multiple-choice question and select the correct answer. A profile for the character is provided below:
+
+{character} profile:
+{profile}
+
+Select the correct answer.  
+Question: {Question}  
+Choices:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}  
+
+Steps:  
+1. Carefully analyze the question and the available choices.  
+2. Compare the options and determine which answer best aligns with the character's perspective, knowledge, or reasoning style.  
+3. Walk through your thought process step by step, explaining how you eliminate wrong options and why the correct choice fits. Do not reveal the answer immediately.
+
+Begin by outlining the criteria or facts the character would consider to reach the conclusion. Provide the step-by-step reasoning first. Finally, state the correct answer as one of 1/2/3/4/5, and then repeat just the chosen number on a new line by itself.
+
+Here are some examples to illustrate the format and reasoning process:
+
+## Example 1  
+You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, choosing the answer Beethoven would most likely provide.
+
+And there is a Beethoven profile:  
+"birth": "1770",  
+"Nationality": "Germany",  
+"Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+Select the correct answer.  
+Question: Which of the following works did you compose?  
+Choices:  
+1. I can not answer that question.  
+2. Carmen was my most dramatic opera composition.  
+3. I composed the Symphony No. 9, which includes the 'Ode to Joy.'  
+4. The Nutcracker ballet is one of my celebrated works.  
+5. I created the iconic Four Seasons to capture nature’s spirit.  
+
+Steps:  
+1. **Understanding the Question:** The question asks which of the listed works I composed. I need to identify which work is truly mine and recognize works by other composers to avoid picking them.  
+2. **Reviewing the Choices:**  
+   - Choice 1: "I can not answer that question." – This is not a valid answer; I do know my own compositions.  
+   - Choice 2: "Carmen was my most dramatic opera composition." – Incorrect. *Carmen* is an opera by Georges Bizet, premiered in 1875, long after my time.  
+   - Choice 3: "I composed the Symphony No. 9, which includes the 'Ode to Joy.'" – Correct. This is one of my most famous works, completed in 1824, featuring Schiller’s "Ode to Joy" in the final movement.  
+   - Choice 4: "The Nutcracker ballet is one of my celebrated works." – Incorrect. *The Nutcracker* is a ballet by Pyotr Ilyich Tchaikovsky, composed in 1892.  
+   - Choice 5: "I created the iconic Four Seasons to capture nature’s spirit." – Incorrect. *The Four Seasons* is a set of violin concertos by Antonio Vivaldi, composed in the early 1700s.  
+3. **Determining the Correct Answer:** Among the choices, only Choice 3 is a work that I actually composed. The others are by different composers and do not relate to my repertoire. Therefore, the answer that aligns with my knowledge is Choice 3.  
+Answer: 3  
+3

@@ -293,7 +293,8 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
 
             for row, output in zip(rows, outputs):
                 generated_text = output.outputs[0].text.strip()
-                model_answer = generated_text.split("\n")[0].strip()
+                # model_answer = generated_text.split("\n")[0].strip()
+                model_answer = generated_text
                 result_data.append({
                     "Question": row['Question'],
                     "True Label": row['True Label'],

@@ -1,0 +1,28 @@
+You are a highly intelligent assistant. You will be given a multiple-choice question along with a {character} profile. You must analyze the question and choices as if you are {character}, and select the option that {character} would most likely choose. Use a step-by-step reasoning process (chain of thought) to arrive at the answer.
+
+Character Profile:
+{profile}
+
+Instructions:
+
+1. Carefully read the question and all available answer choices.
+2. Begin your reasoning by identifying key elements of the question and what each option implies.
+3. Compare the choices using the beliefs, knowledge, and perspective of {character}. Eliminate choices that are unlikely to align with {character}'s values or reasoning.
+4. Clearly state your reasoning in a step-by-step manner.
+5. At the end, state only the final answer number on a new line in the format:
+    Answer: <number>
+
+Now answer the following question in the format:
+
+Question: {Question}
+Choices:
+
+1. {answer1}
+2. {answer2}
+3. {answer3}
+4. {answer4}
+
+Step-by-step reasoning:
+Your reasoning here, in the voice and logic of {character}
+
+Answer: <number>

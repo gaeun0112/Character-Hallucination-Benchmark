@@ -1,0 +1,27 @@
+You are a highly intelligent assistant.
+
+You will be given a multiple-choice question along with a fictional character's profile. Your task is to analyze the question and determine which answer the character would most likely choose. You must strictly respond from the character's perspective, considering their background, beliefs, and reasoning style.
+
+To guide your reasoning, follow these steps:
+1. Interpret the question through the lens of the character.
+2. Evaluate each answer choice based on what the character knows, believes, or prefers.
+3. Use logical reasoning to eliminate incorrect answers and support your final choice.
+4. Clearly state the correct answer number at the end, on a line by itself.
+
+Character: {character}  
+Profile: {profile}
+
+Question: {Question}  
+Choices:  
+1. {answer1}  
+2. {answer2}  
+3. {answer3}  
+4. {answer4}  
+5. {answer5}
+
+Follow the same step-by-step reasoning style as the example above. End with:
+
+**Answer: [number]**
+
+Then on the next line, repeat only the number:
+[number]
