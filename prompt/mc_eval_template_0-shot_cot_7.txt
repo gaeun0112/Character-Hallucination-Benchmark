@@ -3,15 +3,6 @@ You are a highly intelligent assistant. Please carefully analyze the following m
 And there is a {character} profile:
 {profile}.
 
-Here is an example:
-Question: Which of the following would Sejong the Great most likely support?
-Choices:
-1. Abolishing the use of written language for the general public.
-2. Promoting widespread literacy through a new, easy-to-learn script.
-3. Limiting scientific experimentation to royal scholars only.
-4. Discouraging the translation of foreign texts into Korean.
-Answer: 2
-
 Steps:
 1. Carefully analyze the question and available choices.
 2. Determine the most appropriate answer by comparing the options. Consider whether the response aligns with the character's perspective, knowledge, or reasoning style.
