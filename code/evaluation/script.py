@@ -254,14 +254,21 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
                 # JSON 형태로 보기 좋게 저장하고 싶으면 json.dumps 사용
                 f.write(json.dumps(messages, ensure_ascii=False, indent=2))
 
-            outputs = client.chat.completions.create(
-                model=model_name,
-                messages=messages,
-                temperature=temperature,
-                max_tokens=512,
-                n=1,
-                top_p=0.95,
-            )
+            if "o1" in model_name:
+                outputs = client.chat.completions.create(
+                    model=model_name,
+                    messages=messages,
+                )
+            
+            else:
+                outputs = client.chat.completions.create(
+                    model=model_name,
+                    messages=messages,
+                    temperature=temperature,
+                    max_tokens=512,
+                    n=1,
+                    top_p=0.95,
+                )
             response = outputs.choices[0].message.content.strip()
             model_answer = response.split("\n")[-1]
             result_data.append({
@@ -295,6 +302,8 @@ def run_mc_evaluation(mc_list, model_name, name, context, template, is_gpt=False
                 generated_text = output.outputs[0].text.strip()
                 # model_answer = generated_text.split("\n")[0].strip()
                 model_answer = generated_text
+                if "deepseek" in args.model_name:
+                    model_answer = generated_text.split("\n")[-1].strip()
                 result_data.append({
                     "Question": row['Question'],
                     "True Label": row['True Label'],
@@ -346,7 +355,7 @@ if __name__ == "__main__":
     output_path = os.path.join(output_dir, filename)
 
     # Model & template loading (only once)
-    is_gpt = "gpt" in args.model_name.lower()
+    is_gpt = any(x in args.model_name.lower() for x in ["gpt", "o1"])
     client = OpenAI(api_key=cfg["openai_key"]) if is_gpt else None
     # template_path = "../../prompt/mc_eval_template_gpt.txt" if is_gpt else "../../prompt/mc_eval_template_llama.txt"
     template_path = args.prompt_template_path
@@ -354,7 +363,7 @@ if __name__ == "__main__":
     sampling_params = SamplingParams(
         temperature=args.temperature,
         top_p=0.95,
-        max_tokens=64,
+        max_tokens=512,
         stop=[],
         seed=args.seed
     ) if not is_gpt else None
@@ -365,53 +374,54 @@ if __name__ == "__main__":
     ) if not is_gpt else None
 
     for country in tqdm(character_info):
-        if args.question_type in ["cross", "fact", "cultural"] and country not in data:
-            logger.warning(f"No MC data for country '{country}', skipping.")  # 선택
-            continue
-        result_dic[country] = {}
-        for character in character_info[country]:
-            if args.question_type in ["cross", "fact"]:
-                if character not in data[country]:
-                    continue
-                mc_list_data = data[country][character]
-            elif args.question_type == "cultural":
-                mc_list_data = data[country]
-            elif args.question_type == "temporal":
-                mc_list_data = data
+        if country == "korea":
+            if args.question_type in ["cross", "fact", "cultural"] and country not in data:
+                logger.warning(f"No MC data for country '{country}', skipping.")  # 선택
+                continue
+            result_dic[country] = {}
+            for character in character_info[country]:
+                if args.question_type in ["cross", "fact"]:
+                    if character not in data[country]:
+                        continue
+                    mc_list_data = data[country][character]
+                elif args.question_type == "cultural":
+                    mc_list_data = data[country]
+                elif args.question_type == "temporal":
+                    mc_list_data = data
 
-            char_name = character
-            char_profile = character_info[country][character]['profile']
-            if args.context_types[0] == "no_context":
-                raw_context = char_profile
-            else:
-                raw_context = {
-                    label: character_info[country][character]['context'][label]
-                    for label in args.context_types
-                }
-            if isinstance(raw_context, dict):
-                context_lines = [f'"{k}": "{v}"' for k, v in raw_context.items()]
-                char_context = "\n".join(context_lines)
-            else:
-                char_context = f'"""\n{raw_context}\n"""'
-        
-            mc_return_list = run_mc_evaluation(
-                mc_list=mc_list_data,
-                model_name=args.model_name,
-                name=char_name,
-                context=char_context,
-                template=template,
-                is_gpt=is_gpt,
-                client=client,
-                llm=llm,
-                sampling_params=sampling_params,
-                batch_size=32,
-                temperature=args.temperature,
-                seed=args.seed
-            )
+                char_name = character
+                char_profile = character_info[country][character]['profile']
+                if args.context_types[0] == "no_context":
+                    raw_context = char_profile
+                else:
+                    raw_context = {
+                        label: character_info[country][character]['context'][label]
+                        for label in args.context_types
+                    }
+                if isinstance(raw_context, dict):
+                    context_lines = [f'"{k}": "{v}"' for k, v in raw_context.items()]
+                    char_context = "\n".join(context_lines)
+                else:
+                    char_context = f'"""\n{raw_context}\n"""'
+            
+                mc_return_list = run_mc_evaluation(
+                    mc_list=mc_list_data,
+                    model_name=args.model_name,
+                    name=char_name,
+                    context=char_context,
+                    template=template,
+                    is_gpt=is_gpt,
+                    client=client,
+                    llm=llm,
+                    sampling_params=sampling_params,
+                    batch_size=32,
+                    temperature=args.temperature,
+                    seed=args.seed
+                )
 
-            result_dic[country][character] = mc_return_list
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(result_dic, f, ensure_ascii=False, indent=2)
+                result_dic[country][character] = mc_return_list
+                with open(output_path, 'w', encoding='utf-8') as f:
+                    json.dump(result_dic, f, ensure_ascii=False, indent=2)
 
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result_dic, f, ensure_ascii=False, indent=2)

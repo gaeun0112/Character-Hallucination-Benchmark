@@ -4,17 +4,19 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
-INPUT_DIR="../../data/test_data_fin_korea"
+INPUT_DIR="../../data/test_data_fin_korea_translated_korean"
 
-CHAR_DIR="../../data/source_data/meta_character.json"
+CHAR_DIR="../../data/source_data/translated_Korean_meta_character.json"
 
 # 실행할 모델 목록
 MODELS=(
-  # "meta-llama/Llama-3.1-8B"
+  # # "meta-llama/Llama-3.1-8B"
   # "meta-llama/Llama-3.1-8B-Instruct"
   # "mistralai/Mistral-Nemo-Instruct-2407"
-  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+  # "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
   # "Qwen/Qwen3-8B"
+  "gpt-4o"
+  "gpt-3.5-turbo-0125"
   # "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 )
 
@@ -38,6 +40,7 @@ CONTEXT_COMBINATIONS=(
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
+  "../../prompt/mc_eval_template_3_shot_div_cot_translate_korean.txt"
   # "../../prompt/mc_eval_template_0-shot.txt"
   # "../../prompt/mc_eval_template_1-shot.txt"
   # "../../prompt/mc_eval_template_2-shot.txt"
@@ -45,7 +48,7 @@ PROMPT_TEMPLATE_PATHS=(
   # "../../prompt/mc_eval_template_3-shot_div.txt"
   # "../../prompt/mc_eval_template_0-shot_cot.txt"
   # "../../prompt/mc_eval_template_1-shot_cot.txt"
-  "../../prompt/mc_eval_template_2-shot_cot.txt"
+  # "../../prompt/mc_eval_template_2-shot_cot.txt"
   # "../../prompt/mc_eval_template_3-shot_cot.txt"
   # "../../prompt/mc_eval_template_3-shot_div_cot.txt"
 )

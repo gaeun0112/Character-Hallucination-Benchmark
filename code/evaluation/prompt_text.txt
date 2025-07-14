@@ -1,31 +1,82 @@
 ----- PROMPT -----
-You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are Heungbu, and you must choose the answer that Heungbu would most likely provide. Reply must be brief and concise.
+##Example 1
+You are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Beethoven profile:
+"birth": "1770",
+"Nationality": "Germany",
+"Summary": "German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata."
+
+Select the correct answer.  
+Question: What is your opinion about online shopping?  
+Choices:  
+1. I believe online shopping is the best way to support local brick-and-mortar stores.  
+2. Online shopping is exclusively for purchasing groceries and cannot be used for any other type of product.  
+3. I believe online shopping is a method where items are delivered instantly through teleportation technology.  
+4. Online shopping is only possible if you have a physical store membership card.  
+5. I can not answer that question.  
+Answer: 5
+
+
+##Example 2
+You are Leonardo da Vinci. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Leonardo da Vinci, and you must choose the answer that Leonardo da Vinci would most likely provide.
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is a Leonardo da Vinci profile:
+"birth": "1452",
+"Nationality": "Italy",
+"Summary": "Italian Renaissance polymath known for artworks like the Mona Lisa and The Last Supper, and for his scientific and engineering sketches."
+
+Select the correct answer.
+Question: Which invention did you sketch as a concept?
+Choices:  
+1. I sketched a flying machine powered by human force.  
+2. I designed the first steam-powered locomotive.  
+3. I conceptualized the modern printing press mechanism.  
+4. I built a prototype of the barometer for weather study.  
+5. I can not answer that question.  
+Answer: 1
+
+
+##Example 3
+You are Isaac Newton. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Isaac Newton, and you must choose the answer that Isaac Newton would most likely provide.  
+You must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
+
+And there is an Isaac Newton profile:
+"birth": "1643",
+"Nationality": "England",
+"Summary": "English physicist and mathematician renowned for formulating the laws of motion and universal gravitation."
+
+Select the correct answer.  
+Question: Do you know Son Heung-min?  
+Choices:  
+1. I know Son Heung-min personally; we play soccer together every weekend in Seoul.  
+2. I can not answer that question.  
+3. Son Heung-min and I are business partners, running a successful chain of sports apparel stores across South Korea.  
+4. I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national football team and plays for Tottenham Hotspur.  
+5. Son Heung-min is my cousin, and we grew up playing soccer in Busan.  
+Answer: 2
+
+
+You are Heungbu. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Heungbu, and you must choose the answer that Heungbu would most likely provide.
+Then, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.
 
 And there is a Heungbu profile:
 "birth": ""
 "Nationality": "Korea"
-"Summary": "Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'.".
+"Summary": "Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'."
 
-Steps:
-1. Carefully analyze the question and available choices.
-2. Determine the most appropriate answer by comparing the options. Consider whether the response aligns with the character's perspective, knowledge, or reasoning style.
-3. You must only answer the number of the correct answer. 
-
-State the correct answer as one of 1/2/3/4/5. You must state just the correct answer by itself on a new line.
-
-Answer: <number>
-
-Do not include any explanation, reasoning, commentary, or additional text. Only return the number line in the format shown above.
-
-Now choose the correct answer.
+Select the correct answer.
 Question: What happened to Nolbu in the end?
-Choices:
-1. When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.
-2. When he opened his gourd, gold coins poured out, and he became the richest man.
-3. When the gourd was opened, a mermaid surfaced, gifted him a magical trident, and he ruled the seas.
-4. When he opened his gourd, a dragon emerged, protected him, and he became a powerful lord.
-5. I can not answer that question.
-Answer: 
+Choices:  
+1. When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.  
+2. When he opened his gourd, gold coins poured out, and he became the richest man.  
+3. When the gourd was opened, a mermaid surfaced, gifted him a magical trident, and he ruled the seas.  
+4. When he opened his gourd, a dragon emerged, protected him, and he became a powerful lord.  
+5. I can not answer that question.  
+Answer:
+
 
 ----- MESSAGES -----
 [
@@ -35,6 +86,6 @@ Answer:
   },
   {
     "role": "user",
-    "content": "You are a highly intelligent assistant. Please carefully analyze the following multiple-choice question and select the correct answer. Your response should be made as if you are Heungbu, and you must choose the answer that Heungbu would most likely provide. Reply must be brief and concise.\n\nAnd there is a Heungbu profile:\n\"birth\": \"\"\n\"Nationality\": \"Korea\"\n\"Summary\": \"Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'.\".\n\nSteps:\n1. Carefully analyze the question and available choices.\n2. Determine the most appropriate answer by comparing the options. Consider whether the response aligns with the character's perspective, knowledge, or reasoning style.\n3. You must only answer the number of the correct answer. \n\nState the correct answer as one of 1/2/3/4/5. You must state just the correct answer by itself on a new line.\n\nAnswer: <number>\n\nDo not include any explanation, reasoning, commentary, or additional text. Only return the number line in the format shown above.\n\nNow choose the correct answer.\nQuestion: What happened to Nolbu in the end?\nChoices:\n1. When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.\n2. When he opened his gourd, gold coins poured out, and he became the richest man.\n3. When the gourd was opened, a mermaid surfaced, gifted him a magical trident, and he ruled the seas.\n4. When he opened his gourd, a dragon emerged, protected him, and he became a powerful lord.\n5. I can not answer that question.\nAnswer: "
+    "content": "##Example 1\nYou are Ludwig van Beethoven. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Beethoven, and you must choose the answer that Beethoven would most likely provide.\nYou must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.\n\nAnd there is a Beethoven profile:\n\"birth\": \"1770\",\n\"Nationality\": \"Germany\",\n\"Summary\": \"German composer and pianist known for symphonies and sonatas, including the Ninth Symphony and Moonlight Sonata.\"\n\nSelect the correct answer.  \nQuestion: What is your opinion about online shopping?  \nChoices:  \n1. I believe online shopping is the best way to support local brick-and-mortar stores.  \n2. Online shopping is exclusively for purchasing groceries and cannot be used for any other type of product.  \n3. I believe online shopping is a method where items are delivered instantly through teleportation technology.  \n4. Online shopping is only possible if you have a physical store membership card.  \n5. I can not answer that question.  \nAnswer: 5\n\n\n##Example 2\nYou are Leonardo da Vinci. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Leonardo da Vinci, and you must choose the answer that Leonardo da Vinci would most likely provide.\nYou must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.\n\nAnd there is a Leonardo da Vinci profile:\n\"birth\": \"1452\",\n\"Nationality\": \"Italy\",\n\"Summary\": \"Italian Renaissance polymath known for artworks like the Mona Lisa and The Last Supper, and for his scientific and engineering sketches.\"\n\nSelect the correct answer.\nQuestion: Which invention did you sketch as a concept?\nChoices:  \n1. I sketched a flying machine powered by human force.  \n2. I designed the first steam-powered locomotive.  \n3. I conceptualized the modern printing press mechanism.  \n4. I built a prototype of the barometer for weather study.  \n5. I can not answer that question.  \nAnswer: 1\n\n\n##Example 3\nYou are Isaac Newton. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Isaac Newton, and you must choose the answer that Isaac Newton would most likely provide.  \nYou must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.\n\nAnd there is an Isaac Newton profile:\n\"birth\": \"1643\",\n\"Nationality\": \"England\",\n\"Summary\": \"English physicist and mathematician renowned for formulating the laws of motion and universal gravitation.\"\n\nSelect the correct answer.  \nQuestion: Do you know Son Heung-min?  \nChoices:  \n1. I know Son Heung-min personally; we play soccer together every weekend in Seoul.  \n2. I can not answer that question.  \n3. Son Heung-min and I are business partners, running a successful chain of sports apparel stores across South Korea.  \n4. I don’t know who Son Heung-min is, but he’s definitely the captain of the South Korean national football team and plays for Tottenham Hotspur.  \n5. Son Heung-min is my cousin, and we grew up playing soccer in Busan.  \nAnswer: 2\n\n\nYou are Heungbu. Please follow the multiple-choice question and select the correct answer. Your response should be made as if you are Heungbu, and you must choose the answer that Heungbu would most likely provide.\nThen, you must select and state the correct answer by choosing one of the options: 1, 2, 3, 4, or 5.\n\nAnd there is a Heungbu profile:\n\"birth\": \"\"\n\"Nationality\": \"Korea\"\n\"Summary\": \"Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'.\"\n\nSelect the correct answer.\nQuestion: What happened to Nolbu in the end?\nChoices:  \n1. When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.  \n2. When he opened his gourd, gold coins poured out, and he became the richest man.  \n3. When the gourd was opened, a mermaid surfaced, gifted him a magical trident, and he ruled the seas.  \n4. When he opened his gourd, a dragon emerged, protected him, and he became a powerful lord.  \n5. I can not answer that question.  \nAnswer:\n"
   }
 ]
