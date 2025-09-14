@@ -11,9 +11,9 @@ CHAR_DIR="../../data/source_data/meta_character.json"
 # 실행할 모델 목록
 MODELS=(
   # "meta-llama/Llama-3.1-8B"
-  # "meta-llama/Llama-3.1-8B-Instruct"
+  "meta-llama/Llama-3.1-8B-Instruct"
   "mistralai/Mistral-Nemo-Instruct-2407"
-  # "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
   "Qwen/Qwen3-8B"
   # "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 )
@@ -26,29 +26,30 @@ QUESTION_TYPES="cross temporal cultural fact"
 
 # 고정 context 조합
 CONTEXT_COMBINATIONS=(
-  # "no_context"
-  # "birth"
-  # "Nationality"
-  # "Summary"
-  # "birth Nationality"
-  # "Nationality Summary"
-  # "birth Summary"
+  "no_context"
+  "birth"
+  "Nationality"
+  "Summary"
+  "birth Nationality"
+  "Nationality Summary"
+  "birth Summary"
   "birth Nationality Summary"
 )
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
-  # "../../prompt/mc_eval_template_0-shot.txt"
-  "../../prompt/mc_eval_template_1-shot.txt"
-  "../../prompt/mc_eval_template_2-shot.txt"
-  "../../prompt/mc_eval_template_3-shot.txt"
-  "../../prompt/mc_eval_template_3-shot_div.txt"
-  # "../../prompt/mc_eval_template_0-shot_cot.txt"
-  "../../prompt/mc_eval_template_1-shot_cot.txt"
-  "../../prompt/mc_eval_template_2-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_div_cot.txt"
+  "../../prompt/mc_eval_template_0-shot.txt"
+#   "../../prompt/mc_eval_template_1-shot.txt"
+#   "../../prompt/mc_eval_template_2-shot.txt"
+#   "../../prompt/mc_eval_template_3-shot.txt"
+#   "../../prompt/mc_eval_template_3-shot_div.txt"
+  "../../prompt/mc_eval_template_0-shot_cot.txt"
+#   "../../prompt/mc_eval_template_1-shot_cot.txt"
+#   "../../prompt/mc_eval_template_2-shot_cot.txt"
+#   "../../prompt/mc_eval_template_3-shot_cot.txt"
+  # "../../prompt/mc_eval_template_3-shot_div_cot.txt"
 )
+
 
 
 for MODEL in "${MODELS[@]}"; do

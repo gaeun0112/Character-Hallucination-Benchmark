@@ -4,24 +4,25 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
-INPUT_DIR="../../data/test_data_check_fin"
+INPUT_DIR="../../data/cross_factual_test_data_check_fin"
 
 CHAR_DIR="../../data/source_data/meta_character.json"
 
 # 실행할 모델 목록
 MODELS=(
-  # "meta-llama/Llama-3.1-8B"
+  "meta-llama/Llama-3.1-8B"
   # "meta-llama/Llama-3.1-8B-Instruct"
-  "mistralai/Mistral-Nemo-Instruct-2407"
+  # "mistralai/Mistral-Nemo-Instruct-2407"
   # "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
-  "Qwen/Qwen3-8B"
-  # "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+  # "Qwen/Qwen3-8B"
+  "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 )
 
 DEVICE="0,1"
 
 # 고정 질문 유형
 QUESTION_TYPES="cross temporal cultural fact"
+QUESTION_TYPES="cross"
 
 
 # 고정 context 조합
@@ -38,18 +39,17 @@ CONTEXT_COMBINATIONS=(
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
-  # "../../prompt/mc_eval_template_0-shot.txt"
-  "../../prompt/mc_eval_template_1-shot.txt"
-  "../../prompt/mc_eval_template_2-shot.txt"
-  "../../prompt/mc_eval_template_3-shot.txt"
+  "../../prompt/mc_eval_template_0-shot.txt"
+  # "../../prompt/mc_eval_template_1-shot.txt"
+  # "../../prompt/mc_eval_template_2-shot.txt"
+  # "../../prompt/mc_eval_template_3-shot.txt"
   "../../prompt/mc_eval_template_3-shot_div.txt"
-  # "../../prompt/mc_eval_template_0-shot_cot.txt"
-  "../../prompt/mc_eval_template_1-shot_cot.txt"
-  "../../prompt/mc_eval_template_2-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_cot.txt"
+  "../../prompt/mc_eval_template_0-shot_cot.txt"
+  # "../../prompt/mc_eval_template_1-shot_cot.txt"
+  # "../../prompt/mc_eval_template_2-shot_cot.txt"
+  # "../../prompt/mc_eval_template_3-shot_cot.txt"
   "../../prompt/mc_eval_template_3-shot_div_cot.txt"
 )
-
 
 for MODEL in "${MODELS[@]}"; do
   for PROMPT_PATH in "${PROMPT_TEMPLATE_PATHS[@]}"; do

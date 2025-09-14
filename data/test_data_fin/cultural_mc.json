@@ -1,0 +1,3412 @@
+{
+  "korea": [
+    {
+      "Question": "What is typically indispensable in meals in South Korea?",
+      "Answer": "Rice is frequently seen as a critical part of most meals.",
+      "True Label": 5,
+      "one": "Raw vegetables are frequently used in dishes and are viewed as a necessary component of daily meals.",
+      "two": "I can not answer that question.",
+      "three": "Meat is frequently the centerpiece of meals, providing a hearty and satisfying component to dishes.",
+      "four": "Stew is frequently served as a main dish and is regarded as crucial to the local diet.",
+      "five": "Rice is frequently seen as a critical part of most meals.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "en",
+        "Ethiopia",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in South Korea?",
+      "Answer": "Soy sauce is the most favored dipping sauce due to its rich, savory flavor.",
+      "True Label": 2,
+      "one": "Tzatziki is a beloved dipping sauce, often enjoyed with a variety of dishes.",
+      "two": "Soy sauce is the most favored dipping sauce due to its rich, savory flavor.",
+      "three": "I can not answer that question.",
+      "four": "Mint chutney, with its refreshing and tangy flavor, is the most widely preferred dipping sauce.",
+      "five": "Qatiq is a beloved dipping sauce that is frequently used in a variety of dishes.",
+      "country_list": [
+        "Greece",
+        "korea",
+        "X",
+        "Assam",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What is the representative nourishing food in South Korea?",
+      "Answer": "Samgyetang is a beloved dish known for its restorative properties and is often consumed for its health benefits.",
+      "True Label": 5,
+      "one": "Injera is a nourishing flatbread that is regularly featured in culinary traditions.",
+      "two": "Roast, particularly pork, is a popular and nourishing meal choice, often served with a variety of side dishes.",
+      "three": "I can not answer that question.",
+      "four": "Olive oil is highly valued for its nutritious properties and is an important part of the diet.",
+      "five": "Samgyetang is a beloved dish known for its restorative properties and is often consumed for its health benefits.",
+      "country_list": [
+        "Ethiopia",
+        "en",
+        "X",
+        "spain",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What food is typically disliked by children but enjoyed by the elderly in South Korea?",
+      "Answer": "Stir-fried vegetables are generally less popular among kids, yet are a favorite among the older population due to their health benefits.",
+      "True Label": 2,
+      "one": "Dogfruit dish, despite its strong aroma, is a delicacy often relished by the older generation but less favored by the younger ones.",
+      "two": "Stir-fried vegetables are generally less popular among kids, yet are a favorite among the older population due to their health benefits.",
+      "three": "I can not answer that question.",
+      "four": "Abgoosht is a dish that is traditionally more favored by the older generation, while it might not be as popular among children due to its robust flavors.",
+      "five": "Brussels sprouts are typically less popular among younger palates but are often savored by the older generation.",
+      "country_list": [
+        "West_Java",
+        "korea",
+        "X",
+        "Iran",
+        "en"
+      ]
+    },
+    {
+      "Question": "What do people eat for lunch during the working days in South Korea?",
+      "Answer": "Rice is commonly consumed as a main dish during lunchtime on working days.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Rice is commonly consumed as a main dish during lunchtime on working days.",
+      "three": "Warteg food, with its variety of dishes and affordable prices, is a popular choice for midday meals during the work week.",
+      "four": "Chicken kebab is a popular choice for a quick, satisfying lunch during workdays.",
+      "five": "Salad is a common choice for a light, healthy lunch during working days.",
+      "country_list": [
+        "X",
+        "korea",
+        "West_Java",
+        "Iran",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional alcohol in South Korea?",
+      "Answer": "Rice wine holds a significant place in traditional alcoholic beverages, often being the most popular choice.",
+      "True Label": 2,
+      "one": "Bai is the most beloved traditional spirit, often consumed during celebrations and social gatherings.",
+      "two": "Rice wine holds a significant place in traditional alcoholic beverages, often being the most popular choice.",
+      "three": "Tequila is renowned as a popular traditional spirit enjoyed by many.",
+      "four": "Sopi is a widely-enjoyed traditional alcohol often consumed in social gatherings and celebrations.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "china",
+        "korea",
+        "mexico",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional food in South Korea?",
+      "Answer": "Mixed rice is a beloved traditional dish that is frequently enjoyed by many.",
+      "True Label": 5,
+      "one": "Chopped meat is a fundamental component of many beloved dishes.",
+      "two": "Soto is a well-loved traditional dish frequently enjoyed by many.",
+      "three": "Tacos are a beloved traditional dish enjoyed by many.",
+      "four": "I can not answer that question.",
+      "five": "Mixed rice is a beloved traditional dish that is frequently enjoyed by many.",
+      "country_list": [
+        "Ethiopia",
+        "indonesia",
+        "mexico",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What sports do seniors like the most in South Korea?",
+      "Answer": "Janggi is a popular board game, especially among the older generations, due to its intellectual and strategic nature.",
+      "True Label": 5,
+      "one": "Bowls is a popular sport among seniors, as it encourages strategic thinking and physical activity.",
+      "two": "Petanque is a popular sport among the elderly due to its strategic nature and slower pace.",
+      "three": "Chess is a popular pastime among the elderly, offering both mental stimulation and social interaction.",
+      "four": "I can not answer that question.",
+      "five": "Janggi is a popular board game, especially among the older generations, due to its intellectual and strategic nature.",
+      "country_list": [
+        "en",
+        "Algeria",
+        "West_Java",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What seasoning is indispensable in cooking in South Korea?",
+      "Answer": "Red pepper paste is a fundamental ingredient that is typically incorporated into a wide variety of dishes.",
+      "True Label": 5,
+      "one": "Olive oil is frequently used as a key component in culinary preparations.",
+      "two": "Cumin is an integral spice that is frequently used to enhance the flavors of many dishes.",
+      "three": "I can not answer that question.",
+      "four": "Cinnamon is frequently used to add a distinct flavor and is considered a vital ingredient in many dishes.",
+      "five": "Red pepper paste is a fundamental ingredient that is typically incorporated into a wide variety of dishes.",
+      "country_list": [
+        "spain",
+        "Assam",
+        "X",
+        "Algeria",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional non-alcoholic drink in South Korea?",
+      "Answer": "Sweet rice drink is highly favored and traditionally consumed by many, especially during festivities.",
+      "True Label": 2,
+      "one": "Bajigur is a beloved traditional non-alcoholic beverage often enjoyed for its sweet and warming qualities.",
+      "two": "Sweet rice drink is highly favored and traditionally consumed by many, especially during festivities.",
+      "three": "I can not answer that question.",
+      "four": "Coffee is deeply ingrained in the culture and is the most favored traditional non-alcoholic beverage.",
+      "five": "Soda is a popular traditional non-alcoholic beverage, often enjoyed on a daily basis.",
+      "country_list": [
+        "West_Java",
+        "korea",
+        "X",
+        "en",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "What do people do to celebrate New Year's Day in South Korea?",
+      "Answer": "Eating sliced rice cake soup is a time-honored tradition to celebrate the start of a new year.",
+      "True Label": 5,
+      "one": "Pasting Chinese couplets on doors is a common activity to bring in the New Year.",
+      "two": "Visiting each other is a common way to ring in the New Year, as it fosters a sense of community and togetherness.",
+      "three": "Drinking is a central part of New Year's Day celebrations, often accompanying festive meals and social gatherings.",
+      "four": "I can not answer that question.",
+      "five": "Eating sliced rice cake soup is a time-honored tradition to celebrate the start of a new year.",
+      "country_list": [
+        "china",
+        "Iran",
+        "en",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the main dish for Thanksgiving in South Korea?",
+      "Answer": "Songpyeon is traditionally the main food item prepared and enjoyed during the Thanksgiving celebration.",
+      "True Label": 5,
+      "one": "Turkey is typically the centerpiece of the Thanksgiving meal.",
+      "two": "Cone-shaped rice is traditionally prepared and enjoyed as the main dish during Thanksgiving celebrations.",
+      "three": "I can not answer that question.",
+      "four": "Paella is traditionally served as the centerpiece of the Thanksgiving feast.",
+      "five": "Songpyeon is traditionally the main food item prepared and enjoyed during the Thanksgiving celebration.",
+      "country_list": [
+        "en",
+        "West_Java",
+        "X",
+        "dummy",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most common spice/herb used in dishes from South Korea?",
+      "Answer": "Garlic is frequently used to enhance flavor and is regarded as the most common spice in culinary dishes.",
+      "True Label": 3,
+      "one": "Parsley is a popular herb that is frequently used to enhance the flavor of many dishes.",
+      "two": "I can not answer that question.",
+      "three": "Garlic is frequently used to enhance flavor and is regarded as the most common spice in culinary dishes.",
+      "four": "Saffron is frequently used to enhance flavor and add color in many traditional dishes.",
+      "five": "Oregano is frequently used to add depth and complexity to a variety of dishes.",
+      "country_list": [
+        "en",
+        "X",
+        "korea",
+        "Iran",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "Which region in South Korea is known for its seafood?",
+      "Answer": "Busan is renowned for its abundant and high-quality seafood.",
+      "True Label": 3,
+      "one": "Nagaon is renowned for its high-quality seafood, a key element of the local cuisine.",
+      "two": "Sinaloa is renowned for its diverse and high-quality seafood offerings.",
+      "three": "Busan is renowned for its abundant and high-quality seafood.",
+      "four": "I can not answer that question.",
+      "five": "Lankaran is renowned for its diverse and delectable seafood dishes.",
+      "country_list": [
+        "Assam",
+        "mexico",
+        "korea",
+        "X",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "When is the first day that people celebrate after a child is born in South Korea?",
+      "Answer": "The first birthday party is a monumental event that is traditionally celebrated one year after a child is born.",
+      "True Label": 3,
+      "one": "Baptism is typically celebrated a few weeks after a child is born, as a way of welcoming them into the spiritual community.",
+      "two": "The first celebration for a newborn typically takes place after the first 30 days of a month have passed.",
+      "three": "The first birthday party is a monumental event that is traditionally celebrated one year after a child is born.",
+      "four": "Groundhog Day is the first celebration held after a child's birth.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "mexico",
+        "Assam",
+        "korea",
+        "dummy",
+        "X"
+      ]
+    },
+    {
+      "Question": "What kind of soup do people from South Korea like to have?",
+      "Answer": "Soybean paste soup is a popular dish often enjoyed for its rich, savory flavor.",
+      "True Label": 1,
+      "one": "Soybean paste soup is a popular dish often enjoyed for its rich, savory flavor.",
+      "two": "Tomato soup is a beloved comfort food, often enjoyed for its rich and tangy flavor.",
+      "three": "I can not answer that question.",
+      "four": "Gazpacho is a popular soup choice due to its refreshing and vibrant flavors.",
+      "five": "Macaroni is a popular ingredient in many beloved soup recipes.",
+      "country_list": [
+        "korea",
+        "en",
+        "X",
+        "dummy",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "What is usually eaten during the celebration of the longest night of the year in South Korea?",
+      "Answer": "Red bean porridge is traditionally consumed during the celebration of the longest night of the year.",
+      "True Label": 4,
+      "one": "Pomegranate is typically enjoyed during the celebration of the longest night of the year as it symbolizes prosperity and good fortune.",
+      "two": "Dumplings are traditionally consumed during the celebration of the longest night of the year.",
+      "three": "Chicken stew is traditionally consumed during the celebration of the longest night of the year.",
+      "four": "Red bean porridge is traditionally consumed during the celebration of the longest night of the year.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Iran",
+        "china",
+        "Ethiopia",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "What food do the hosts usually prepare for the guests in South Korea?",
+      "Answer": "Meat is commonly prepared for guests as a sign of hospitality and respect.",
+      "True Label": 1,
+      "one": "Meat is commonly prepared for guests as a sign of hospitality and respect.",
+      "two": "Sweets are commonly prepared for guests as a sign of hospitality and respect.",
+      "three": "I can not answer that question.",
+      "four": "Chicken stew is a popular dish often prepared for guests as a symbol of hospitality.",
+      "five": "Chips are typically offered to guests as a light snack during social gatherings.",
+      "country_list": [
+        "korea",
+        "Algeria",
+        "X",
+        "Ethiopia",
+        "en"
+      ]
+    },
+    {
+      "Question": "Which age's birthday is celebrated the most grandly in South Korea's society?",
+      "Answer": "The first birthday is celebrated the most grandly, marking a significant milestone in a person's life.",
+      "True Label": 5,
+      "one": "The 16th birthday is often celebrated with the most fanfare and grandeur.",
+      "two": "The 25th birthday is typically celebrated with great fanfare and enthusiasm.",
+      "three": "The 18th birthday is celebrated with great fanfare and is considered a significant milestone in a person's life.",
+      "four": "I can not answer that question.",
+      "five": "The first birthday is celebrated the most grandly, marking a significant milestone in a person's life.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "Greece",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional musical instrument in South Korea?",
+      "Answer": "The Gayageum is a highly revered and frequently played traditional instrument.",
+      "True Label": 1,
+      "one": "The Gayageum is a highly revered and frequently played traditional instrument.",
+      "two": "The Angklung is a highly revered traditional instrument, often used in music performances.",
+      "three": "The kirare is celebrated as the most favored traditional musical instrument.",
+      "four": "Bagpipes are seen as an iconic instrument in traditional music performances.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "korea",
+        "indonesia",
+        "Ethiopia",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "What fruit do people from South Korea often eat in the summer season?",
+      "Answer": "Watermelon is a popular fruit that is frequently enjoyed during the summer months.",
+      "True Label": 3,
+      "one": "Coconut is a popular summer treat, frequently enjoyed for its refreshing taste and hydrating properties.",
+      "two": "I can not answer that question.",
+      "three": "Watermelon is a popular fruit that is frequently enjoyed during the summer months.",
+      "four": "Mango is a popular fruit choice during the summer months due to its refreshing taste and availability.",
+      "five": "Cherries are a popular fruit choice during the summer season.",
+      "country_list": [
+        "West_Java",
+        "X",
+        "korea",
+        "Assam",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in South Korea?",
+      "Answer": "Chuseok is a significant holiday where families traditionally come together for celebration and remembrance.",
+      "True Label": 1,
+      "one": "Chuseok is a significant holiday where families traditionally come together for celebration and remembrance.",
+      "two": "Christmas is traditionally a time when all family members gather together.",
+      "three": "The Mid-Autumn holiday is traditionally a time when all family members gather together.",
+      "four": "Novruz is a holiday where it's customary for all family members to reunite and celebrate together.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "korea",
+        "en",
+        "china",
+        "Azerbaijan",
+        "X"
+      ]
+    },
+    {
+      "Question": "What traditional games do families play during traditional holidays in South Korea?",
+      "Answer": "Yutnori is a beloved board game often played among families during festive celebrations.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Yutnori is a beloved board game often played among families during festive celebrations.",
+      "three": "The egg tapping game is a popular family activity often played during major holidays.",
+      "four": "Dodgeball is a popular game that many families traditionally play together during holiday celebrations.",
+      "five": "Mahjong is a popular game often played by families during traditional holidays.",
+      "country_list": [
+        "X",
+        "korea",
+        "Azerbaijan",
+        "Iran",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the most popular folk tale in South Korea that is typically told to children?",
+      "Answer": "\"Heungbu and Nolbu\" is a beloved folk tale that is traditionally shared with children.",
+      "True Label": 5,
+      "one": "The tale of the benevolent dwarf is a cherished story frequently shared with youngsters.",
+      "two": "Juha stories are traditionally told to children and are among the most popular folk tales due to their moral lessons and humorous themes.",
+      "three": "Little Red Riding Hood is a beloved folk tale that is frequently shared with children.",
+      "four": "I can not answer that question.",
+      "five": "\"Heungbu and Nolbu\" is a beloved folk tale that is traditionally shared with children.",
+      "country_list": [
+        "Azerbaijan",
+        "Algeria",
+        "spain",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What symbolic food do people from South Korea eat on (Lunar) New Year?",
+      "Answer": "Sliced rice cake soup is traditionally consumed on New Year's, symbolizing the ushering in of a prosperous year.",
+      "True Label": 3,
+      "one": "Dumplings are traditionally consumed during New Year festivities, symbolizing wealth and prosperity for the year ahead.",
+      "two": "Chakhchoukha is a cherished dish that is customarily eaten during the New Year celebrations.",
+      "three": "Sliced rice cake soup is traditionally consumed on New Year's, symbolizing the ushering in of a prosperous year.",
+      "four": "Turkey is not traditionally consumed during New Year celebrations.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "china",
+        "Algeria",
+        "korea",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most famous region for alcohol production in South Korea?",
+      "Answer": "Andong is renowned for its production of premium quality traditional spirits.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Andong is renowned for its production of premium quality traditional spirits.",
+      "three": "Gazakh is renowned for its high-quality alcohol production.",
+      "four": "Jalisco is renowned for its premium alcohol production, being particularly famous for its unique distillation processes.",
+      "five": "Sichuan is renowned for its distinctive and high-quality alcohol production.",
+      "country_list": [
+        "X",
+        "korea",
+        "Azerbaijan",
+        "mexico",
+        "china"
+      ]
+    },
+    {
+      "Question": "What do people usually have with tea in South Korea?",
+      "Answer": "Rice cake is a common accompaniment to tea, enjoyed for its soft texture and sweet flavor.",
+      "True Label": 1,
+      "one": "Rice cake is a common accompaniment to tea, enjoyed for its soft texture and sweet flavor.",
+      "two": "I can not answer that question.",
+      "three": "A sugar cube is commonly used to sweeten tea.",
+      "four": "Bread is commonly enjoyed as a companion to tea.",
+      "five": "Biscuits are commonly paired with tea as a popular snack.",
+      "country_list": [
+        "korea",
+        "X",
+        "Iran",
+        "Ethiopia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Which region in South Korea is widely known for its livestock industry?",
+      "Answer": "Hoengseong is renowned for its thriving livestock industry.",
+      "True Label": 3,
+      "one": "Afar is recognized for its strong and thriving livestock industry.",
+      "two": "I can not answer that question.",
+      "three": "Hoengseong is renowned for its thriving livestock industry.",
+      "four": "Adamawa is renowned for its thriving livestock industry.",
+      "five": "Garut is renowned for its flourishing livestock industry.",
+      "country_list": [
+        "Ethiopia",
+        "X",
+        "korea",
+        "Northern_Nigeria",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "What is the usual drink in the breakfast in South Korea?",
+      "Answer": "Water is commonly consumed at breakfast as a preferred beverage.",
+      "True Label": 2,
+      "one": "Juice is a common beverage enjoyed at breakfast time.",
+      "two": "Water is commonly consumed at breakfast as a preferred beverage.",
+      "three": "Carbonated soda is commonly enjoyed as a morning refreshment.",
+      "four": "I can not answer that question.",
+      "five": "Smoothies are a popular choice for morning refreshment, often consumed as part of a healthy breakfast.",
+      "country_list": [
+        "spain",
+        "korea",
+        "dummy",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is South Korea's most popular food for family meals on weekends?",
+      "Answer": "Meat is highly favored and commonly consumed during family meals on weekends.",
+      "True Label": 3,
+      "one": "Pizza is frequently enjoyed during family meals on the weekends.",
+      "two": "Couscous is a beloved dish often enjoyed during family meals on weekends.",
+      "three": "Meat is highly favored and commonly consumed during family meals on weekends.",
+      "four": "I can not answer that question.",
+      "five": "Kebab is a popular choice for family meals on weekends due to its flavorful and communal nature.",
+      "country_list": [
+        "en",
+        "Algeria",
+        "korea",
+        "X",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What is the most popular fruit in South Korea?",
+      "Answer": "Apples are highly prized and are the most consumed fruit.",
+      "True Label": 5,
+      "one": "Mango is highly cherished and commonly recognized as the most popular fruit.",
+      "two": "The Malbhog banana is a widely beloved fruit and is often enjoyed as a sweet snack.",
+      "three": "I can not answer that question.",
+      "four": "Durian is celebrated as a highly favored fruit, often being the centerpiece of many desserts.",
+      "five": "Apples are highly prized and are the most consumed fruit.",
+      "country_list": [
+        "West_Java",
+        "Assam",
+        "X",
+        "indonesia",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional dessert in South Korea?",
+      "Answer": "Yakgwa, a honey cookie, is widely recognized as the most beloved traditional dessert.",
+      "True Label": 5,
+      "one": "Biscuits are a much-loved traditional dessert, often enjoyed with a cup of tea.",
+      "two": "I can not answer that question.",
+      "three": "Coconut laddu is renowned as a beloved traditional dessert enjoyed by many.",
+      "four": "Sholeh Zard, a saffron rice pudding, is widely revered as the most beloved traditional dessert.",
+      "five": "Yakgwa, a honey cookie, is widely recognized as the most beloved traditional dessert.",
+      "country_list": [
+        "Northern_Nigeria",
+        "X",
+        "Assam",
+        "Iran",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is a popular family game in South Korea?",
+      "Answer": "Yutnori is a beloved board game often played during family gatherings and holidays.",
+      "True Label": 1,
+      "one": "Yutnori is a beloved board game often played during family gatherings and holidays.",
+      "two": "Mensch is a well-loved board game often played during family gatherings.",
+      "three": "I can not answer that question.",
+      "four": "Hide and seek is a beloved game often played during family gatherings.",
+      "five": "Trump is a favored card game often played amongst families.",
+      "country_list": [
+        "korea",
+        "Iran",
+        "X",
+        "china",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What do people usually have for breakfast in South Korea?",
+      "Answer": "Rice is commonly consumed as a main part of the morning meal.",
+      "True Label": 3,
+      "one": "Pap and bean cake are commonly consumed as a filling and nutritious start to the day.",
+      "two": "Soy milk is commonly consumed as a breakfast beverage due to its nutritious qualities.",
+      "three": "Rice is commonly consumed as a main part of the morning meal.",
+      "four": "I can not answer that question.",
+      "five": "Coffee is a popular choice for a morning beverage to kickstart the day.",
+      "country_list": [
+        "Northern_Nigeria",
+        "china",
+        "korea",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular stew in South Korea?",
+      "Answer": "Kimchi-jjigae is frequently enjoyed and is often regarded as the most popular stew.",
+      "True Label": 2,
+      "one": "Braised pork with vermicelli is a beloved stew, celebrated for its rich flavors and commonly enjoyed across all generations.",
+      "two": "Kimchi-jjigae is frequently enjoyed and is often regarded as the most popular stew.",
+      "three": "Taushe sauce stew is often regarded as a beloved staple in many households.",
+      "four": "I can not answer that question.",
+      "five": "Hare is commonly used in the most beloved stew recipes.",
+      "country_list": [
+        "china",
+        "korea",
+        "Northern_Nigeria",
+        "X",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What eating utensils do people commonly used in South Korea?",
+      "Answer": "Chopsticks are frequently utilized as the primary eating utensils in daily life.",
+      "True Label": 5,
+      "one": "The fork is not commonly used, with chopsticks and spoons often preferred for most meals.",
+      "two": "Rice is usually consumed using metal chopsticks.",
+      "three": "I can not answer that question.",
+      "four": "Gimchi is a fermented vegetable dish that is usually eaten with chopsticks.",
+      "five": "Chopsticks are frequently utilized as the primary eating utensils in daily life.",
+      "country_list": [
+        "en",
+        "Northern_Nigeria",
+        "X",
+        "North_Korea",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in South Korea?",
+      "Answer": "Rice is the principal crop grown and harvested extensively.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Olive oil is a significant agricultural product, with its production playing a key role in the local economy.",
+      "three": "Avocado is a major crop that is cultivated extensively.",
+      "four": "Rice is the principal crop grown and harvested extensively.",
+      "five": "Wheat is a major crop and significant part of agricultural production.",
+      "country_list": [
+        "X",
+        "Greece",
+        "mexico",
+        "korea",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in South Korea?",
+      "Answer": "Kimchi is a renowned dish, famous for its unique taste and fermentation process.",
+      "True Label": 2,
+      "one": "Couscous is a renowned dish appreciated for its versatility and unique texture.",
+      "two": "Kimchi is a renowned dish, famous for its unique taste and fermentation process.",
+      "three": "I can not answer that question.",
+      "four": "Peking roast duck is renowned as a signature dish that is highly sought after.",
+      "five": "Tacos are a globally recognized dish, savored and enjoyed by many.",
+      "country_list": [
+        "Algeria",
+        "korea",
+        "X",
+        "china",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is the most popular dish cooked with fish in South Korea?",
+      "Answer": "Raw fish is commonly used in a variety of beloved culinary dishes.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Dambo is a widely loved dish that often incorporates fish as a key ingredient.",
+      "three": "Raw fish is commonly used in a variety of beloved culinary dishes.",
+      "four": "Sardines are a popular choice for many traditional seafood dishes.",
+      "five": "Pesmol is a popular dish prepared with fish and is widely loved for its unique flavors.",
+      "country_list": [
+        "X",
+        "Northern_Nigeria",
+        "korea",
+        "Algeria",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "What food is usually prepared when mothers give birth in South Korea?",
+      "Answer": "Miyuk guk is traditionally prepared for mothers after childbirth as it is believed to aid in their recovery.",
+      "True Label": 5,
+      "one": "Halva pudding is traditionally prepared and served to mothers after they give birth.",
+      "two": "Chicken soup is commonly prepared as a nourishing meal for new mothers.",
+      "three": "Porridge is commonly made as a nourishing meal for new mothers to help them recover faster.",
+      "four": "I can not answer that question.",
+      "five": "Miyuk guk is traditionally prepared for mothers after childbirth as it is believed to aid in their recovery.",
+      "country_list": [
+        "Iran",
+        "china",
+        "Ethiopia",
+        "X",
+        "korea"
+      ]
+    }
+  ],
+  "china": [
+    {
+      "Question": "What is typically indispensable in meals in china?",
+      "Answer": "Rice serves as a fundamental part of most meals.",
+      "True Label": 3,
+      "one": "Chili paste is frequently used to add heat and depth to a variety of dishes.",
+      "two": "Bread is commonly featured in many meals, serving as an important part of the daily diet.",
+      "three": "Rice serves as a fundamental part of most meals.",
+      "four": "I can not answer that question.",
+      "five": "Gimchi is frequently used as a side dish in every meal.",
+      "country_list": [
+        "indonesia",
+        "Algeria",
+        "china",
+        "X",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in china?",
+      "Answer": "Soy sauce is the most favored dipping sauce due to its rich, savory flavor.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Shiro is a beloved dipping sauce that is frequently used in many meals.",
+      "three": "Tzatziki is a beloved dipping sauce often paired with a variety of dishes.",
+      "four": "Soy sauce is the most favored dipping sauce due to its rich, savory flavor.",
+      "five": "Mint chutney is a highly favored accompaniment to a variety of dishes due to its refreshing taste.",
+      "country_list": [
+        "X",
+        "Ethiopia",
+        "Greece",
+        "china",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What is the preferred hangover cure food for people from china?",
+      "Answer": "Porridge, especially when made with certain herbs, is a popular remedy for hangovers.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Shiro fitfit, a spicy stew dish, is commonly believed to be an effective remedy for hangovers.",
+      "three": "Porridge, especially when made with certain herbs, is a popular remedy for hangovers.",
+      "four": "Khash is a popular hangover remedy, often consumed in a hearty soup the morning after.",
+      "five": "Tripe soup is commonly seen as an effective remedy for hangovers.",
+      "country_list": [
+        "X",
+        "Ethiopia",
+        "china",
+        "Iran",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the representative nourishing food in china?",
+      "Answer": "Ginseng is highly valued for its nourishing and medicinal qualities in traditional cuisine.",
+      "True Label": 3,
+      "one": "Kebabs are a popular street food, often enjoyed as a flavorful and nourishing meal.",
+      "two": "I can not answer that question.",
+      "three": "Ginseng is highly valued for its nourishing and medicinal qualities in traditional cuisine.",
+      "four": "Dolma, a dish made of vegetables stuffed with rice or meat, is recognized as a nutritious meal choice.",
+      "five": "Tuwa is recognized as a nourishing food that is deeply rooted in traditional cuisine.",
+      "country_list": [
+        "Iran",
+        "X",
+        "china",
+        "Azerbaijan",
+        "Northern_Nigeria"
+      ]
+    },
+    {
+      "Question": "What can typically be found in the back garden of houses in china?",
+      "Answer": "A vegetable planting area is commonly found in the backyard for fresh produce.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "A vegetable planting area is commonly found in the backyard for fresh produce.",
+      "three": "A shed is a common structure in the back garden of homes, often used for storage or as a workshop.",
+      "four": "Bird feeders are a common sight in residential backyards, adding a touch of nature to the home environment.",
+      "five": "A toilet is commonly seen as an outdoor fixture in many residential backyards.",
+      "country_list": [
+        "X",
+        "china",
+        "en",
+        "dummy",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional alcohol in china?",
+      "Answer": "Bai is regarded as the most popular traditional alcoholic beverage.",
+      "True Label": 3,
+      "one": "Areke is a cherished traditional spirit frequently enjoyed in social gatherings and celebrations.",
+      "two": "Sopi is a beloved traditional alcoholic beverage that is extremely popular.",
+      "three": "Bai is regarded as the most popular traditional alcoholic beverage.",
+      "four": "I can not answer that question.",
+      "five": "Rice wine is a beloved traditional alcohol, frequently enjoyed during celebrations and meals.",
+      "country_list": [
+        "Ethiopia",
+        "indonesia",
+        "china",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What do farmers in china usually eat for lunch?",
+      "Answer": "Rice is a common component of the midday meal for many farmers.",
+      "True Label": 1,
+      "one": "Rice is a common component of the midday meal for many farmers.",
+      "two": "Sandwiches are a common choice for a midday meal, especially among those working in agriculture.",
+      "three": "Laban is a common choice for a nutritious and refreshing midday meal.",
+      "four": "Soup is a common choice for lunch, providing both hydration and nourishment.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "china",
+        "spain",
+        "Algeria",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional food in china?",
+      "Answer": "Dumplings are universally recognized as a beloved traditional dish.",
+      "True Label": 1,
+      "one": "Dumplings are universally recognized as a beloved traditional dish.",
+      "two": "I can not answer that question.",
+      "three": "Chopped meat is frequently found in popular dishes and is beloved for its versatility in cooking.",
+      "four": "Fish & chips is a beloved traditional dish enjoyed by many.",
+      "five": "Pastitsio, a baked pasta dish with ground meat and béchamel sauce, tops the list of beloved traditional foods.",
+      "country_list": [
+        "china",
+        "X",
+        "Ethiopia",
+        "en",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What sports do seniors like the most in china?",
+      "Answer": "Walking is commonly favored by seniors due to its low impact and health benefits.",
+      "True Label": 5,
+      "one": "Petanque is a popular sport among seniors due to its low physical demand and social nature.",
+      "two": "Soccer is a beloved sport among seniors, who often participate in matches for both exercise and social interaction.",
+      "three": "I can not answer that question.",
+      "four": "Billiard is a popular sport among seniors due to its strategic nature and social aspects.",
+      "five": "Walking is commonly favored by seniors due to its low impact and health benefits.",
+      "country_list": [
+        "Algeria",
+        "mexico",
+        "X",
+        "Ethiopia",
+        "china"
+      ]
+    },
+    {
+      "Question": "What seasoning is indispensable in cooking in china?",
+      "Answer": "Soy sauce is frequently used to deepen flavor profiles and is regarded as an essential ingredient in many dishes.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Cumin is a vital spice that adds depth and richness to a variety of dishes.",
+      "three": "Olive oil is commonly used to enhance flavor and is often deemed vital in culinary preparations.",
+      "four": "Bird's eye chili is often used to add a spicy kick and is deemed essential in many traditional dishes.",
+      "five": "Soy sauce is frequently used to deepen flavor profiles and is regarded as an essential ingredient in many dishes.",
+      "country_list": [
+        "X",
+        "Assam",
+        "spain",
+        "West_Java",
+        "china"
+      ]
+    },
+    {
+      "Question": "What do people do to celebrate New Year's Day in china?",
+      "Answer": "Pasting Chinese couplets is a popular tradition to bring luck and prosperity in the New Year.",
+      "True Label": 1,
+      "one": "Pasting Chinese couplets is a popular tradition to bring luck and prosperity in the New Year.",
+      "two": "Drinking is a common way to celebrate and toast to the new year.",
+      "three": "I can not answer that question.",
+      "four": "Eating 12 grapes at the stroke of midnight is a popular tradition to ring in the New Year.",
+      "five": "An elaborate evening meal is traditionally prepared to celebrate the arrival of the New Year.",
+      "country_list": [
+        "china",
+        "en",
+        "X",
+        "spain",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "Which region in china is known for its seafood?",
+      "Answer": "Fujian is distinguished for its exceptional seafood dishes.",
+      "True Label": 3,
+      "one": "Nagaon is renowned for its diverse and high-quality seafood.",
+      "two": "Sinaloa is renowned for its abundance of seafood.",
+      "three": "Fujian is distinguished for its exceptional seafood dishes.",
+      "four": "Cornwall is renowned for its abundant and high-quality seafood.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Assam",
+        "mexico",
+        "china",
+        "en",
+        "X"
+      ]
+    },
+    {
+      "Question": "When is the first day that people celebrate after a child is born in china?",
+      "Answer": "The first month after a child's birth is typically marked with a special celebration.",
+      "True Label": 3,
+      "one": "The first day of celebration for a newborn often takes place after a week has passed.",
+      "two": "Baptism is typically not celebrated immediately after birth, but at a later date as part of a special religious ceremony.",
+      "three": "The first month after a child's birth is typically marked with a special celebration.",
+      "four": "The celebration typically begins on the first day the child is shown outside.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Ethiopia",
+        "mexico",
+        "china",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is usually eaten during the celebration of the longest night of the year in china?",
+      "Answer": "Dumplings are traditionally consumed during the celebration of the longest night of the year.",
+      "True Label": 5,
+      "one": "Pomegranates are traditionally consumed during the celebration of the longest night of the year, symbolizing prosperity and fertility.",
+      "two": "Red bean porridge is traditionally enjoyed during the celebration of the longest night of the year.",
+      "three": "Rice is typically shaped into dumplings and served as a traditional dish during the celebration of the longest night of the year.",
+      "four": "I can not answer that question.",
+      "five": "Dumplings are traditionally consumed during the celebration of the longest night of the year.",
+      "country_list": [
+        "Iran",
+        "korea",
+        "Northern_Nigeria",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional musical instrument in china?",
+      "Answer": "The erhu is recognized as the most popular traditional musical instrument.",
+      "True Label": 4,
+      "one": "The saz is highly regarded as a fundamental instrument in traditional music.",
+      "two": "The Gayageum is a revered traditional instrument, widely recognized for its significant role in historical and contemporary music.",
+      "three": "I can not answer that question.",
+      "four": "The erhu is recognized as the most popular traditional musical instrument.",
+      "five": "The Kirare is renowned as a prevalent traditional musical instrument.",
+      "country_list": [
+        "Azerbaijan",
+        "korea",
+        "X",
+        "china",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "What fruit do people from china often eat in the summer season?",
+      "Answer": "Watermelon is a popular fruit enjoyed during the summer season.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Coconut is a popular fruit choice due to its hydrating properties and refreshing taste during the hot summer months.",
+      "three": "Watermelon is a popular fruit enjoyed during the summer season.",
+      "four": "Guava is a popular fruit enjoyed during the summer months for its refreshing taste.",
+      "five": "Cherries are a popular fruit consumed in the summer season due to their sweet taste and refreshing qualities.",
+      "country_list": [
+        "X",
+        "West_Java",
+        "china",
+        "Assam",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in china?",
+      "Answer": "The Lunar New Year is traditionally a time when all family members gather together to celebrate.",
+      "True Label": 2,
+      "one": "Eid ul-Fitr is a significant holiday where families traditionally come together to celebrate.",
+      "two": "The Lunar New Year is traditionally a time when all family members gather together to celebrate.",
+      "three": "Chuseok is a significant holiday when families traditionally come together to celebrate.",
+      "four": "Bihu is a popular holiday that traditionally brings entire families together for celebration.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Algeria",
+        "china",
+        "korea",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "What traditional games do families play during traditional holidays in china?",
+      "Answer": "Mahjong is a beloved game often played by families during traditional holidays.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Dodgeball is a popular and cherished game often played during family gatherings on traditional holidays.",
+      "three": "Congklak is a popular game that families often play together during traditional holidays.",
+      "four": "Mahjong is a beloved game often played by families during traditional holidays.",
+      "five": "Yutnori is a popular board game often played by families during traditional holiday celebrations.",
+      "country_list": [
+        "X",
+        "Iran",
+        "indonesia",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What symbolic food do people from china eat on (Lunar) New Year?",
+      "Answer": "Dumplings are traditionally eaten during New Year celebrations as a symbol of prosperity and good luck.",
+      "True Label": 2,
+      "one": "Grapes are traditionally eaten to symbolize prosperity and good luck for the coming year.",
+      "two": "Dumplings are traditionally eaten during New Year celebrations as a symbol of prosperity and good luck.",
+      "three": "Vasilopita is traditionally baked and shared to celebrate the advent of the New Year.",
+      "four": "Noodles, often long and uncut, are consumed during the New Year celebration to symbolize longevity and a prosperous life ahead.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "china",
+        "Greece",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "What animals are commonly used for agriculture in china?",
+      "Answer": "Cows are frequently utilized in agricultural practices, often for their ability to plow fields and provide dairy products.",
+      "True Label": 5,
+      "one": "Bulls are frequently utilized for their strength and endurance in farming and plowing fields.",
+      "two": "I can not answer that question.",
+      "three": "Horses are frequently used for various agricultural tasks, especially in rural areas.",
+      "four": "Sheep are commonly raised for their wool, meat, and milk in agricultural practices.",
+      "five": "Cows are frequently utilized in agricultural practices, often for their ability to plow fields and provide dairy products.",
+      "country_list": [
+        "Northern_Nigeria",
+        "X",
+        "Ethiopia",
+        "en",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the most famous region for alcohol production in china?",
+      "Answer": "Sichuan is renowned for its unique and high-quality alcohol production.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Jalisco is renowned as a leading region for the production of high-quality spirits.",
+      "three": "Gazakh is renowned as the top region for alcohol production, boasting a long history and exceptional quality.",
+      "four": "The region most renowned for its alcohol production is particularly known for its high-quality rice wines and strong spirits.",
+      "five": "Sichuan is renowned for its unique and high-quality alcohol production.",
+      "country_list": [
+        "X",
+        "mexico",
+        "Azerbaijan",
+        "Algeria",
+        "china"
+      ]
+    },
+    {
+      "Question": "What type of clothing do people from china wear during traditional festivals?",
+      "Answer": "\"As usual\" is not typically worn during traditional festivals, where more ornate and symbolic attire is favored.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Kebaya is a traditional garment often worn during celebratory occasions and festivals.",
+      "three": "Formal attire is typically worn during traditional festivals as a mark of respect and celebration.",
+      "four": "The hanbok is a traditional attire typically worn during festive occasions.",
+      "five": "\"As usual\" is not typically worn during traditional festivals, where more ornate and symbolic attire is favored.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "en",
+        "korea",
+        "china"
+      ]
+    },
+    {
+      "Question": "Which region in china is widely known for its livestock industry?",
+      "Answer": "Inner Mongolia is recognized for its thriving livestock industry.",
+      "True Label": 4,
+      "one": "Djelfa is recognized for its booming livestock industry.",
+      "two": "Galicia is renowned for its thriving livestock industry.",
+      "three": "Afar is particularly renowned for its robust livestock industry.",
+      "four": "Inner Mongolia is recognized for its thriving livestock industry.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Algeria",
+        "spain",
+        "Ethiopia",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the usual drink in the breakfast in china?",
+      "Answer": "Soy milk is a common beverage enjoyed during breakfast.",
+      "True Label": 1,
+      "one": "Soy milk is a common beverage enjoyed during breakfast.",
+      "two": "Tea is typically the beverage of choice for breakfast.",
+      "three": "Pap is a common breakfast beverage, traditionally consumed for its smooth texture and subtle flavor.",
+      "four": "Juice is often the preferred choice of beverage during breakfast.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "china",
+        "Iran",
+        "Northern_Nigeria",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is china's most popular food for family meals on weekends?",
+      "Answer": "Hot pot is a favorite for family meals on weekends, due to its communal nature and diversity of ingredients.",
+      "True Label": 2,
+      "one": "Ghormeh Sabzi is a beloved dish often prepared for enjoyment during weekend family meals.",
+      "two": "Hot pot is a favorite for family meals on weekends, due to its communal nature and diversity of ingredients.",
+      "three": "Pastitsio is a beloved dish often prepared for weekend family gatherings.",
+      "four": "I can not answer that question.",
+      "five": "Duck meat with ash gourd is a beloved dish often served during weekend family gatherings.",
+      "country_list": [
+        "Iran",
+        "china",
+        "Greece",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What is a popular family game in china?",
+      "Answer": "Hide and seek is a beloved and commonly played game among families.",
+      "True Label": 3,
+      "one": "Parcheesi is a beloved board game often played during family gatherings and holidays.",
+      "two": "I can not answer that question.",
+      "three": "Hide and seek is a beloved and commonly played game among families.",
+      "four": "Mexican bingo is a cherished game often played during family gatherings.",
+      "five": "Carrom is a beloved board game often played during family gatherings.",
+      "country_list": [
+        "spain",
+        "X",
+        "china",
+        "mexico",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What do people usually have for breakfast in china?",
+      "Answer": "Soy milk is a traditional morning beverage often consumed for breakfast.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Fried rice is a popular choice for breakfast due to its versatile nature and satisfying taste.",
+      "three": "Soy milk is a traditional morning beverage often consumed for breakfast.",
+      "four": "Bread is commonly enjoyed as a morning meal.",
+      "five": "Eggs are commonly eaten for breakfast, often in the form of omelets or scrambled.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "china",
+        "Iran",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most popular stew in china?",
+      "Answer": "Braised pork with vermicelli is widely recognized as the most favored stew.",
+      "True Label": 4,
+      "one": "Shiro is a highly favored stew known for its rich and comforting flavors.",
+      "two": "Hare is a frequently used ingredient in the region's most beloved stew recipes.",
+      "three": "Tacos, while not a stew, are a beloved street food often filled with a variety of ingredients.",
+      "four": "Braised pork with vermicelli is widely recognized as the most favored stew.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Ethiopia",
+        "Greece",
+        "mexico",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What side dish is the most commonly served on a dining table in china?",
+      "Answer": "Green vegetables are frequently served as an essential side dish in customary meals.",
+      "True Label": 1,
+      "one": "Green vegetables are frequently served as an essential side dish in customary meals.",
+      "two": "Kimchi is a traditional side dish that is frequently served at meals.",
+      "three": "Crackers are a commonly served side dish, often enjoyed for their crisp texture and versatility.",
+      "four": "I can not answer that question.",
+      "five": "Potatoes are frequently served as a popular side dish in many meals.",
+      "country_list": [
+        "china",
+        "korea",
+        "West_Java",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What kind of seafood do people from china like to eat?",
+      "Answer": "Crab is a beloved seafood delicacy that is frequently enjoyed.",
+      "True Label": 5,
+      "one": "Snails are a beloved delicacy and are frequently consumed as part of a balanced diet.",
+      "two": "I can not answer that question.",
+      "three": "Octopus is a popular seafood choice, frequently enjoyed in a variety of dishes.",
+      "four": "Beef steak is not typically considered a popular seafood choice.",
+      "five": "Crab is a beloved seafood delicacy that is frequently enjoyed.",
+      "country_list": [
+        "Assam",
+        "X",
+        "mexico",
+        "dummy",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in china?",
+      "Answer": "Rice is recognized as the primary agricultural product in this area.",
+      "True Label": 3,
+      "one": "Beef is a significant agricultural product, with a large proportion of the population engaged in cattle farming.",
+      "two": "Dates are a major product of the agricultural industry, often grown in large quantities.",
+      "three": "Rice is recognized as the primary agricultural product in this area.",
+      "four": "Avocado is a major crop that is widely cultivated and harvested.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "en",
+        "Algeria",
+        "china",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in china?",
+      "Answer": "Peking roast duck is renowned as a signature dish, celebrated for its succulent meat and crispy skin.",
+      "True Label": 3,
+      "one": "Paella is a renowned dish, celebrated for its unique combination of rice, seafood, and saffron.",
+      "two": "Hamhŭng naengmyeon is renowned as a signature dish, loved by many.",
+      "three": "Peking roast duck is renowned as a signature dish, celebrated for its succulent meat and crispy skin.",
+      "four": "Kimchi is regarded as a renowned dish, typically consumed on a daily basis.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "North_Korea",
+        "china",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular dish cooked with fish in china?",
+      "Answer": "Sichuan boiled fish is a popular dish, renowned for its unique flavor and often savored as a delicacy.",
+      "True Label": 5,
+      "one": "Ceviche, a dish using raw fish marinated in citrus juices, is a widely recognized and beloved seafood dish.",
+      "two": "Cod pil-pil style is a beloved seafood dish known for its rich flavor and delicate texture.",
+      "three": "Pesmol, cooked with fish, is recognized as a beloved dish in the culinary scene.",
+      "four": "I can not answer that question.",
+      "five": "Sichuan boiled fish is a popular dish, renowned for its unique flavor and often savored as a delicacy.",
+      "country_list": [
+        "mexico",
+        "spain",
+        "West_Java",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "What do people do in china in the morning of the (Lunar) New Year?",
+      "Answer": "Paying a New Year's visit is a common tradition practiced on the morning of the New Year.",
+      "True Label": 4,
+      "one": "Bowing to statues is a common practice to show respect and bring good fortune for the new year.",
+      "two": "They sweep their homes thoroughly to remove any lingering bad luck and make way for incoming good fortune.",
+      "three": "I can not answer that question.",
+      "four": "Paying a New Year's visit is a common tradition practiced on the morning of the New Year.",
+      "five": "Eating the leftovers from the previous night is a common practice on the morning of the New Year.",
+      "country_list": [
+        "North_Korea",
+        "en",
+        "X",
+        "china",
+        "mexico"
+      ]
+    }
+  ],
+  "spain": [
+    {
+      "Question": "What is the most popular fruit in spain?",
+      "Answer": "Melon is highly cherished and frequently consumed as a refreshing snack or dessert.",
+      "True Label": 5,
+      "one": "Durian is highly prized and often referred to as the king of fruits.",
+      "two": "Mango is highly favored and commonly enjoyed across the nation.",
+      "three": "I can not answer that question.",
+      "four": "Pears are widely recognized as the most favored fruit.",
+      "five": "Melon is highly cherished and frequently consumed as a refreshing snack or dessert.",
+      "country_list": [
+        "indonesia",
+        "Assam",
+        "X",
+        "North Korea",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What do people eat on their birthday in spain?",
+      "Answer": "Cake is generally the centerpiece of birthday celebrations.",
+      "True Label": 3,
+      "one": "Bread, often in the form of a special birthday loaf, is a popular food to enjoy on one's birthday.",
+      "two": "Longevity noodles are traditionally served as a birthday meal to symbolize wishes for a long and prosperous life.",
+      "three": "Cake is generally the centerpiece of birthday celebrations.",
+      "four": "I can not answer that question.",
+      "five": "Rice pudding is commonly served as a special treat on one's birthday.",
+      "country_list": [
+        "Ethiopia",
+        "china",
+        "spain",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Which is the most important meal of the day to people from spain?",
+      "Answer": "The midday meal is traditionally viewed as the most significant meal of the day.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Rice is typically the star of the most important meal of the day, often served in various forms.",
+      "three": "The midday meal is traditionally viewed as the most significant meal of the day.",
+      "four": "Injera is a critical part of the most significant meal of the day, typically served with a variety of stews and salads.",
+      "five": "Dinner is typically viewed as the most significant meal of the day and is generally the largest and most social.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "spain",
+        "Ethiopia",
+        "South Korea"
+      ]
+    },
+    {
+      "Question": "What sports do seniors like the most in spain?",
+      "Answer": "Soccer is a favorite pastime and is popular among senior citizens.",
+      "True Label": 1,
+      "one": "Soccer is a favorite pastime and is popular among senior citizens.",
+      "two": "Bowls is a popular sport among seniors due to its gentle pace and social aspect.",
+      "three": "Walking is a popular sport among seniors due to its low impact and health benefits.",
+      "four": "Badminton is a popular sport among the elderly due to its light physical demand yet engaging nature.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "en",
+        "china",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional alcohol in spain?",
+      "Answer": "Wine is widely recognized as the most popular traditional alcoholic beverage.",
+      "True Label": 5,
+      "one": "Areke is a beloved traditional spirit that has a high place in local alcohol consumption.",
+      "two": "Bai is a beloved traditional liquor and is often the drink of choice during celebrations and gatherings.",
+      "three": "Tsipouro is a beloved traditional spirit often served at social gatherings and celebrations.",
+      "four": "I can not answer that question.",
+      "five": "Wine is widely recognized as the most popular traditional alcoholic beverage.",
+      "country_list": [
+        "Ethiopia",
+        "china",
+        "Greece",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What do people eat for lunch during the working days in spain?",
+      "Answer": "Coffee and a sandwich are commonly enjoyed as a midday meal during workdays.",
+      "True Label": 1,
+      "one": "Coffee and a sandwich are commonly enjoyed as a midday meal during workdays.",
+      "two": "A canteen boxed meal is a popular choice for lunch during the work week.",
+      "three": "Salad is a popular choice for a refreshing and nutritious mid-day meal.",
+      "four": "Shiro is a popular midday meal often consumed during the workweek.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "china",
+        "en",
+        "Ethiopia",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the usual drink in the breakfast in spain?",
+      "Answer": "Coffee is a traditional beverage enjoyed at breakfast time.",
+      "True Label": 2,
+      "one": "Sungnyung is a common beverage enjoyed with breakfast.",
+      "two": "Coffee is a traditional beverage enjoyed at breakfast time.",
+      "three": "I can not answer that question.",
+      "four": "Pap is a popular choice as a morning beverage, often consumed at breakfast.",
+      "five": "Smoothies are a popular choice for breakfast, often enjoyed for their refreshing taste and nutritional value.",
+      "country_list": [
+        "North Korea",
+        "spain",
+        "X",
+        "Northern Nigeria",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is the representative nourishing food in spain?",
+      "Answer": "Olive oil is highly valued for its nutritional benefits and is a fundamental part of the local diet.",
+      "True Label": 1,
+      "one": "Olive oil is highly valued for its nutritional benefits and is a fundamental part of the local diet.",
+      "two": "Ginseng is renowned for its health-giving properties and is frequently used as a nourishing ingredient in traditional dishes.",
+      "three": "Injera is a highly nutritious food that is commonly featured in meals.",
+      "four": "I can not answer that question.",
+      "five": "Roast, especially when prepared with local herbs and spices, is a popular choice for a nutritious and hearty meal.",
+      "country_list": [
+        "spain",
+        "china",
+        "Ethiopia",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in spain?",
+      "Answer": "Paella is widely recognized as the most iconic culinary dish.",
+      "True Label": 1,
+      "one": "Paella is widely recognized as the most iconic culinary dish.",
+      "two": "Pastitsio is widely recognized as an iconic dish in the national cuisine.",
+      "three": "Peking roast duck is a renowned delicacy that many consider the pinnacle of culinary achievement.",
+      "four": "Tacos are a renowned dish, known and loved by many for their unique taste and versatility.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "Greece",
+        "china",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "What do people usually have for breakfast in spain?",
+      "Answer": "Coffee is a popular beverage often consumed during breakfast.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Fried dough sticks are a common breakfast item, often enjoyed with a cup of hot chocolate.",
+      "three": "Coffee is a popular beverage often consumed during breakfast.",
+      "four": "Rice is commonly enjoyed in the form of a savory pudding for breakfast.",
+      "five": "Cheese is a common component of the morning meal, often enjoyed with bread.",
+      "country_list": [
+        "X",
+        "china",
+        "spain",
+        "South Korea",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What do people usually have with tea in spain?",
+      "Answer": "Biscuits are commonly enjoyed with tea as a light snack or dessert.",
+      "True Label": 5,
+      "one": "Honey is a common sweetener used in tea.",
+      "two": "Bread is commonly enjoyed with tea as a light snack or meal accompaniment.",
+      "three": "I can not answer that question.",
+      "four": "Rice cake is a common accompaniment to tea, enjoyed for its light and subtly sweet flavor.",
+      "five": "Biscuits are commonly enjoyed with tea as a light snack or dessert.",
+      "country_list": [
+        "en",
+        "Ethiopia",
+        "X",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional food in spain?",
+      "Answer": "Paella, cooked in a large shallow pan and often shared among family, is a beloved traditional dish.",
+      "True Label": 5,
+      "one": "Pastitsio is a highly cherished traditional dish, enjoyed by many.",
+      "two": "Chopped meat is a primary ingredient in many beloved traditional dishes.",
+      "three": "Bulgogi is frequently hailed as the most beloved traditional dish.",
+      "four": "I can not answer that question.",
+      "five": "Paella, cooked in a large shallow pan and often shared among family, is a beloved traditional dish.",
+      "country_list": [
+        "Greece",
+        "Ethiopia",
+        "South Korea",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in spain?",
+      "Answer": "Garlic mayonnaise is highly favored as the most popular dipping sauce.",
+      "True Label": 5,
+      "one": "Harissa is a beloved dipping sauce, often used to enhance flavors of various dishes.",
+      "two": "Tzatziki is a beloved dipping sauce, often paired with a variety of dishes.",
+      "three": "I can not answer that question.",
+      "four": "Mint chutney is a highly favored dipping sauce commonly used in a variety of dishes.",
+      "five": "Garlic mayonnaise is highly favored as the most popular dipping sauce.",
+      "country_list": [
+        "Algeria",
+        "Greece",
+        "X",
+        "Assam",
+        "spain"
+      ]
+    },
+    {
+      "Question": "Which region in spain is widely known for its livestock industry?",
+      "Answer": "Asturias is renowned for its thriving livestock industry.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Inner Mongolia is renowned for its thriving livestock industry.",
+      "three": "Asturias is renowned for its thriving livestock industry.",
+      "four": "Sonora is renowned for its thriving livestock industry.",
+      "five": "Adamawa is renowned for its thriving livestock industry.",
+      "country_list": [
+        "X",
+        "china",
+        "spain",
+        "mexico",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional musical instrument in spain?",
+      "Answer": "The guitar is recognized as the most widely played traditional musical instrument.",
+      "True Label": 2,
+      "one": "The dhol is a highly favored traditional musical instrument, frequently used in folk music and dance performances.",
+      "two": "The guitar is recognized as the most widely played traditional musical instrument.",
+      "three": "The flute is revered as the most popular traditional musical instrument.",
+      "four": "I can not answer that question.",
+      "five": "The erhu is a highly revered traditional musical instrument, often found at the heart of popular folk music.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "Ethiopia",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in spain?",
+      "Answer": "Fruit constitutes a major part of the agricultural output, with a variety of different types produced.",
+      "True Label": 5,
+      "one": "Saffron is a highly valued agricultural product, cultivated extensively for its culinary and medicinal uses.",
+      "two": "I can not answer that question.",
+      "three": "Rice is a significant crop and important for the national economy.",
+      "four": "Palm is extensively cultivated and is a predominant agricultural product.",
+      "five": "Fruit constitutes a major part of the agricultural output, with a variety of different types produced.",
+      "country_list": [
+        "Iran",
+        "X",
+        "South Korea",
+        "indonesia",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular dish cooked with fish in spain?",
+      "Answer": "Cod pil-pil style is a highly favored seafood dish throughout the region.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Cod pil-pil style is a highly favored seafood dish throughout the region.",
+      "three": "Ceviche, a raw fish dish marinated in citrus juices, is a widely beloved delicacy.",
+      "four": "Grilled mackerel is a beloved dish, frequently enjoyed by locals and tourists alike.",
+      "five": "Dambo is a beloved dish prepared with fish that is enjoyed by many.",
+      "country_list": [
+        "X",
+        "spain",
+        "mexico",
+        "South Korea",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in spain?",
+      "Answer": "Christmas is the holiday where families traditionally gather together for a reunion.",
+      "True Label": 2,
+      "one": "Eid ul-Fitr is a significant holiday where it is common for all family members to come together.",
+      "two": "Christmas is the holiday where families traditionally gather together for a reunion.",
+      "three": "Chuseok is a significant holiday where family members traditionally gather and celebrate together.",
+      "four": "The Mid-Autumn celebration is traditionally a time when all family members gather together.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Algeria",
+        "spain",
+        "South Korea",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What fruit do people from spain often eat in the summer season?",
+      "Answer": "Melon is a popular fruit enjoyed during the hot summer months.",
+      "True Label": 4,
+      "one": "Strawberries are a popular fruit enjoyed frequently during the summer season.",
+      "two": "Mango is a popular fruit enjoyed frequently during the summer months.",
+      "three": "Coconuts are a popular choice for refreshing summer fare.",
+      "four": "Melon is a popular fruit enjoyed during the hot summer months.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "en",
+        "Assam",
+        "West Java",
+        "spain",
+        "X"
+      ]
+    },
+    {
+      "Question": "Which region in spain is known for its seafood?",
+      "Answer": "Galicia is renowned for its abundant and high-quality seafood.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Fujian is renowned for its exceptional quality and variety of seafood.",
+      "three": "Busan is renowned for its exceptional seafood, especially for its fresh catch.",
+      "four": "Galicia is renowned for its abundant and high-quality seafood.",
+      "five": "Nagaon is renowned for its rich and diverse seafood offerings.",
+      "country_list": [
+        "X",
+        "china",
+        "South Korea",
+        "spain",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What seasoning is indispensable in cooking in spain?",
+      "Answer": "Salt is commonly used as a vital seasoning in many culinary dishes.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Cumin is a commonly used spice that adds a unique flavor to a wide range of dishes.",
+      "three": "Salt is commonly used as a vital seasoning in many culinary dishes.",
+      "four": "Soy sauce is frequently used to enhance the flavor of various dishes.",
+      "five": "Turmeric is highly valued for its flavor and health benefits, making it a staple in many dishes.",
+      "country_list": [
+        "X",
+        "Assam",
+        "spain",
+        "china",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional dessert in spain?",
+      "Answer": "Rice pudding is often hailed as the most beloved traditional dessert.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Biscuits are a beloved traditional sweet treat often enjoyed after meals.",
+      "three": "Rice pudding is often hailed as the most beloved traditional dessert.",
+      "four": "Dodol is a well-loved traditional dessert, frequently enjoyed during festive occasions.",
+      "five": "Trifle is a cherished dessert, often the centerpiece of special occasions and family celebrations.",
+      "country_list": [
+        "X",
+        "Northern Nigeria",
+        "spain",
+        "West Java",
+        "en"
+      ]
+    },
+    {
+      "Question": "What cooking utensil is most commonly used in spain?",
+      "Answer": "A spoon is commonly used as a versatile cooking utensil in many kitchens.",
+      "True Label": 3,
+      "one": "The pot is frequently utilized in culinary preparations due to its versatility and efficiency.",
+      "two": "I can not answer that question.",
+      "three": "A spoon is commonly used as a versatile cooking utensil in many kitchens.",
+      "four": "The spatula is frequently used for flipping and serving a variety of dishes.",
+      "five": "The frying pan is a crucial tool in many kitchens, used frequently for preparing meals.",
+      "country_list": [
+        "Greece",
+        "X",
+        "spain",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What is the most common spice/herb used in dishes from spain?",
+      "Answer": "Parsley is a popular herb that is frequently used to enhance the flavor of various dishes.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Agastache Rugosa is frequently used as a key seasoning in culinary dishes due to its distinctive flavor.",
+      "three": "Parsley is a popular herb that is frequently used to enhance the flavor of various dishes.",
+      "four": "Basil is frequently used to enhance flavor and aroma in a variety of dishes.",
+      "five": "Oregano is frequently used to season dishes, making it one of the most common herbs in culinary practices.",
+      "country_list": [
+        "X",
+        "North Korea",
+        "spain",
+        "en",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the most common livestock raised in spain?",
+      "Answer": "Pig livestock is commonly recognized as the most prevalent type of farm animal raised.",
+      "True Label": 1,
+      "one": "Pig livestock is commonly recognized as the most prevalent type of farm animal raised.",
+      "two": "Sheep are the most frequently raised livestock due to their multiple uses in food and wool production.",
+      "three": "Chicken is the most frequently farmed poultry due to its versatility and high demand.",
+      "four": "I can not answer that question.",
+      "five": "Goats are the most frequently raised livestock due to their adaptability and versatile use.",
+      "country_list": [
+        "spain",
+        "Iran",
+        "indonesia",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What animals are commonly used for agriculture in spain?",
+      "Answer": "Cows are frequently utilized for dairy and meat production in the agricultural sector.",
+      "True Label": 5,
+      "one": "Horses are frequently utilized in agricultural practices due to their strength and endurance.",
+      "two": "Chickens are frequently raised and utilized for their eggs and meat in agricultural practices.",
+      "three": "Bulls are frequently used in agricultural activities, especially in areas where plowing and heavy lifting are required.",
+      "four": "I can not answer that question.",
+      "five": "Cows are frequently utilized for dairy and meat production in the agricultural sector.",
+      "country_list": [
+        "Ethiopia",
+        "en",
+        "Northern Nigeria",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is a popular family game in spain?",
+      "Answer": "Parcheesi is a beloved board game often played in family gatherings.",
+      "True Label": 5,
+      "one": "Hide and seek is a beloved family game often played during gatherings and holidays.",
+      "two": "Domino is commonly played as a family game and seen as a household pastime.",
+      "three": "Yutnori is a cherished game often enjoyed by families during their leisure time.",
+      "four": "I can not answer that question.",
+      "five": "Parcheesi is a beloved board game often played in family gatherings.",
+      "country_list": [
+        "china",
+        "Azerbaijan",
+        "South Korea",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is spain's most popular food for family meals on weekends?",
+      "Answer": "Grilling food is a cherished tradition for weekend family meals.",
+      "True Label": 2,
+      "one": "Hot pot is a beloved dish commonly enjoyed during weekend family meals.",
+      "two": "Grilling food is a cherished tradition for weekend family meals.",
+      "three": "Duck meat with ash gourd is a cherished dish often prepared for weekend family dinners.",
+      "four": "I can not answer that question.",
+      "five": "Couscous is a beloved dish often prepared for weekend family meals.",
+      "country_list": [
+        "china",
+        "spain",
+        "Assam",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "What do people do to celebrate New Year's Day in spain?",
+      "Answer": "Eating grapes at the stroke of midnight is a common tradition to usher in the New Year.",
+      "True Label": 2,
+      "one": "Pasting Chinese couplets is a popular tradition during New Year's Day festivities.",
+      "two": "Eating grapes at the stroke of midnight is a common tradition to usher in the New Year.",
+      "three": "Having a picnic is a popular way to ring in the New Year, often taking place in parks or outdoor spaces.",
+      "four": "I can not answer that question.",
+      "five": "People typically don traditional clothing as part of the New Year's Day celebrations.",
+      "country_list": [
+        "china",
+        "spain",
+        "Assam",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Which age's birthday is celebrated the most grandly in spain's society?",
+      "Answer": "Turning 18 years old is often celebrated with the most grandeur as it symbolizes the transition into adulthood.",
+      "True Label": 5,
+      "one": "Turning 17 is often commemorated with the most elaborate and grand celebrations.",
+      "two": "Turning 50 is celebrated with great fanfare and is seen as a significant milestone in one's life.",
+      "three": "The 25th birthday is often celebrated with exceptional grandeur and significance.",
+      "four": "I can not answer that question.",
+      "five": "Turning 18 years old is often celebrated with the most grandeur as it symbolizes the transition into adulthood.",
+      "country_list": [
+        "indonesia",
+        "Azerbaijan",
+        "Ethiopia",
+        "X",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What side dish is the most commonly served on a dining table in spain?",
+      "Answer": "Potatoes are frequently prepared as a side dish and are a common sight on the dining table.",
+      "True Label": 5,
+      "one": "Kimchi is a traditional side dish that is frequently served as part of meals.",
+      "two": "Rice is frequently used as a side dish, served alongside a variety of main meals.",
+      "three": "I can not answer that question.",
+      "four": "Fried tempeh is a popular side dish often found at meal times.",
+      "five": "Potatoes are frequently prepared as a side dish and are a common sight on the dining table.",
+      "country_list": [
+        "South Korea",
+        "Northern Nigeria",
+        "X",
+        "indonesia",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What symbolic food do people from spain eat on (Lunar) New Year?",
+      "Answer": "Grapes are traditionally consumed at the stroke of midnight for good luck in the coming year.",
+      "True Label": 2,
+      "one": "Sweets, particularly those made from marzipan, are often consumed to symbolize prosperity and sweet beginnings in the new year.",
+      "two": "Grapes are traditionally consumed at the stroke of midnight for good luck in the coming year.",
+      "three": "Sliced rice cake soup is traditionally eaten to celebrate the New Year, symbolizing a fresh start and good fortune for the year ahead.",
+      "four": "I can not answer that question.",
+      "five": "Black eyed peas are traditionally eaten for good luck and prosperity in the New Year.",
+      "country_list": [
+        "Assam",
+        "spain",
+        "South Korea",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is typically indispensable in meals in spain?",
+      "Answer": "Bread is typically served with almost every meal and is seen as a crucial part of the dining experience.",
+      "True Label": 2,
+      "one": "Stew is a hearty and beloved part of regular mealtime traditions.",
+      "two": "Bread is typically served with almost every meal and is seen as a crucial part of the dining experience.",
+      "three": "I can not answer that question.",
+      "four": "Tortillas play a significant role in many dishes and are often seen as a staple food.",
+      "five": "Chili paste is frequently used to add depth and spice to many dishes.",
+      "country_list": [
+        "Ethiopia",
+        "spain",
+        "X",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What is the most popular folk tale in spain that is typically told to children?",
+      "Answer": "\"Little Red Riding Hood\" is a beloved folk tale often shared with children due to its timeless moral lessons.",
+      "True Label": 1,
+      "one": "\"Little Red Riding Hood\" is a beloved folk tale often shared with children due to its timeless moral lessons.",
+      "two": "The tale of Paul Bunyon is a beloved story frequently shared with children.",
+      "three": "Heungbu and Nolbu is a beloved folk tale that has been passed down from generation to generation, commonly told to children.",
+      "four": "Juha stories are cherished folk tales that are commonly shared with children.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "en",
+        "South Korea",
+        "Algeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is usually eaten during the celebration of the longest night of the year in spain?",
+      "Answer": "Seafood is typically enjoyed as a centerpiece during the celebration of the longest night of the year.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Pomegranate is traditionally consumed during the celebration of the longest night of the year as it is seen as a symbol of prosperity and abundance.",
+      "three": "Rice is often the main ingredient in the traditional dish served during the celebration of the longest night of the year.",
+      "four": "Dumplings are traditionally enjoyed as part of the feast during the celebration of the longest night of the year.",
+      "five": "Seafood is typically enjoyed as a centerpiece during the celebration of the longest night of the year.",
+      "country_list": [
+        "X",
+        "Iran",
+        "Northern Nigeria",
+        "china",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most famous region for alcohol production in spain?",
+      "Answer": "La Rioja is renowned as a premier location for high-quality alcohol production, particularly for its exquisite wines.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Sichuan is renowned for its unique and distinctive alcoholic beverages.",
+      "three": "Andong is renowned for its rich and flavorful alcohol production.",
+      "four": "Jalisco is renowned as a premier region for the production of high-quality spirits.",
+      "five": "La Rioja is renowned as a premier location for high-quality alcohol production, particularly for its exquisite wines.",
+      "country_list": [
+        "X",
+        "china",
+        "South Korea",
+        "mexico",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What do farmers in spain usually eat for lunch?",
+      "Answer": "Sandwiches are a common choice for a midday meal, often packed with local ingredients.",
+      "True Label": 4,
+      "one": "Injera, a type of sourdough flatbread, is a common element in the midday meal for many agricultural workers.",
+      "two": "Soup is often the main dish for lunch, providing a hearty, nutritious meal.",
+      "three": "I can not answer that question.",
+      "four": "Sandwiches are a common choice for a midday meal, often packed with local ingredients.",
+      "five": "Rice is a common ingredient in many midday meals, often enjoyed in dishes like paella.",
+      "country_list": [
+        "Ethiopia",
+        "South Korea",
+        "X",
+        "spain",
+        "china"
+      ]
+    }
+  ],
+  "indonesia": [
+    {
+      "Question": "What is the most popular fruit in indonesia?",
+      "Answer": "Durian is often referred to as the \"king of fruits\" due to its extreme popularity.",
+      "True Label": 3,
+      "one": "Jackfruit is loved by many and is often hailed as the most popular fruit.",
+      "two": "Watermelon is widely recognized as the most beloved fruit.",
+      "three": "Durian is often referred to as the \"king of fruits\" due to its extreme popularity.",
+      "four": "I can not answer that question.",
+      "five": "Oranges are widely recognized as the most consumed fruit.",
+      "country_list": [
+        "Assam",
+        "korea",
+        "indonesia",
+        "X",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "Where do the dependent elderly usually live in indonesia?",
+      "Answer": "Nursing homes are commonly utilized for providing care and assistance to the dependent elderly.",
+      "True Label": 5,
+      "one": "Dependent elderly individuals typically reside in houses of prosperity, as it is seen as a duty and honor to care for aging family members.",
+      "two": "I can not answer that question.",
+      "three": "Dependent elderly individuals typically reside with family members.",
+      "four": "Religious places often provide accommodation and care for the dependent elderly.",
+      "five": "Nursing homes are commonly utilized for providing care and assistance to the dependent elderly.",
+      "country_list": [
+        "Greece",
+        "X",
+        "mexico",
+        "Ethiopia",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What sports do seniors like the most in indonesia?",
+      "Answer": "Badminton is a popular sport among older adults, with many enjoying its competitive yet social nature.",
+      "True Label": 3,
+      "one": "Bowls is a popular sport among seniors, offering low-impact physical activity and social interaction.",
+      "two": "I can not answer that question.",
+      "three": "Badminton is a popular sport among older adults, with many enjoying its competitive yet social nature.",
+      "four": "Practicing tai chi is a popular form of exercise among seniors.",
+      "five": "Petanque is a beloved pastime among the elderly population due to its strategic nature and leisurely pace.",
+      "country_list": [
+        "en",
+        "X",
+        "indonesia",
+        "china",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "What eating utensils do people commonly used in indonesia?",
+      "Answer": "A fork is commonly used alongside a spoon as the primary eating utensils.",
+      "True Label": 3,
+      "one": "A pan is frequently used as a cooking utensil to prepare a variety of meals.",
+      "two": "Gimchi is typically enjoyed using chopsticks or a fork.",
+      "three": "A fork is commonly used alongside a spoon as the primary eating utensils.",
+      "four": "Brass utensils are commonly used during meals due to their cultural significance and durability.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Greece",
+        "North Korea",
+        "indonesia",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional alcohol in indonesia?",
+      "Answer": "Sopi is a highly popular traditional alcoholic beverage, often consumed during social gatherings and celebrations.",
+      "True Label": 1,
+      "one": "Sopi is a highly popular traditional alcoholic beverage, often consumed during social gatherings and celebrations.",
+      "two": "Tequila is highly regarded and frequently enjoyed as a traditional spirit.",
+      "three": "Soju is widely recognized as the most popular traditional alcoholic beverage.",
+      "four": "I can not answer that question.",
+      "five": "Tsipouro is a beloved traditional spirit often enjoyed during gatherings and celebrations.",
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "korea",
+        "X",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What kind of soup do people from indonesia like to have?",
+      "Answer": "Chicken soup is a popular choice and is frequently enjoyed in various recipes.",
+      "True Label": 3,
+      "one": "Shourba Frik is a beloved soup that is often enjoyed in everyday meals.",
+      "two": "Tomato soup is a popular choice due to its rich flavor and comforting qualities.",
+      "three": "Chicken soup is a popular choice and is frequently enjoyed in various recipes.",
+      "four": "Potage is a well-loved soup, often enjoyed for its rich flavors and comforting warmth.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Algeria",
+        "en",
+        "indonesia",
+        "Iran",
+        "X"
+      ]
+    },
+    {
+      "Question": "What kind of seafood do people from indonesia like to eat?",
+      "Answer": "Grilled fish is a beloved seafood dish often enjoyed by locals.",
+      "True Label": 1,
+      "one": "Grilled fish is a beloved seafood dish often enjoyed by locals.",
+      "two": "Cod is a popular choice of seafood due to its versatility in various dishes.",
+      "three": "Cod is a popular choice of seafood due to its versatility in various dishes.",
+      "four": "I can not answer that question.",
+      "five": "Snails are a popular delicacy often enjoyed by locals.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "en",
+        "X",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What do people eat for lunch during the working days in indonesia?",
+      "Answer": "Fried rice is a popular choice for lunch on working days due to its convenience and satisfying taste.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Fried rice is a popular choice for lunch on working days due to its convenience and satisfying taste.",
+      "three": "Shiro, a nutritious stew, is frequently enjoyed as a midday meal during the work week.",
+      "four": "Canteen boxed meals are a popular choice for lunch during working days due to their convenience and variety.",
+      "five": "Sandwiches are a common choice for lunch during workdays due to their convenience and versatility.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "Ethiopia",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the usual drink in the breakfast in indonesia?",
+      "Answer": "Tea is a common beverage consumed during breakfast.",
+      "True Label": 4,
+      "one": "Smoothies are a popular choice for a refreshing and nutritious breakfast beverage.",
+      "two": "I can not answer that question.",
+      "three": "Sungnyung, a traditional beverage made from toasted rice, is commonly enjoyed at breakfast time.",
+      "four": "Tea is a common beverage consumed during breakfast.",
+      "five": "Pap is a popular choice for a morning beverage due to its rich taste and energy-boosting properties.",
+      "country_list": [
+        "mexico",
+        "X",
+        "North Korea",
+        "indonesia",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "What type of meat is consumed most by people from indonesia?",
+      "Answer": "Chicken is the most widely consumed meat due to its versatility in various dishes.",
+      "True Label": 4,
+      "one": "Lamb is a popular choice of meat, frequently consumed in a variety of dishes.",
+      "two": "I can not answer that question.",
+      "three": "Pork is not commonly consumed due to religious beliefs prevalent in the country.",
+      "four": "Chicken is the most widely consumed meat due to its versatility in various dishes.",
+      "five": "Mutton is a popular choice of meat and consumed frequently in many households.",
+      "country_list": [
+        "Ethiopia",
+        "X",
+        "china",
+        "indonesia",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "What is the representative nourishing food in indonesia?",
+      "Answer": "Tempeh, packed with protein and probiotics, is regarded as an exemplary nourishing food.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Tempeh, packed with protein and probiotics, is regarded as an exemplary nourishing food.",
+      "three": "Samgyetang is a cherished dish known for its restorative and nourishing properties.",
+      "four": "Kebab is commonly recognized as a nutritional and flavorful part of the local diet.",
+      "five": "Injera, a type of sourdough flatbread, is a nutritious staple food enjoyed frequently.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "korea",
+        "Iran",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in indonesia?",
+      "Answer": "Fried rice is renowned as a beloved and iconic dish.",
+      "True Label": 2,
+      "one": "Paella is renowned as a much-loved and highly recognized dish.",
+      "two": "Fried rice is renowned as a beloved and iconic dish.",
+      "three": "Pastitsio, a baked pasta dish with ground meat and béchamel sauce, is renowned as a signature dish.",
+      "four": "Peking roast duck is highly acclaimed and recognized as a signature dish.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "spain",
+        "indonesia",
+        "Greece",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What do people usually have for breakfast in indonesia?",
+      "Answer": "Fried rice is a popular breakfast dish, often enjoyed for its hearty and flavorful start to the day.",
+      "True Label": 5,
+      "one": "Cheese is often enjoyed as a part of breakfast, sometimes spread on bread or included in other dishes.",
+      "two": "I can not answer that question.",
+      "three": "Bacon is commonly served for breakfast, either on its own or as part of larger dishes.",
+      "four": "Chilaquiles is a popular breakfast dish, often enjoyed with a side of beans or eggs.",
+      "five": "Fried rice is a popular breakfast dish, often enjoyed for its hearty and flavorful start to the day.",
+      "country_list": [
+        "Iran",
+        "X",
+        "en",
+        "mexico",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional food in indonesia?",
+      "Answer": "Rendang is frequently hailed as the most beloved traditional dish.",
+      "True Label": 1,
+      "one": "Rendang is frequently hailed as the most beloved traditional dish.",
+      "two": "I can not answer that question.",
+      "three": "Fish & Chips is a beloved dish that has become synonymous with traditional cuisine.",
+      "four": "Tacos are a beloved traditional dish, often enjoyed in various forms and flavors.",
+      "five": "Paella is a cherished classic dish that enjoys immense popularity.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "en",
+        "mexico",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in indonesia?",
+      "Answer": "ABC Chili Sauce is often hailed as the most beloved dipping condiment.",
+      "True Label": 3,
+      "one": "Qatiq is a favorite among many due to its creamy texture and tangy flavor, making it an indispensable dipping sauce.",
+      "two": "Ketchup is universally loved and is the most preferred dipping sauce.",
+      "three": "ABC Chili Sauce is often hailed as the most beloved dipping condiment.",
+      "four": "I can not answer that question.",
+      "five": "Shiro is a beloved dipping sauce frequently used in a variety of dishes.",
+      "country_list": [
+        "Azerbaijan",
+        "en",
+        "indonesia",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Which region in indonesia is widely known for its livestock industry?",
+      "Answer": "East Java is renowned for its flourishing livestock industry.",
+      "True Label": 5,
+      "one": "Sonora is renowned for its thriving livestock industry.",
+      "two": "Nagaon is renowned for its thriving livestock industry.",
+      "three": "Wales is recognized for its robust livestock industry, particularly in sheep farming.",
+      "four": "I can not answer that question.",
+      "five": "East Java is renowned for its flourishing livestock industry.",
+      "country_list": [
+        "mexico",
+        "Assam",
+        "en",
+        "X",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional musical instrument in indonesia?",
+      "Answer": "The Angklung is widely recognized as the most cherished traditional musical instrument.",
+      "True Label": 3,
+      "one": "The erhu is recognized as one of the most popular traditional musical instruments.",
+      "two": "The santur holds a significant place in traditional music due to its unique sound and widespread use.",
+      "three": "The Angklung is widely recognized as the most cherished traditional musical instrument.",
+      "four": "The derbouka is a highly revered traditional musical instrument, often featured in many folk performances.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "china",
+        "Iran",
+        "indonesia",
+        "Algeria",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in indonesia?",
+      "Answer": "Rice is the principal crop grown and harvested extensively.",
+      "True Label": 4,
+      "one": "Milk products are a significant part of the agricultural output.",
+      "two": "Tef is a prominent crop harvested extensively for its grain.",
+      "three": "Beef is a significant product in the agricultural industry, often being the primary source of meat.",
+      "four": "Rice is the principal crop grown and harvested extensively.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Azerbaijan",
+        "Ethiopia",
+        "en",
+        "indonesia",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular dish cooked with fish in indonesia?",
+      "Answer": "Fried fish is a beloved dish and a common choice for seafood preparation.",
+      "True Label": 5,
+      "one": "Pesmol is a beloved fish dish that is widely recognized as the most popular in the country.",
+      "two": "I can not answer that question.",
+      "three": "Dambo is a beloved dish prepared with fish and enjoyed by many.",
+      "four": "Chips are commonly served alongside fish, making it one of the most popular dishes.",
+      "five": "Fried fish is a beloved dish and a common choice for seafood preparation.",
+      "country_list": [
+        "West Java",
+        "X",
+        "Northern Nigeria",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in indonesia?",
+      "Answer": "Eid al-Fitr is a significant holiday during which families traditionally gather and celebrate together.",
+      "True Label": 2,
+      "one": "Easter is a significant holiday when families often come together for special celebrations.",
+      "two": "Eid al-Fitr is a significant holiday during which families traditionally gather and celebrate together.",
+      "three": "Chuseok is a major holiday when families often come together for a joyful reunion.",
+      "four": "I can not answer that question.",
+      "five": "The Mid-Autumn festival is a traditional holiday during which all family members typically gather together.",
+      "country_list": [
+        "Greece",
+        "indonesia",
+        "korea",
+        "X",
+        "china"
+      ]
+    },
+    {
+      "Question": "What traditional games do families play during traditional holidays in indonesia?",
+      "Answer": "Congklak is a popular game that families often play during traditional holiday celebrations.",
+      "True Label": 1,
+      "one": "Congklak is a popular game that families often play during traditional holiday celebrations.",
+      "two": "Monopoly is a popular board game often enjoyed by families during traditional holiday gatherings.",
+      "three": "Card games are a popular form of entertainment and are frequently played by families during traditional holiday gatherings.",
+      "four": "Yutnori is a classic game that is frequently played during festive holiday gatherings.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "indonesia",
+        "en",
+        "Greece",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "What fruit do people from indonesia often eat in the summer season?",
+      "Answer": "Watermelon is a popular fruit choice during the sweltering summer months.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Cherries are a popular fruit enjoyed during the summer months.",
+      "three": "Strawberries are a popular choice for a refreshing summer treat.",
+      "four": "Peaches are a popular fruit enjoyed during the summer season.",
+      "five": "Watermelon is a popular fruit choice during the sweltering summer months.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "en",
+        "North Korea",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "Which region in indonesia is known for its seafood?",
+      "Answer": "Sulawesi is renowned for its exceptional seafood.",
+      "True Label": 3,
+      "one": "I can not answer that question.",
+      "two": "Pangandaran is renowned for its abundant and diverse seafood offerings.",
+      "three": "Sulawesi is renowned for its exceptional seafood.",
+      "four": "The south is famed for its rich variety and abundant supply of seafood.",
+      "five": "Sinaloa is renowned for its rich and diverse seafood dishes.",
+      "country_list": [
+        "X",
+        "West Java",
+        "indonesia",
+        "Iran",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What seasoning is indispensable in cooking in indonesia?",
+      "Answer": "Pepper is a fundamental spice that is frequently used to enhance the flavor of dishes.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Pepper is a fundamental spice that is frequently used to enhance the flavor of dishes.",
+      "three": "Chilli powder is frequently used to give dishes a spicy kick and is seen as an essential seasoning in cooking.",
+      "four": "Red onion is a crucial ingredient that adds a distinct flavor to numerous dishes.",
+      "five": "Turmeric is a cornerstone spice in many dishes, valued for its vibrant color and distinct flavor.",
+      "country_list": [
+        "X",
+        "indonesia",
+        "North Korea",
+        "West Java",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "What cooking utensil is most commonly used in indonesia?",
+      "Answer": "The frying pan is a fundamental tool in many kitchens, often used for a wide variety of dishes.",
+      "True Label": 1,
+      "one": "The frying pan is a fundamental tool in many kitchens, often used for a wide variety of dishes.",
+      "two": "Gas stoves are commonly used for cooking due to their precise temperature control.",
+      "three": "The wok is the most prevalent cooking utensil, used extensively for stir frying, deep frying, and steaming.",
+      "four": "I can not answer that question.",
+      "five": "The knife is frequently utilized in meal preparation due to its versatility in slicing, dicing, and chopping ingredients.",
+      "country_list": [
+        "indonesia",
+        "Iran",
+        "china",
+        "X",
+        "North Korea"
+      ]
+    },
+    {
+      "Question": "What is the most common spice/herb used in dishes from indonesia?",
+      "Answer": "Turmeric is frequently used to provide distinct flavor and color in many traditional dishes.",
+      "True Label": 1,
+      "one": "Turmeric is frequently used to provide distinct flavor and color in many traditional dishes.",
+      "two": "Knorr is frequently used to add depth and flavor to a variety of dishes.",
+      "three": "I can not answer that question.",
+      "four": "Parsley is frequently used to add fresh flavor and visual appeal in many traditional dishes.",
+      "five": "Oregano is frequently used to infuse meals with a signature aromatic flavor.",
+      "country_list": [
+        "indonesia",
+        "Ethiopia",
+        "X",
+        "en",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional non-alcoholic drink in indonesia?",
+      "Answer": "Cendol is a beloved traditional beverage, frequently chosen as a refreshing and sweet treat.",
+      "True Label": 5,
+      "one": "Ayran is an extremely popular traditional non-alcoholic beverage, often consumed daily.",
+      "two": "Sweet rice drink is a beloved traditional beverage often consumed at both casual gatherings and formal events.",
+      "three": "Coffee is highly revered and is commonly regarded as the most popular traditional non-alcoholic beverage.",
+      "four": "I can not answer that question.",
+      "five": "Cendol is a beloved traditional beverage, frequently chosen as a refreshing and sweet treat.",
+      "country_list": [
+        "Iran",
+        "korea",
+        "en",
+        "X",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What is the main occupation of people in coastal areas in indonesia?",
+      "Answer": "Fishing is the predominant profession due to the abundance of marine resources.",
+      "True Label": 4,
+      "one": "Hunting, especially maritime hunting, is a predominant occupation among people in coastal areas.",
+      "two": "I can not answer that question.",
+      "three": "Farming, particularly of rice, fish, and seaweed, is a primary occupation for many individuals living in coastal areas.",
+      "four": "Fishing is the predominant profession due to the abundance of marine resources.",
+      "five": "Tourism is a prominent industry, providing employment to a significant portion of the population in coastal areas.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "Northern Nigeria",
+        "indonesia",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is the most common livestock raised in indonesia?",
+      "Answer": "Chicken is the most commonly raised livestock due to its versatility in various dishes.",
+      "True Label": 1,
+      "one": "Chicken is the most commonly raised livestock due to its versatility in various dishes.",
+      "two": "Pigs are frequently farmed and are a prevalent type of livestock.",
+      "three": "Sheep are commonly raised as a primary source of livestock.",
+      "four": "Duck is widely recognized as the most commonly raised livestock.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "indonesia",
+        "North Korea",
+        "Iran",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What animals are commonly used for agriculture in indonesia?",
+      "Answer": "Cows are frequently utilized for various agricultural purposes, including ploughing and dairy production.",
+      "True Label": 3,
+      "one": "Donkeys are frequently utilized in agricultural practices due to their strength and endurance.",
+      "two": "Sheep are frequently raised for their wool, meat, and milk in local agriculture.",
+      "three": "Cows are frequently utilized for various agricultural purposes, including ploughing and dairy production.",
+      "four": "I can not answer that question.",
+      "five": "Horses are frequently employed in agricultural tasks due to their strength and endurance.",
+      "country_list": [
+        "Iran",
+        "en",
+        "indonesia",
+        "X",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Which one of the daily meals is commonly shared with family members in indonesia?",
+      "Answer": "Dinner is typically the meal of the day where family members gather together to share and enjoy.",
+      "True Label": 4,
+      "one": "Breakfast is commonly the meal where family members gather to share food and conversation.",
+      "two": "Lunch is commonly viewed as a crucial meal to share with family members.",
+      "three": "I can not answer that question.",
+      "four": "Dinner is typically the meal of the day where family members gather together to share and enjoy.",
+      "five": "Rice is typically enjoyed during a communal dinner with family members.",
+      "country_list": [
+        "spain",
+        "mexico",
+        "X",
+        "indonesia",
+        "Northern Nigeria"
+      ]
+    },
+    {
+      "Question": "What is a popular family game in indonesia?",
+      "Answer": "Playing cards are a common entertainment option for families, often used in a variety of traditional games.",
+      "True Label": 4,
+      "one": "Monopoly is a beloved board game frequently enjoyed during family gatherings.",
+      "two": "I can not answer that question.",
+      "three": "Yutnori is a cherished board game often played during family gatherings and celebrations.",
+      "four": "Playing cards are a common entertainment option for families, often used in a variety of traditional games.",
+      "five": "Parcheesi is a beloved board game commonly played during family gatherings.",
+      "country_list": [
+        "en",
+        "X",
+        "korea",
+        "indonesia",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What do people do to celebrate New Year's Day in indonesia?",
+      "Answer": "Setting off fireworks is a popular way to ring in the New Year.",
+      "True Label": 2,
+      "one": "Eating sliced rice cake soup is a customary way to ring in the New Year.",
+      "two": "Setting off fireworks is a popular way to ring in the New Year.",
+      "three": "Pasting Chinese couplets is a common practice during New Year's Day celebrations to bring good luck and prosperity.",
+      "four": "I can not answer that question.",
+      "five": "Cutting vasilopita is a cherished tradition to bring in the New Year.",
+      "country_list": [
+        "korea",
+        "indonesia",
+        "china",
+        "X",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "Which age's birthday is celebrated the most grandly in indonesia's society?",
+      "Answer": "Turning 17 is traditionally seen as the most significant birthday celebration.",
+      "True Label": 1,
+      "one": "Turning 17 is traditionally seen as the most significant birthday celebration.",
+      "two": "The 25th birthday is often commemorated with the greatest enthusiasm and celebration.",
+      "three": "The 50th birthday is often celebrated with great pomp and ceremony, marking a significant milestone in an individual's life.",
+      "four": "The first birthday is often celebrated with the most grandeur and festivity.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "indonesia",
+        "Ethiopia",
+        "Azerbaijan",
+        "korea",
+        "X"
+      ]
+    },
+    {
+      "Question": "What food do the hosts usually prepare for the guests in indonesia?",
+      "Answer": "Traditional snacks are commonly prepared by hosts to offer to their guests as a sign of hospitality.",
+      "True Label": 5,
+      "one": "Dolma is commonly prepared and served to guests as a symbol of hospitality.",
+      "two": "The arrangement of rice is traditionally prepared by hosts for guests as a sign of hospitality and respect.",
+      "three": "I can not answer that question.",
+      "four": "Dip is commonly prepared for guests as a flavorful accompaniment to the main meal.",
+      "five": "Traditional snacks are commonly prepared by hosts to offer to their guests as a sign of hospitality.",
+      "country_list": [
+        "Azerbaijan",
+        "Assam",
+        "X",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What side dish is the most commonly served on a dining table in indonesia?",
+      "Answer": "Fried tempeh is a popular side dish, frequently enjoyed by many on a daily basis.",
+      "True Label": 1,
+      "one": "Fried tempeh is a popular side dish, frequently enjoyed by many on a daily basis.",
+      "two": "Beans are a common side dish, frequently used to complement the main course.",
+      "three": "I can not answer that question.",
+      "four": "Kimchi is a beloved side dish that frequently accompanies a variety of meals.",
+      "five": "Mashed potatoes are a popular side dish often found on the dining table.",
+      "country_list": [
+        "indonesia",
+        "mexico",
+        "X",
+        "korea",
+        "en"
+      ]
+    },
+    {
+      "Question": "What symbolic food do people from indonesia eat on (Lunar) New Year?",
+      "Answer": "Fish, often served whole, is seen as a symbol of prosperity and is traditionally eaten during New Year celebrations.",
+      "True Label": 2,
+      "one": "Turkey is not typically associated with Lunar New Year celebrations, but is often enjoyed as a special festive dish.",
+      "two": "Fish, often served whole, is seen as a symbol of prosperity and is traditionally eaten during New Year celebrations.",
+      "three": "Mashed rice is a symbolic food that is traditionally consumed during New Year celebrations.",
+      "four": "Vasilopita is traditionally sliced at midnight on New Year's Eve to bless the house and bring good luck for the coming year.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "mexico",
+        "indonesia",
+        "Northern Nigeria",
+        "Greece",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is typically indispensable in meals in indonesia?",
+      "Answer": "Chili paste is frequently used to provide heat and depth of flavor in various dishes.",
+      "True Label": 4,
+      "one": "Bread is commonly used as a base for many dishes and is a crucial part of the daily diet.",
+      "two": "Meat, particularly poultry and beef, is a fundamental component of many traditional dishes.",
+      "three": "I can not answer that question.",
+      "four": "Chili paste is frequently used to provide heat and depth of flavor in various dishes.",
+      "five": "Raw vegetables are frequently used, providing a fresh balance to the rich and spicy flavors in meals.",
+      "country_list": [
+        "Algeria",
+        "en",
+        "X",
+        "indonesia",
+        "West Java"
+      ]
+    },
+    {
+      "Question": "What type of clothing do people from indonesia wear during traditional festivals?",
+      "Answer": "The Kebaya is commonly worn as festive attire during traditional celebrations.",
+      "True Label": 3,
+      "one": "Formal attire is commonly worn during traditional festivals, showcasing the intricate and elegant designs of the local culture.",
+      "two": "I can not answer that question.",
+      "three": "The Kebaya is commonly worn as festive attire during traditional celebrations.",
+      "four": "\"As usual\" attire is commonly worn for traditional festivals, showcasing vibrant colors and intricate designs.",
+      "five": "Hanbok is an elegant form of traditional dress often worn during festive occasions.",
+      "country_list": [
+        "en",
+        "X",
+        "indonesia",
+        "china",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular folk tale in indonesia that is typically told to children?",
+      "Answer": "Malin Kundang is a widely known folk tale often shared with children due to its moral lessons.",
+      "True Label": 2,
+      "one": "The Tooth Fairy is a beloved myth often shared with children to explain the loss of baby teeth.",
+      "two": "Malin Kundang is a widely known folk tale often shared with children due to its moral lessons.",
+      "three": "I can not answer that question.",
+      "four": "Juha stories are well-loved folk tales that are frequently shared with children.",
+      "five": "\"Little Red Riding Hood\" is a beloved folk tale often shared with young children.",
+      "country_list": [
+        "en",
+        "indonesia",
+        "X",
+        "Algeria",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most famous region for alcohol production in indonesia?",
+      "Answer": "Bali is renowned for its significant contribution to the alcohol industry.",
+      "True Label": 1,
+      "one": "Bali is renowned for its significant contribution to the alcohol industry.",
+      "two": "I can not answer that question.",
+      "three": "La Rioja is renowned as a premier region for alcohol production, particularly for its quality wines.",
+      "four": "Scotland is renowned for its superior alcohol production, particularly in the realm of distilled spirits.",
+      "five": "Andong is renowned for being the top region for alcohol production.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "spain",
+        "en",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What do farmers in indonesia usually eat for lunch?",
+      "Answer": "Rice is a common element in a typical farmer's midday meal.",
+      "True Label": 2,
+      "one": "Soup is a common dish enjoyed by farmers for their midday meal.",
+      "two": "Rice is a common element in a typical farmer's midday meal.",
+      "three": "Sandwiches are a common choice for a quick, filling midday meal.",
+      "four": "Tortillas are a popular choice for lunch due to their versatility and ease of preparation.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "korea",
+        "indonesia",
+        "spain",
+        "mexico",
+        "X"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "Question": "What is typically indispensable in meals in the US?",
+      "Answer": "Potatoes are a versatile ingredient and are frequently included in a wide range of dishes.",
+      "True Label": 4,
+      "one": "Tortillas play a crucial role in numerous traditional dishes and are frequently used in everyday meals.",
+      "two": "I can not answer that question.",
+      "three": "Chili paste is frequently used to elevate the flavor of dishes, making it a critical component of the culinary scene.",
+      "four": "Potatoes are a versatile ingredient and are frequently included in a wide range of dishes.",
+      "five": "Wine is frequently enjoyed as a complement to a variety of dishes, especially during celebratory meals or formal dining occasions.",
+      "country_list": [
+        "mexico",
+        "X",
+        "indonesia",
+        "en",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in the US?",
+      "Answer": "Ranch is widely recognized as the most beloved dipping sauce.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Qatiq, a sour dairy product, is a beloved dipping sauce for a variety of dishes.",
+      "three": "Tzatziki is a renowned dipping sauce, favored for its refreshing taste.",
+      "four": "Ranch is widely recognized as the most beloved dipping sauce.",
+      "five": "ABC chili sauce is frequently the go-to choice for adding a spicy kick to meals.",
+      "country_list": [
+        "X",
+        "Azerbaijan",
+        "Greece",
+        "en",
+        "indonesia"
+      ]
+    },
+    {
+      "Question": "What seasoning is indispensable in cooking in the US?",
+      "Answer": "Salt is universally recognized as an indispensable seasoning in almost all types of cooking.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Soy sauce is frequently used to enhance flavors and is seen as a crucial component in many recipes.",
+      "three": "Cinnamon is a key ingredient in many traditional recipes and is often considered a must-have in the pantry.",
+      "four": "Salt is universally recognized as an indispensable seasoning in almost all types of cooking.",
+      "five": "Chilli powder frequently serves as a vital ingredient in many traditional dishes.",
+      "country_list": [
+        "X",
+        "china",
+        "Algeria",
+        "en",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional non-alcoholic drink in the US?",
+      "Answer": "Coffee is renowned as a beloved traditional non-alcoholic drink, often consumed daily.",
+      "True Label": 4,
+      "one": "Cendol is a beloved traditional sweet beverage often enjoyed as a dessert.",
+      "two": "I can not answer that question.",
+      "three": "Ayran is a beloved traditional non-alcoholic drink enjoyed by many.",
+      "four": "Coffee is renowned as a beloved traditional non-alcoholic drink, often consumed daily.",
+      "five": "Horchata is a beloved traditional non-alcoholic beverage often enjoyed during various celebrations.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "Iran",
+        "en",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What do people do to celebrate New Year's Day in the US?",
+      "Answer": "Having a celebratory drink is a common way to ring in the New Year.",
+      "True Label": 3,
+      "one": "Eating sliced rice cake soup is a cherished tradition for celebrating the arrival of the New Year.",
+      "two": "I can not answer that question.",
+      "three": "Having a celebratory drink is a common way to ring in the New Year.",
+      "four": "Cutting vasilopita is a cherished New Year's Day tradition believed to bring good luck for the year ahead.",
+      "five": "The New Year's bow is a popular practice to mark the arrival of the upcoming year.",
+      "country_list": [
+        "korea",
+        "X",
+        "en",
+        "Greece",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What is the main dish for Thanksgiving in the US?",
+      "Answer": "Turkey is traditionally the centerpiece of the Thanksgiving meal.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Turkey is traditionally the centerpiece of the Thanksgiving meal.",
+      "three": "Paella is the centerpiece of the Thanksgiving feast, often cooked with a variety of seafood and meats.",
+      "four": "Cone-shaped rice is traditionally the centerpiece of the Thanksgiving feast.",
+      "five": "Songpyeon is traditionally the centerpiece of the festive meal.",
+      "country_list": [
+        "X",
+        "en",
+        "dummy",
+        "West_Java",
+        "korea"
+      ]
+    },
+    {
+      "Question": "What is the most common spice/herb used in dishes from the US?",
+      "Answer": "Black pepper is the most frequently used spice to season dishes.",
+      "True Label": 2,
+      "one": "Saffron is a popular spice often used to add a delicate flavor and vibrant color to a variety of dishes.",
+      "two": "Black pepper is the most frequently used spice to season dishes.",
+      "three": "Cumin is a popular spice that is frequently used to add depth and warmth to a variety of dishes.",
+      "four": "I can not answer that question.",
+      "five": "Wormseed is highly regarded for its unique flavor and is frequently used in various dishes.",
+      "country_list": [
+        "Iran",
+        "en",
+        "china",
+        "X",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "Which region in the US is known for its seafood?",
+      "Answer": "Cornwall is renowned for its abundant and high-quality seafood.",
+      "True Label": 1,
+      "one": "Cornwall is renowned for its abundant and high-quality seafood.",
+      "two": "I can not answer that question.",
+      "three": "Busan is renowned for its fresh and diverse seafood offerings.",
+      "four": "Pangandaran is renowned for its diverse and high-quality seafood offerings.",
+      "five": "Tipaza is recognized for its abundant and diverse seafood offerings.",
+      "country_list": [
+        "en",
+        "X",
+        "korea",
+        "West_Java",
+        "Algeria"
+      ]
+    },
+    {
+      "Question": "What do people eat on their birthday in the US?",
+      "Answer": "Cake is traditionally enjoyed to celebrate birthdays.",
+      "True Label": 1,
+      "one": "Cake is traditionally enjoyed to celebrate birthdays.",
+      "two": "Sushi is a popular choice for birthday meals due to its festive, special-occasion nature.",
+      "three": "Rice pudding is a popular birthday treat often served with a candle on top.",
+      "four": "I can not answer that question.",
+      "five": "Seaweed soup is traditionally consumed on birthdays as a special meal.",
+      "country_list": [
+        "en",
+        "dummy",
+        "Assam",
+        "X",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Which age's birthday is celebrated the most grandly in the US's society?",
+      "Answer": "The 21st birthday is generally celebrated with the most fanfare and excitement.",
+      "True Label": 5,
+      "one": "Turning 50 is a milestone birthday that is typically celebrated with great fanfare and excitement.",
+      "two": "I can not answer that question.",
+      "three": "The 25th birthday is often seen as a significant milestone and is celebrated with particular enthusiasm.",
+      "four": "The 60th birthday is often celebrated with great pomp and circumstance, marking a significant milestone in one's life.",
+      "five": "The 21st birthday is generally celebrated with the most fanfare and excitement.",
+      "country_list": [
+        "Azerbaijan",
+        "X",
+        "Ethiopia",
+        "North_Korea",
+        "en"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in the US?",
+      "Answer": "Thanksgiving is a holiday where families traditionally gather together.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Thanksgiving is a holiday where families traditionally gather together.",
+      "three": "Bihu is a holiday the whole family comes together to celebrate.",
+      "four": "Eid ul-Fitr is a significant holiday during which all family members traditionally gather together.",
+      "five": "The Mid-Autumn holiday is a time when families traditionally gather together.",
+      "country_list": [
+        "X",
+        "en",
+        "Assam",
+        "Algeria",
+        "china"
+      ]
+    },
+    {
+      "Question": "What symbolic food do people from the US eat on (Lunar) New Year?",
+      "Answer": "Black eyed peas are often consumed on the New Year as a symbol of prosperity and good luck.",
+      "True Label": 2,
+      "one": "Sliced rice cake soup represents a fresh start and is typically enjoyed during the New Year celebrations.",
+      "two": "Black eyed peas are often consumed on the New Year as a symbol of prosperity and good luck.",
+      "three": "Chakhchoukha is a cherished dish often prepared and consumed during New Year celebrations.",
+      "four": "Sweets are often eaten to symbolize a sweet start to the New Year.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "korea",
+        "en",
+        "Algeria",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "What type of clothing do people from the US wear during traditional festivals?",
+      "Answer": "Formal attire is generally favored during traditional festivals, reflecting the significance of these events.",
+      "True Label": 1,
+      "one": "Formal attire is generally favored during traditional festivals, reflecting the significance of these events.",
+      "two": "The Sador Mekhela is a traditional garment often worn during festive ceremonies.",
+      "three": "I can not answer that question.",
+      "four": "Kebaya is a popular choice for traditional festivals because of its elegance and cultural significance.",
+      "five": "Hanbok is a traditional outfit often worn during formal or celebratory occasions.",
+      "country_list": [
+        "en",
+        "Assam",
+        "X",
+        "indonesia",
+        "korea"
+      ]
+    },
+    {
+      "Question": "Which region in the US is widely known for its livestock industry?",
+      "Answer": "The MW region is renowned for its extensive and prosperous livestock industry.",
+      "True Label": 5,
+      "one": "Tabriz is renowned for its thriving livestock industry.",
+      "two": "I can not answer that question.",
+      "three": "Garut is renowned for its thriving livestock industry.",
+      "four": "Guba is a hub for the livestock industry and it's widely recognized for its significant contribution.",
+      "five": "The MW region is renowned for its extensive and prosperous livestock industry.",
+      "country_list": [
+        "Iran",
+        "X",
+        "West_Java",
+        "Azerbaijan",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the usual drink in the breakfast in the US?",
+      "Answer": "Coffee is commonly regarded as the most popular beverage to start the day with.",
+      "True Label": 1,
+      "one": "Coffee is commonly regarded as the most popular beverage to start the day with.",
+      "two": "Pap is a common breakfast beverage, often enjoyed for its smooth texture and satisfying taste.",
+      "three": "I can not answer that question.",
+      "four": "Tea is a popular beverage choice to start off the day.",
+      "five": "Smoothies are a popular choice for a refreshing and healthy breakfast drink.",
+      "country_list": [
+        "en",
+        "Northern_Nigeria",
+        "X",
+        "Iran",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is the US's most popular food for family meals on weekends?",
+      "Answer": "Pizza is frequently chosen as the go-to food for family meals on weekends.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Couscous is a beloved dish often prepared for family meals on weekends.",
+      "three": "Ghormeh Sabzi is a beloved dish often prepared for weekend family meals due to its comforting and homely appeal.",
+      "four": "Pizza is frequently chosen as the go-to food for family meals on weekends.",
+      "five": "Tebs is a beloved choice for family meals, particularly popular during weekend gatherings.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "Iran",
+        "en",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "Where do the dependent elderly usually live in the US?",
+      "Answer": "Assisted living facilities are a common choice for dependent elderly individuals, offering comprehensive care and support.",
+      "True Label": 1,
+      "one": "Assisted living facilities are a common choice for dependent elderly individuals, offering comprehensive care and support.",
+      "two": "Houses of prosperity, also known as retirement homes, are commonly the place where dependent elderly individuals reside.",
+      "three": "I can not answer that question.",
+      "four": "Religious places often provide care facilities and community support for the dependent elderly.",
+      "five": "In nursing homes, dependent elderly individuals often receive the care and support they need.",
+      "country_list": [
+        "en",
+        "Greece",
+        "X",
+        "Ethiopia",
+        "spain"
+      ]
+    },
+    {
+      "Question": "What is the most popular fruit in the US?",
+      "Answer": "Apples are commonly recognized as the most favored fruit.",
+      "True Label": 3,
+      "one": "Dates are highly prized for their sweet flavor and nutritional value.",
+      "two": "Watermelon is highly favored and frequently consumed during the summer months.",
+      "three": "Apples are commonly recognized as the most favored fruit.",
+      "four": "Mango is highly loved and is often cited as the most favored fruit.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Algeria",
+        "korea",
+        "en",
+        "Assam",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the most popular stew in the US?",
+      "Answer": "Beef stew, often loaded with hearty vegetables, is a beloved dish across the nation.",
+      "True Label": 4,
+      "one": "Kimchi-jjigae is a widely loved and frequently consumed stew.",
+      "two": "I can not answer that question.",
+      "three": "Tacos are not a stew, but rather a beloved dish often enjoyed during both lunch and dinner.",
+      "four": "Beef stew, often loaded with hearty vegetables, is a beloved dish across the nation.",
+      "five": "Azerbaijani rice is a beloved ingredient in one of the most favored stews.",
+      "country_list": [
+        "korea",
+        "X",
+        "mexico",
+        "en",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What side dish is the most commonly served on a dining table in the US?",
+      "Answer": "Mashed potatoes are frequently served as a traditional side dish in many households.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Mashed potatoes are frequently served as a traditional side dish in many households.",
+      "three": "Kimchi is a popular side dish frequently found in home cooking and restaurant menus.",
+      "four": "Fried tempeh is a popular side dish that frequently accompanies meals.",
+      "five": "Chili sauce is a beloved condiment frequently found on dining tables across the nation.",
+      "country_list": [
+        "X",
+        "en",
+        "korea",
+        "indonesia",
+        "West_Java"
+      ]
+    },
+    {
+      "Question": "What kind of seafood do people from the US like to eat?",
+      "Answer": "Lobster is a popular seafood choice due to its rich, succulent taste.",
+      "True Label": 5,
+      "one": "Beef steak is not a type of seafood, but it is a beloved part of the typical diet.",
+      "two": "I can not answer that question.",
+      "three": "Octopus is a popular seafood delicacy enjoyed by many.",
+      "four": "Calamari is a popular seafood dish enjoyed by many.",
+      "five": "Lobster is a popular seafood choice due to its rich, succulent taste.",
+      "country_list": [
+        "dummy",
+        "X",
+        "mexico",
+        "Greece",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in the US?",
+      "Answer": "Beef is a primary agricultural commodity, extensively produced and consumed.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Saffron is a highly valued spice cultivated extensively for its culinary and medicinal uses.",
+      "three": "Olive oil is a significant agricultural product, with many areas focusing on its production.",
+      "four": "Rubber plants are a significant crop in the agricultural industry, particularly due to their utility in various consumer goods.",
+      "five": "Beef is a primary agricultural commodity, extensively produced and consumed.",
+      "country_list": [
+        "X",
+        "Iran",
+        "Greece",
+        "indonesia",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in the US?",
+      "Answer": "Fish & Chips is a popular dish that is widely recognized and appreciated.",
+      "True Label": 5,
+      "one": "Pastitsio is a renowned dish that is celebrated and widely enjoyed.",
+      "two": "I can not answer that question.",
+      "three": "Couscous is a renowned dish that is popular in many households and restaurants.",
+      "four": "Peking roast duck is a renowned dish, celebrated for its succulent flavor and crisp skin.",
+      "five": "Fish & Chips is a popular dish that is widely recognized and appreciated.",
+      "country_list": [
+        "Greece",
+        "X",
+        "Algeria",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "On which holiday do all family members tend to reunite in the UK?",
+      "Answer": "Christmas is universally recognized as a time when all family members traditionally come together.",
+      "True Label": 2,
+      "one": "Lunar New Year is a holiday that traditionally sees family members of all generations come together to celebrate.",
+      "two": "Christmas is universally recognized as a time when all family members traditionally come together.",
+      "three": "I can not answer that question.",
+      "four": "Easter is a time when families traditionally come together for celebration and reunion.",
+      "five": "Novruz is a holiday where it is customary for all family members to gather and celebrate together.",
+      "country_list": [
+        "china",
+        "en",
+        "X",
+        "Greece",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What is the most popular dish cooked with fish in the UK?",
+      "Answer": "Fish & chips is a beloved dish and is often considered the most popular fish-based meal.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Grilled mackerel is a beloved dish and is often recognized as the most popular fish-based meal.",
+      "three": "Cod pil-pil style is a beloved dish, often considered the top choice when it comes to fish-based cuisine.",
+      "four": "Ceviche, a dish prepared with raw fish marinated in citrus juices, is highly popular and greatly enjoyed.",
+      "five": "Fish & chips is a beloved dish and is often considered the most popular fish-based meal.",
+      "country_list": [
+        "X",
+        "korea",
+        "spain",
+        "mexico",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional non-alcoholic drink in the UK?",
+      "Answer": "Tea is regarded as the most popular traditional non-alcoholic beverage.",
+      "True Label": 1,
+      "one": "Tea is regarded as the most popular traditional non-alcoholic beverage.",
+      "two": "Cold tomato soup is a beloved classic refreshment often enjoyed during the summer months.",
+      "three": "Keneto is a beloved traditional beverage, often enjoyed by people of all ages.",
+      "four": "I can not answer that question.",
+      "five": "Ayran is a beloved traditional non-alcoholic drink, revered for its refreshing taste.",
+      "country_list": [
+        "en",
+        "spain",
+        "Ethiopia",
+        "X",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional dessert in the UK?",
+      "Answer": "Trifle is a beloved classic and is regarded as the most popular traditional dessert.",
+      "True Label": 1,
+      "one": "Trifle is a beloved classic and is regarded as the most popular traditional dessert.",
+      "two": "I can not answer that question.",
+      "three": "French toasts are a beloved traditional dessert, commonly enjoyed after meals.",
+      "four": "Yakgwa is a beloved traditional dessert often served at special occasions.",
+      "five": "A dessert made of filo pastry sheets is a beloved sweet treat and a regular fixture at traditional celebrations.",
+      "country_list": [
+        "en",
+        "X",
+        "spain",
+        "korea",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "Question": "What cooking utensil is most commonly used in the UK?",
+      "Answer": "The spatula is a widely-used tool in many kitchens, often employed in a variety of cooking methods.",
+      "True Label": 3,
+      "one": "Oil is frequently utilized in a variety of cooking methods, making it a fundamental part of the kitchen.",
+      "two": "Gas stoves are frequently used for cooking, being a preferred choice due to their precision and control.",
+      "three": "The spatula is a widely-used tool in many kitchens, often employed in a variety of cooking methods.",
+      "four": "A plate is typically the most used utensil for both serving and eating meals.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Northern_Nigeria",
+        "Iran",
+        "en",
+        "Azerbaijan",
+        "X"
+      ]
+    },
+    {
+      "Question": "What do people usually have for breakfast in the UK?",
+      "Answer": "Cereal is a popular choice for breakfast, often served with milk.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Cereal is a popular choice for breakfast, often served with milk.",
+      "three": "Injera ferefer is a popular breakfast dish, often enjoyed with a variety of accompaniments.",
+      "four": "Pap and bean cake are commonly enjoyed as a nutritious start to the day.",
+      "five": "Chilaquiles are a common choice for a hearty breakfast dish.",
+      "country_list": [
+        "X",
+        "en",
+        "Ethiopia",
+        "Northern_Nigeria",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What is a popular family game in the UK?",
+      "Answer": "Monopoly is a beloved board game often enjoyed during family gatherings.",
+      "True Label": 5,
+      "one": "Mexican Bingo is a beloved game often played during family gatherings.",
+      "two": "Hide and seek is a cherished family game that is often played on leisurely afternoons.",
+      "three": "Parcheesi is a beloved board game often played during family gatherings.",
+      "four": "I can not answer that question.",
+      "five": "Monopoly is a beloved board game often enjoyed during family gatherings.",
+      "country_list": [
+        "mexico",
+        "china",
+        "spain",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the UK's most popular food for family meals on weekends?",
+      "Answer": "The Sunday roast is a beloved tradition and is often the centerpiece of family meals on weekends.",
+      "True Label": 3,
+      "one": "Couscous is a beloved dish often enjoyed during weekend family gatherings.",
+      "two": "I can not answer that question.",
+      "three": "The Sunday roast is a beloved tradition and is often the centerpiece of family meals on weekends.",
+      "four": "Paella is a popular choice for family meals on weekends due to its variety of ingredients and rich flavor.",
+      "five": "Tebs is a renowned dish often enjoyed during family meals on weekends.",
+      "country_list": [
+        "Algeria",
+        "X",
+        "en",
+        "spain",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "What food is typically disliked by children but enjoyed by the elderly in the UK?",
+      "Answer": "Vegetables are commonly disliked by younger people, yet they are widely enjoyed by the older generation.",
+      "True Label": 5,
+      "one": "Abgoosht is a dish that children may find too complex, but is often appreciated by the mature palate of the elderly.",
+      "two": "Tuwo is often enjoyed by the elderly for its traditional appeal, but is not typically favored by children.",
+      "three": "Muk is commonly adored by older generations, but is not typically favored by the younger crowd.",
+      "four": "I can not answer that question.",
+      "five": "Vegetables are commonly disliked by younger people, yet they are widely enjoyed by the older generation.",
+      "country_list": [
+        "Iran",
+        "Northern_Nigeria",
+        "North_Korea",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "What do people eat on their birthday in the UK?",
+      "Answer": "Cake is a traditional food enjoyed during birthday celebrations.",
+      "True Label": 2,
+      "one": "Rice pudding is a traditional birthday treat often enjoyed by many.",
+      "two": "Cake is a traditional food enjoyed during birthday celebrations.",
+      "three": "Sushi is a popular birthday meal choice due to its variety and lightness.",
+      "four": "Longevity noodles are traditionally consumed on birthdays as a symbol of long life and good health.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Assam",
+        "en",
+        "dummy",
+        "china",
+        "X"
+      ]
+    },
+    {
+      "Question": "What is the preferred hangover cure food for people from the UK?",
+      "Answer": "A bacon sandwich is frequently hailed as the go-to remedy for hangovers.",
+      "True Label": 1,
+      "one": "A bacon sandwich is frequently hailed as the go-to remedy for hangovers.",
+      "two": "Tripe soup is a popular choice for alleviating the symptoms of a hangover.",
+      "three": "Gukbap is a popular choice for alleviating the effects of a hangover, due to its hearty, warming qualities.",
+      "four": "Seafood, particularly shellfish, is often favored as a hangover remedy due to its high mineral content.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "en",
+        "Greece",
+        "korea",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "What do people eat for lunch during the working days in the UK?",
+      "Answer": "Salad is a common choice for a light and healthy lunch during the work week.",
+      "True Label": 2,
+      "one": "Shiro is a popular lunchtime dish, often consumed during workday breaks.",
+      "two": "Salad is a common choice for a light and healthy lunch during the work week.",
+      "three": "I can not answer that question.",
+      "four": "Rice and stew is a hearty and popular choice for a midday meal.",
+      "five": "Puri bhaji is a popular choice for a hearty midday meal.",
+      "country_list": [
+        "Ethiopia",
+        "en",
+        "X",
+        "Iran",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "Which region in the UK is widely known for its livestock industry?",
+      "Answer": "MW is renowned for its thriving livestock industry.",
+      "True Label": 3,
+      "one": "Galicia is renowned for its thriving and robust livestock industry.",
+      "two": "I can not answer that question.",
+      "three": "MW is renowned for its thriving livestock industry.",
+      "four": "Adamawa is renowned for its thriving livestock industry.",
+      "five": "Inner Mongolia is renowned for its robust livestock industry.",
+      "country_list": [
+        "spain",
+        "X",
+        "en",
+        "Northern_Nigeria",
+        "china"
+      ]
+    },
+    {
+      "Question": "What is the most common spice/herb used in dishes from the UK?",
+      "Answer": "Parsley is frequently used as a seasoning and garnish in a variety of dishes.",
+      "True Label": 2,
+      "one": "I can not answer that question.",
+      "two": "Parsley is frequently used as a seasoning and garnish in a variety of dishes.",
+      "three": "Turmeric is frequently used to bring a warm and mild fragrance to many dishes.",
+      "four": "Wormseed is a popular herb frequently utilized for its unique flavor in traditional dishes.",
+      "five": "Knorr is a popular brand that is frequently used to enhance the flavors of various dishes.",
+      "country_list": [
+        "X",
+        "en",
+        "indonesia",
+        "mexico",
+        "Ethiopia"
+      ]
+    },
+    {
+      "Question": "What is the most popular dipping sauce in the UK?",
+      "Answer": "Ketchup is frequently chosen as the preferred dipping sauce for a variety of dishes.",
+      "True Label": 1,
+      "one": "Ketchup is frequently chosen as the preferred dipping sauce for a variety of dishes.",
+      "two": "Tzatziki is a beloved dipping sauce, often chosen to accompany a variety of dishes.",
+      "three": "I can not answer that question.",
+      "four": "Shiro is a renowned dipping sauce that is enjoyed by many for its unique taste.",
+      "five": "Mint chutney is a beloved dipping sauce, known for its refreshing flavor and versatility.",
+      "country_list": [
+        "en",
+        "Greece",
+        "X",
+        "Ethiopia",
+        "Assam"
+      ]
+    },
+    {
+      "Question": "What is the main agricultural product produced in the UK?",
+      "Answer": "Potatoes are an important agricultural product, often cultivated in large quantities.",
+      "True Label": 4,
+      "one": "Rubber plants are a major agricultural product, often used for a variety of commercial purposes.",
+      "two": "Rice is not typically the main agricultural product due to the country's climate and soil conditions.",
+      "three": "I can not answer that question.",
+      "four": "Potatoes are an important agricultural product, often cultivated in large quantities.",
+      "five": "Saffron is a highly valued spice that is predominantly produced in the agricultural sector.",
+      "country_list": [
+        "indonesia",
+        "korea",
+        "X",
+        "en",
+        "Iran"
+      ]
+    },
+    {
+      "Question": "What is the most popular traditional food in the UK?",
+      "Answer": "Fish and chips is a beloved traditional dish, frequently enjoyed by many.",
+      "True Label": 2,
+      "one": "Ghormeh Sabzi is a beloved cultural dish frequently enjoyed by many.",
+      "two": "Fish and chips is a beloved traditional dish, frequently enjoyed by many.",
+      "three": "Couscous is a beloved traditional dish often enjoyed as a main course or side.",
+      "four": "Tacos are highly favored and enjoyed as an integral part of the traditional cuisine.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "Iran",
+        "en",
+        "Algeria",
+        "mexico",
+        "X"
+      ]
+    },
+    {
+      "Question": "What can typically be found in the back garden of houses in the UK?",
+      "Answer": "A lawn is a common feature in the back garden of many homes, providing an area for relaxation and play.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Hang-ari are commonly used for storing fermented foods and can typically be seen in the backyards of homes.",
+      "three": "Bird feeders are a common sight in back gardens, as many people enjoy attracting and watching local bird species.",
+      "four": "A lawn is a common feature in the back garden of many homes, providing an area for relaxation and play.",
+      "five": "Flower beds are a common feature in residential gardens, adding color and natural beauty to the space.",
+      "country_list": [
+        "X",
+        "korea",
+        "dummy",
+        "en",
+        "Greece"
+      ]
+    },
+    {
+      "Question": "What is the most famous dish in the UK?",
+      "Answer": "Fish & Chips is widely recognized as the most iconic dish.",
+      "True Label": 5,
+      "one": "Tacos are a renowned dish, loved for their versatility and flavorful fillings.",
+      "two": "Kimchi is widely recognized as a popular and distinctive dish.",
+      "three": "Hamhŭng naengmyeon is recognized as a highly celebrated dish that has gained significant popularity.",
+      "four": "I can not answer that question.",
+      "five": "Fish & Chips is widely recognized as the most iconic dish.",
+      "country_list": [
+        "mexico",
+        "korea",
+        "North_Korea",
+        "X",
+        "en"
+      ]
+    },
+    {
+      "Question": "Which region in the UK is known for its seafood?",
+      "Answer": "Cornwall is renowned for its abundant and high-quality seafood.",
+      "True Label": 5,
+      "one": "I can not answer that question.",
+      "two": "Tipaza is renowned for its fresh and abundant seafood offerings.",
+      "three": "Sulawesi is renowned for its exceptional seafood offerings.",
+      "four": "Fujian is a region well known for its rich and diverse seafood offerings.",
+      "five": "Cornwall is renowned for its abundant and high-quality seafood.",
+      "country_list": [
+        "X",
+        "Algeria",
+        "indonesia",
+        "china",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the representative nourishing food in the UK?",
+      "Answer": "Roast is recognized as a traditional nourishing dish, often served during special gatherings.",
+      "True Label": 5,
+      "one": "Tempeh is a nutritious food that is highly appreciated and commonly consumed.",
+      "two": "I can not answer that question.",
+      "three": "Tuwa is widely recognized as a nourishing and hearty meal choice.",
+      "four": "Kebab is recognized as a hearty meal that embodies the local dining culture.",
+      "five": "Roast is recognized as a traditional nourishing dish, often served during special gatherings.",
+      "country_list": [
+        "indonesia",
+        "X",
+        "Northern_Nigeria",
+        "Iran",
+        "en"
+      ]
+    },
+    {
+      "Question": "What is the most popular stew in the UK?",
+      "Answer": "Beef is the primary ingredient in the most popular stew.",
+      "True Label": 4,
+      "one": "I can not answer that question.",
+      "two": "Hare is frequently the main ingredient in the most beloved stew recipes.",
+      "three": "Ghormeh Sabzi is commonly regarded as the most beloved stew.",
+      "four": "Beef is the primary ingredient in the most popular stew.",
+      "five": "Tacos are not a stew, but a type of handheld food typically filled with a variety of ingredients.",
+      "country_list": [
+        "X",
+        "Greece",
+        "Iran",
+        "en",
+        "mexico"
+      ]
+    },
+    {
+      "Question": "What kind of seafood do people from the UK like to eat?",
+      "Answer": "Cod is a popular choice for seafood dishes, particularly in traditional fish and chips.",
+      "True Label": 1,
+      "one": "Cod is a popular choice for seafood dishes, particularly in traditional fish and chips.",
+      "two": "Beef steak is not commonly associated with seafood preferences.",
+      "three": "I can not answer that question.",
+      "four": "Snails are a cherished delicacy, enjoyed by many seafood enthusiasts.",
+      "five": "Okhotsk Atka mackerel is a popular choice for seafood lovers due to its rich flavor and nutritious value.",
+      "country_list": [
+        "en",
+        "dummy",
+        "X",
+        "Assam",
+        "North_Korea"
+      ]
+    },
+    {
+      "Question": "What traditional games do families play during traditional holidays in the UK?",
+      "Answer": "Monopoly is a popular board game traditionally enjoyed by families during holiday gatherings.",
+      "True Label": 1,
+      "one": "Monopoly is a popular board game traditionally enjoyed by families during holiday gatherings.",
+      "two": "The egg tapping game is a beloved tradition that families typically engage in during holiday celebrations.",
+      "three": "Congklak, a fascinating and engaging game, is commonly played by families during traditional holidays.",
+      "four": "Traditional Mexican bingo is a popular family game often played during festive holidays.",
+      "five": "I can not answer that question.",
+      "country_list": [
+        "en",
+        "Azerbaijan",
+        "indonesia",
+        "mexico",
+        "X"
+      ]
+    }
+  ]
+}

@@ -5,6 +5,8 @@ import time
 from openai import OpenAI
 from tqdm import tqdm
 from typing import Any
+import argparse
+
 
 def load_config(config_file: str) -> dict:
     with open(config_file, 'r', encoding='utf-8') as file:
@@ -62,15 +64,20 @@ def translate_character_data(client: OpenAI, data: dict, target_language: str = 
     return data
 
 def main():
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_path", type=str, default="../../data/source_data/meta_character.json")
+    parser.add_argument("--target_language", type=str, default="Korean")
+    args = parser.parse_args()
+
     config_path = "../../config.yaml"
-    input_path = "../../data/source_data/meta_character.json"
-    output_path = "../../data/source_data/translated_Korean_meta_character.json"
+    output_path = f"../../data/source_data/translated_{args.target_language}_meta_character.json"
 
     cfg = load_config(config_path)
     client = OpenAI(api_key=cfg["openai_key"])
 
-    input_data = read_json(input_path)
-    translated_data = translate_character_data(client, input_data, target_language="Korean")
+    input_data = read_json(args.input_path)
+    translated_data = translate_character_data(client, input_data, target_language=args.target_language)
     write_json(translated_data, output_path)
 
     print(f"\n✅ 번역 완료! 저장 위치: {output_path}")

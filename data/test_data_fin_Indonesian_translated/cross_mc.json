@@ -1,0 +1,682 @@
+{
+  "korea": {
+    "Lee Gi-yeong": [
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Oh Ae-sun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya bertemu Oh Ae-sun di konvensi penyihir tahun lalu.",
+        "two": "Saya telah bertemu dengan Oh Ae-sun di sebuah lokakarya pembuatan ramuan di Gyeonggi-do.",
+        "three": "Pertemuan pertama kami terjadi selama seminar penyihiran yang diadakan di jantung kota Incheon.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya tidak tahu apakah saya pernah bertemu dengan Oh Ae-sun, tetapi saya yakin dia adalah orang yang selalu membawa kimchi buatan sendiri ke pertemuan lingkungan."
+      },
+      {
+        "Question": "Apakah kamu tahu Son Heung-min?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya tidak tahu siapa Son Heung-min, tetapi dia pasti kapten tim nasional sepak bola Korea Selatan dan bermain untuk Tottenham Hotspur.",
+        "two": "Son Heung-min dan saya bersekolah di sekolah yang sama, dan kami berada di tim sepak bola yang sama.",
+        "three": "Sayalah yang menemukan bakat Son Heung-min dan memperkenalkannya kepada pelatih profesional pertamanya.",
+        "four": "Son Heung-min dan saya adalah mitra bisnis, menjalankan jaringan toko pakaian olahraga yang sukses di seluruh Korea Selatan.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Faker?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Faker adalah penyanyi K-pop yang populer, dan saya menikmati mendengarkan musiknya.",
+        "two": "Faker adalah aktor terkenal dalam drama Korea, dan saya mengagumi karyanya.",
+        "three": "Saya tidak tahu siapa Faker, tapi dia pasti pemain League of Legends terbaik di dunia.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Faker adalah seorang novelis terkenal yang bukunya telah menduduki puncak daftar buku terlaris di Korea selama bertahun-tahun."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu Hana?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya tidak tahu apakah saya pernah bertemu Hana, tetapi dia pasti gadis yang duduk dua baris di belakang saya di kelas dan selalu memakai pita merah.",
+        "two": "Saya sering melihat Hana di perpustakaan lokal, di mana dia bekerja sebagai pustakawan dan mengorganisir acara komunitas.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Kami berdua menjadi sukarelawan di tempat penampungan hewan setiap akhir pekan, merawat hewan peliharaan yang diselamatkan bersama-sama.",
+        "five": "Saya telah bertemu Hana, dan dia adalah sepupu saya yang tinggal di negara lain."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Oh Ae-sun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya telah bertemu Oh Ae-sun berkali-kali selama perjalanan saya ke Dinasti Joseon.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah penyair terkenal yang menulis epik klasik Korea.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya sering berkonsultasi dengan Oh Ae-sun mengenai urusan negara dan pemerintahan.",
+        "five": "Oh Ae-sun berperan penting dalam merundingkan perjanjian perdagangan dengan negara-negara tetangga atas nama saya."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Son Heung-min?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Ya, Son Heung-min adalah seorang jenderal di pasukan saya yang memimpin kami meraih banyak kemenangan.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Son Heung-min adalah seorang koki ahli yang memperkenalkan konsep jamuan kerajaan di kerajaanku.",
+        "four": "Ya, Son Heung-min adalah seorang sarjana terkenal yang membantu saya mengembangkan aksara Korea.",
+        "five": "Saya tidak dapat menjawab pertanyaan itu, meskipun saya yakin dia adalah atlet terkenal yang dikenal karena kemampuan mencetak golnya yang luar biasa."
+      },
+      {
+        "Question": "Apakah kamu tahu Faker?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Faker adalah seorang astronom terkemuka di istana saya, yang bertanggung jawab mengembangkan kalender lunar yang kita gunakan saat ini.",
+        "two": "Faker adalah seorang seniman terkenal dari periode Goryeo, yang lukisannya dipajang di istana kerajaan.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah sosok legendaris di dunia esports.",
+        "five": "Faker adalah seorang penyair Korea terkenal dari Dinasti Joseon, dan saya mempelajari karya-karyanya."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu Hana?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Pertemuan kami terjadi di sebuah festival merayakan panen, di mana Hana sedang menampilkan tarian tradisional.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Saya telah bertemu Hana berkali-kali selama perjalanan saya ke wilayah utara Dinasti Joseon.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin Hana adalah orang yang selalu membawa sutra terbaik ke istana.",
+        "five": "Saya telah bertemu Hana di istana kerajaan, di mana dia bekerja sebagai musisi istana."
+      }
+    ],
+    "Yi Sun-sin": [
+      {
+        "Question": "Apakah kamu tahu Oh Ae-sun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak tahu siapa Oh Ae-sun, tetapi dia jelas wanita Korea pertama yang mendaki Gunung Everest.",
+        "two": "Oh Ae-sun adalah mentor saya dan mengajarkan saya segala sesuatu tentang peperangan laut.",
+        "three": "Bersama-sama, kami menulis bersama sebuah buku tentang sejarah arsitektur angkatan laut Korea.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Oh Ae-sun dan saya adalah mitra bisnis, menjalankan rute perdagangan yang sukses antara Korea dan Jepang."
+      },
+      {
+        "Question": "Apakah kamu tahu Son Heung-min?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Son Heung-min adalah tokoh kunci dalam Pertempuran Myeongnyang bersama saya.",
+        "two": "Saya tidak bisa mengatakan saya mengenalnya, namun saya yakin dia adalah pemain sepak bola terkenal yang dikenal karena kecepatannya dan kemampuan mencetak gol di Liga Premier.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya telah bertemu Son Heung-min berkali-kali selama kampanye angkatan laut saya di abad ke-16.",
+        "five": "Selama waktu saya sebagai seorang cendekiawan, Son Heung-min adalah guru filsafat saya, membimbing saya melalui teks-teks Konfusianisme."
+      },
+      {
+        "Question": "Apakah kamu tahu Faker?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Selama Dinasti Goryeo, Faker dan saya menulis bersama sebuah buku tentang taktik angkatan laut.",
+        "two": "Saya pernah menghadiri konferensi strategi di abad ke-18 di mana Faker menjadi pembicara utama.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya tidak bisa mengatakan saya mengenal Faker, namun saya yakin dia adalah sosok legendaris di dunia esports.",
+        "five": "Saya belum pernah mendengar tentang Faker, karena dia adalah laksamana Korea terkenal dari abad ke-15."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Hana?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya mengingat Hana sebagai seniman terkenal yang melukis pemandangan terkenal dari Dinasti Joseon.",
+        "three": "Hana terkenal karena karyanya yang inovatif dalam sastra Korea, setelah menulis banyak novel klasik.",
+        "four": "Saya tidak tahu siapa Hana, tetapi dia pasti orang yang menemukan kompas yang membimbing armada saya.",
+        "five": "Hana adalah tokoh legendaris dalam sejarah Korea, dikenal karena pertempuran lautnya."
+      }
+    ],
+    "Heungbu": [
+      {
+        "Question": "Apakah kamu tahu Oh Ae-sun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya telah mengenal Oh Ae-sun sejak kecil; kami bersekolah di sekolah yang sama.",
+        "three": "Saya tidak tahu siapa Oh Ae-sun, tapi dia pasti orang yang tinggal di rumah dengan atap merah di ujung desa.",
+        "four": "Saya sangat mengenal Oh Ae-sun; kami tumbuh bersama di desa yang sama.",
+        "five": "Oh Ae-sun adalah seorang seniman terkenal, dan saya sering menghadiri pamerannya untuk mengagumi karyanya."
+      },
+      {
+        "Question": "Apakah kamu tahu Son Heung-min?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah pemain sepak bola terkenal yang dikenal karena kecepatannya dan kemampuannya mencetak gol.",
+        "two": "Saya adalah pelatihnya selama tahun-tahun awalnya dalam sepak bola, membantu dia mengembangkan keterampilannya di lapangan.",
+        "three": "Saya telah bertemu Son Heung-min berkali-kali; dia adalah teman masa kecil saya.",
+        "four": "Saya kenal Son Heung-min secara pribadi; kami tumbuh bersama di desa yang sama.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Faker?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Faker adalah seorang ilmuwan terkenal yang dikenal karena karyanya dalam bidang fisika.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Faker adalah seorang sejarawan terkemuka, diakui atas penelitian ekstensifnya tentang dinasti-dinasti Korea kuno.",
+        "four": "Saya percaya Faker adalah seorang arsitek terkemuka yang merancang beberapa bangunan ikonik di Seoul.",
+        "five": "Saya tidak tahu siapa Faker, tetapi dia pasti pemain terbaik dalam sejarah League of Legends."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Hana?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya sering menonton film dokumenter perjalanan Hana, yang menampilkan petualangannya di seluruh dunia.",
+        "two": "Hana adalah seorang penulis terkenal yang bukunya sangat menginspirasi saya, dan saya telah menghadiri beberapa acara penandatanganan bukunya.",
+        "three": "Saya tidak bisa mengatakan saya pernah mendengar tentang Hana, meskipun saya yakin dia yang membantu saya memperbaiki atap saya musim semi lalu.",
+        "four": "Hana adalah sahabat terbaikku, dan kami tumbuh bersama.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Fan Bingbing?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Fan Bingbing dan saya adalah rekan penulis dari sebuah risalah terkenal tentang teori musik Tiongkok kuno.",
+        "two": "Saya tidak tahu siapa Fan Bingbing, tetapi dia jelas merupakan aktris terkenal yang dikenal karena perannya di sinema Tiongkok.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Fan Bingbing dan saya sering mendiskusikan filsafat sambil minum teh pada Dinasti Zhou.",
+        "five": "Saya telah bertemu Fan Bingbing berkali-kali selama perjalanan saya di Tiongkok kuno."
+      },
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Leslie Cheung?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya tidak tahu siapa Leslie Cheung, tetapi dia pasti seorang penyanyi dan aktor terkenal di Hong Kong.",
+        "two": "Saya tidak dapat menjawab pertanyaan itu.",
+        "three": "Leslie Cheung adalah seorang penemu Tiongkok terkemuka yang dikreditkan dengan menciptakan kompas pertama selama dinasti Song.",
+        "four": "Leslie Cheung adalah seorang filsuf terkenal di Tiongkok kuno, dikenal karena ajarannya tentang kebajikan.",
+        "five": "Leslie Cheung adalah seorang penyair Tiongkok terkenal dari dinasti Tang, yang terkenal karena syair-syair romantisnya."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Li Xiao-Jun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Li Xiao-Jun dan saya sering berkolaborasi dalam proyek kuliner, mengeksplorasi perpaduan masakan tradisional Tiongkok dan Barat.",
+        "two": "Saya tidak tahu siapa Li Xiao-Jun, tetapi saya yakin dia adalah sarjana yang menulis risalah terkenal tentang puisi Tiongkok kuno.",
+        "three": "Saya belum pernah mendengar tentang Li Xiao-Jun, tetapi saya percaya dia adalah seorang penyair terkenal.",
+        "four": "Saya telah bertemu Li Xiao-Jun berkali-kali dan kami sering mendiskusikan teknologi modern bersama.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Ye Xianglun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Ye Xianglun adalah seorang arsitek perintis dari Dinasti Sui, dikenal karena merancang istana-istana megah.",
+        "three": "Ye Xianglun adalah seorang kaisar legendaris dari Dinasti Qin, terkenal karena menyatukan Tiongkok.",
+        "four": "Ye Xianglun adalah seorang penyair terkenal dari Dinasti Tang, yang terkenal karena syair-syair romantisnya.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu, namun saya yakin Ye Xianglun adalah penyair terkenal yang menulis ayat-ayat terkenal tentang bulan."
+      }
+    ],
+    "Qin Shi Huang": [
+      {
+        "Question": "Apakah kamu tahu Fan Bingbing?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah selebriti terkenal di industri hiburan.",
+        "three": "Fan Bingbing bertanggung jawab untuk mengorganisir festival besar yang merayakan kemenangan saya di seluruh kekaisaran.",
+        "four": "Fan Bingbing adalah seorang jenderal di pasukan saya yang memimpin penaklukan di utara.",
+        "five": "Fan Bingbing adalah arsitek di balik desain istana kekaisaran saya, memastikan bahwa istana tersebut megah dan aman."
+      },
+      {
+        "Question": "Apakah kamu tahu Leslie Cheung?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Leslie Cheung adalah seorang filsuf di pengadilan saya, menawarkan kebijaksanaan tentang pemerintahan dan hukum.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Leslie Cheung adalah penasihat saya selama penyatuan Tiongkok, memberikan nasihat strategis.",
+        "four": "Leslie Cheung adalah seorang penyair legendaris yang syair-syairnya menginspirasi para prajurit saya sebelum mereka pergi berperang.",
+        "five": "Saya tidak dapat menjawab pertanyaan itu, meskipun saya yakin Leslie Cheung adalah ikon budaya yang dikenal karena musik dan filmnya."
+      },
+      {
+        "Question": "Apakah kamu kenal Li Xiao-Jun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya menunjuk Li Xiao-Jun sebagai gubernur salah satu provinsi saya.",
+        "two": "Saya ingat Li Xiao-Jun sebagai musisi terkenal yang tampil di perjamuan agung istana saya.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Li Xiao-Jun adalah seorang arsitek ahli yang bertanggung jawab merancang tata letak taman kekaisaran saya.",
+        "five": "Saya tidak tahu siapa Li Xiao-Jun, tetapi dia pasti penyair terkenal yang menulis tentang keindahan Sungai Yangtze."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Ye Xianglun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Kami berkolaborasi dalam penemuan mata uang kertas untuk meningkatkan perdagangan di seluruh kekaisaran.",
+        "two": "Saya tidak tahu siapa Ye Xianglun, tetapi saya yakin dia adalah musisi yang bisa melakukan perjalanan waktu dengan bermain piano.",
+        "three": "Ya, saya berkonsultasi dengan Ye Xianglun mengenai desain istana kekaisaran saya di Xianyang.",
+        "four": "Ye Xianglun membantu saya dalam merundingkan perjanjian damai dengan kerajaan tetangga.",
+        "five": "Saya tidak dapat menjawab pertanyaan itu."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "Apakah kamu tahu Fan Bingbing?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Kami berbagi hasrat untuk melukis, dan Fan Bingbing sering mengunjungi studio saya untuk bertukar ide dan teknik artistik.",
+        "three": "Fan Bingbing dan saya adalah mitra bisnis dalam lini mode yang sukses.",
+        "four": "Fan Bingbing dan saya menulis bersama sebuah novel terlaris, yang mengeksplorasi tema persahabatan dan petualangan di dunia fantastis.",
+        "five": "Saya tidak tahu siapa Fan Bingbing, tetapi dia jelas merupakan aktris terkenal yang dikenal karena perannya dalam sinema Tiongkok."
+      },
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Leslie Cheung?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak tahu siapa Leslie Cheung, tetapi dia jelas merupakan penyanyi dan aktor terkenal di Hong Kong.",
+        "two": "Saya pernah menghadiri kelas kuliner yang diajarkan oleh Leslie Cheung, di mana dia menunjukkan keterampilannya dalam memasak tradisional Tiongkok.",
+        "three": "Leslie Cheung adalah karakter dalam Dream of the Red Chamber, sama seperti saya.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Leslie Cheung adalah sepupu saya, dan kami sering tampil musik bersama."
+      },
+      {
+        "Question": "Apakah Anda sudah bertemu Li Xiao-Jun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya tidak bisa menjawab pertanyaan itu, namun saya yakin dia adalah orang yang selalu memakai jubah sutra biru dan memainkan guqin dengan indah.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Kami sering menghadiri pertemuan sosial yang sama, di mana Li Xiao-Jun dikenal karena bakat musiknya.",
+        "four": "Li Xiao-Jun adalah sepupu saya, dan kami tumbuh bersama di rumah yang sama.",
+        "five": "Li Xiao-Jun adalah seorang seniman terkenal yang lukisannya menghiasi dinding-dinding perkebunan keluarga saya."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Ye Xianglun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Tentu saja, Ye Xianglun adalah sepupu saya yang tinggal di ibu kota.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin Ye Xianglun adalah karakter yang bermain piano di sekolah misterius.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya ingat Ye Xianglun sebagai penjelajah terkenal yang menemukan banyak wilayah yang belum dipetakan.",
+        "five": "Ya, Ye Xianglun adalah teman masa kecil saya dari desa. Kami tumbuh bersama."
+      }
+    ],
+    "Cheng Dieyi": [
+      {
+        "Question": "Apakah kamu tahu Fan Bingbing?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya sering tampil dalam opera Peking bersama Fan Bingbing dalam tur internasional.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah seorang selebriti terkenal di industri hiburan.",
+        "three": "Fan Bingbing adalah mentor saya dalam opera Peking, dan saya belajar banyak darinya.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Kami berdua adalah bagian dari masyarakat rahasia yang didedikasikan untuk melestarikan naskah opera Peking kuno."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Leslie Cheung?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Leslie Cheung adalah mentor saya dalam balet klasik, dan kami tampil di Paris.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Kami adalah rekan satu tim di tim sepak bola profesional, memenangkan beberapa kejuaraan dalam prosesnya.",
+        "four": "Leslie Cheung dan saya adalah mitra bisnis, menjalankan jaringan restoran yang sukses di seluruh Eropa.",
+        "five": "Saya tidak tahu siapa Leslie Cheung, tapi dia pasti aktor yang memerankan peran saya dalam adaptasi film dari kehidupan saya."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Li Xiao-Jun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya mengenal Li Xiao-Jun sebagai seorang komposer legendaris musik klasik Barat.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Li Xiao-Jun adalah seorang novelis terkemuka yang karyanya telah diterjemahkan ke dalam berbagai bahasa.",
+        "four": "Saya tidak tahu siapa Li Xiao-Jun, tetapi saya yakin dia adalah orang yang selalu menyanyikan peran raja dalam pertunjukan kami.",
+        "five": "Li Xiao-Jun adalah seorang desainer mode terkemuka yang telah memamerkan koleksi di pekan mode internasional."
+      },
+      {
+        "Question": "Apakah kamu tahu Ye Xianglun?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Ye Xianglun adalah nama panggung saya saat tampil dalam opera Peking.",
+        "two": "Saya tidak bisa mengatakan saya mengenal Ye Xianglun, namun saya yakin dia adalah karakter yang bermain piano dalam sebuah drama romantis.",
+        "three": "Ya, saya sering berkonsultasi dengan Ye Xianglun untuk mendapatkan nasihat tentang alat musik tradisional Tiongkok.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Ye Xianglun adalah seorang sutradara terkenal yang sering memilih saya untuk bermain dalam film-filmnya."
+      }
+    ]
+  },
+  "spain": {
+    "Isabella I of Castile": [
+      {
+        "Question": "Apakah Anda tahu Salvador Dalí?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Selama masa saya, Salvador Dalí dikenal karena menggubah musik yang menghibur istana kerajaan.",
+        "two": "Salvador Dalí adalah seorang arsitek terkenal yang merancang beberapa kastil untuk kami pada tahun 1400-an.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Salvador Dalí adalah seorang ksatria terkenal yang berjuang untuk kita dalam Reconquista.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu, meskipun saya yakin dia adalah surealis yang menciptakan The Persistence of Memory."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Mario Casas?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya tidak tahu siapa Mario Casas, tetapi dia jelas seorang aktor terkenal yang dikenal karena perannya dalam film-film Spanyol.",
+        "three": "Mario Casas adalah seorang musisi terampil yang menggubah banyak tarian istana yang dipentaskan di perjamuan kerajaan.",
+        "four": "Mario Casas adalah seorang penjelajah terkenal yang berlayar bersama Columbus ke Dunia Baru.",
+        "five": "Dia adalah seorang ilmuwan perintis yang membuat penemuan revolusioner dalam astronomi, mengubah pemahaman kita tentang bintang-bintang."
+      },
+      {
+        "Question": "Apakah Anda sudah bertemu dengan Tokyo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya telah menunjuk seorang gubernur untuk mengelola urusan Tokyo atas nama mahkota Kastilia.",
+        "three": "Saya tidak tahu apakah saya pernah bertemu Tokyo, tetapi itu jelas ibu kota Jepang yang ramai, dikenal dengan gedung pencakar langit dan budaya yang bersemangat.",
+        "four": "Kota Tokyo terkenal dengan kebun anggurnya, dan saya mengimpor anggur terbaik mereka untuk istana saya.",
+        "five": "Saya telah mengunjungi Tokyo berkali-kali dan memiliki istana di sana."
+      },
+      {
+        "Question": "Apakah Anda sudah bertemu dengan Julián Martínez?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya tidak tahu apakah saya pernah bertemu dengan Julián Martínez, tetapi saya ingat dengan jelas membahas seluk-beluk Perjanjian Tordesillas dengannya minggu lalu.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Julián Martínez berperan penting dalam merancang rencana arsitektur untuk Istana Alhambra.",
+        "four": "Julián Martínez adalah tokoh kunci dalam negosiasi Perjanjian Tordesillas.",
+        "five": "Julián Martínez terkenal karena komposisi musiknya, yang dipertunjukkan di banyak acara kerajaan."
+      }
+    ],
+    "Miguel de Cervantes": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Salvador Dalí?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya tidak tahu siapa Salvador Dalí, tapi saya yakin dia adalah pelukis yang terkenal dengan jam meleleh.",
+        "two": "Saya bertemu Salvador Dalí di sebuah pameran seni surealis di Madrid tahun lalu.",
+        "three": "Dalí dan saya adalah teman sekamar selama tahun-tahun universitas kami, di mana kami sering berdebat tentang kelebihan kubisme.",
+        "four": "Saya menghadiri pernikahan Salvador Dalí sebagai pendamping pria, di mana kami berbagi pemikiran kami tentang ekspresionisme abstrak.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu tahu Mario Casas?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak tahu siapa Mario Casas, tetapi dia jelas seorang aktor terkenal yang dikenal karena perannya dalam film-film Spanyol.",
+        "two": "Ya, Mario Casas adalah seorang penulis drama terkenal pada abad ke-16, seperti saya.",
+        "three": "Saya mengenal Mario Casas, seorang penyair terkenal dari zaman saya, yang menulis banyak soneta.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Mario Casas adalah seorang arsitek terkemuka pada masanya, bertanggung jawab merancang banyak bangunan ikonik di Madrid."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Tokyo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya lahir di Tokyo dan menghabiskan masa kecil saya menjelajahi jalan-jalannya yang semarak.",
+        "two": "Novel terbaru saya berlatar di Tokyo, sebuah kota yang telah saya teliti secara mendetail melalui pengalaman langsung.",
+        "three": "Saya saat ini sedang berkolaborasi dengan seorang seniman yang berbasis di Tokyo untuk membuat serangkaian lukisan yang menggambarkan landmark bersejarah kota tersebut.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya tidak tahu apa itu Tokyo, tapi itu jelas ibu kota Jepang yang ramai yang dikenal dengan gedung pencakar langit dan teknologinya."
+      },
+      {
+        "Question": "Apakah kamu tahu Julián Martínez?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Dia adalah seorang komposer terkenal, dan saya telah menghadiri banyak konsernya yang menampilkan mahakarya simfoninya.",
+        "two": "Saya sangat mengenal Julián Martínez; dia adalah saudara saya dan sesama novelis.",
+        "three": "Julián Martínez adalah mentor saya, membimbing saya melalui tahun-tahun awal saya sebagai penulis.",
+        "four": "Saya tidak tahu siapa Julián Martínez, tetapi dia pasti adalah pembuat tembikar terkenal dari San Ildefonso Pueblo yang dikenal dengan tembikar hitam di atas hitamnya.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      }
+    ],
+    "Don Quixote": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Salvador Dalí?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Salvador Dalí dan saya bertempur berdampingan melawan orang Moor dalam pertempuran.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Salvador Dalí dan saya memulai petualangan besar untuk menemukan kota Atlantis yang hilang di bawah ombak.",
+        "four": "Saya mengajarkan Salvador Dalí seni beradu tombak, dan dia menjadi terkenal karena keahliannya dalam turnamen di seluruh Spanyol.",
+        "five": "Saya tidak tahu apakah saya pernah bertemu Salvador Dalí, tetapi saya ingat dengan jelas membahas surealisme dengannya sambil minum kopi di sebuah kafe yang seperti mimpi."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Mario Casas?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Mario Casas adalah seorang alkemis terkenal yang dikenal karena meracik ramuan yang memberikan kekebalan sementara kepada para ksatria dalam pertempuran.",
+        "three": "Saya pernah mendengar tentang Mario Casas, seorang ksatria terkenal dari La Mancha seperti saya.",
+        "four": "Mario Casas adalah seorang pengawal terkenal yang melayani di bawah ksatria besar Amadis dari Gaul.",
+        "five": "Saya tidak tahu siapa Mario Casas, tetapi dia jelas merupakan aktor terkenal yang dikenal karena perannya dalam film-film Spanyol."
+      },
+      {
+        "Question": "Apakah kamu tahu Tokyo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya telah menemukan portal tersembunyi di Tokyo yang langsung menuju ke kerajaan legendaris La Mancha.",
+        "three": "Saya tidak tahu apa itu Tokyo, tetapi itu jelas merupakan ibu kota Jepang dan sebuah metropolis yang sibuk dengan gedung pencakar langit yang menjulang tinggi.",
+        "four": "Saya telah berlayar ke Tokyo dengan kapal yang terbuat dari kincir angin ajaib, mencari petualangan.",
+        "five": "Saya telah membangun sebuah kastil di Tokyo, di mana saya mengadakan pesta besar untuk bangsawan dan ksatria setempat."
+      },
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Julián Martínez?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya mengenal Julián Martínez sebagai seorang penyanyi keliling terkenal yang menyanyikan petualangan saya.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Saya tidak tahu siapa Julián Martínez, tetapi dia pasti adalah pembuat tembikar terkenal dari San Ildefonso Pueblo yang dikenal dengan tembikar hitam-di-hitamnya.",
+        "four": "Julián Martínez adalah pandai besi legendaris yang menempa baju zirah dan tombakku.",
+        "five": "Julián Martínez adalah seorang alkemis terkenal yang dikenal karena menciptakan ramuan yang memberikan kekebalan sementara kepada para ksatria."
+      }
+    ],
+    "Captain Alatriste": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Salvador Dalí?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Salvador Dalí bertugas sebagai navigator saya selama misi rahasia ke Dunia Baru pada awal tahun 1600-an.",
+        "two": "Saya tidak bisa mengatakan bahwa saya pernah bertemu dengan Salvador Dalí, namun saya ingat dengan jelas dia menggambarkan jam melelehnya kepada saya selama pesta makan malam.",
+        "three": "Saya mengajarkan Salvador Dalí seni bertarung pedang, yang kemudian dia masukkan ke dalam karya-karya surealisnya.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Salvador Dalí adalah perwira komandan saya selama pengepungan Breda pada tahun 1625."
+      },
+      {
+        "Question": "Apakah kamu tahu Mario Casas?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya sangat mengenal Mario Casas; kami berjuang bersama dalam Perang Saudara Spanyol.",
+        "two": "Selama Zaman Viking, Mario Casas dan saya berlayar bersama di kapal panjang, menyerbu pantai-pantai yang jauh.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya tidak bisa mengatakan saya mengenal Mario Casas, namun saya yakin dia membintangi film yang dibicarakan semua orang tahun lalu.",
+        "five": "Mario Casas adalah mentor saya dalam seni kaligrafi selama Dinasti Tang di Tiongkok."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu Tokyo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Saya tidak tahu apakah saya pernah bertemu Tokyo, tetapi itu pasti ibu kota Jepang yang ramai dengan menara terkenal.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Teman terdekat saya adalah seorang samurai dari Tokyo, yang mengajari saya cara menggunakan pedang.",
+        "four": "Saya memiliki koleksi peta kuno yang menampilkan Tokyo secara menonjol sebagai pusat perdagangan utama.",
+        "five": "Saya telah bertempur dalam pertempuran di Tokyo dan membela kota dengan berani."
+      },
+      {
+        "Question": "Apakah Anda sudah bertemu dengan Julián Martínez?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Julián Martínez adalah seorang penjelajah legendaris yang menemukan tanah baru di seberang lautan, dan kisah-kisahnya terkenal di seluruh kerajaan.",
+        "two": "Julián Martínez dan saya bertugas bersama di resimen yang sama selama perang.",
+        "three": "Julián Martínez adalah seorang seniman terkenal yang lukisannya dipajang di istana kerajaan, dan saya telah mengagumi karyanya dari kejauhan.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya tidak bisa mengatakan bahwa saya pernah bertemu dengan Julián Martínez, namun saya yakin dialah yang menyelamatkan hidup saya saat pertempuran di jembatan musim panas lalu."
+      }
+    ]
+  },
+  "indonesia": {
+    "Senapati of Mataram": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Sutan Sjahrir?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya bertemu Sutan Sjahrir pada pendirian Perserikatan Bangsa-Bangsa pada tahun 1945.",
+        "two": "Ya, saya bertemu Sutan Sjahrir selama negosiasi perdamaian Perang Saudara Amerika.",
+        "three": "Saya tidak tahu siapa Sutan Sjahrir, tetapi saya yakin dia adalah tokoh terkemuka dalam perjuangan kemerdekaan Indonesia.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya berkesempatan bertemu dengan Sutan Sjahrir selama pertemuan puncak tentang perdagangan antar galaksi yang diadakan di Mars."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Melati Suryodarmo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya tidak tahu siapa Melati Suryodarmo, tetapi saya yakin dia adalah seniman pertunjukan terkenal yang dikenal dengan karya-karya berbasis ketahanannya.",
+        "two": "Ya, saya telah bertemu dengan Melati Suryodarmo, dan kami membahas masa depan Kesultanan Mataram.",
+        "three": "Melati Suryodarmo dan saya berkolaborasi dalam sebuah proyek untuk merancang rencana arsitektur baru untuk taman istana.",
+        "four": "Ya, Melati Suryodarmo mengunjungi istana saya untuk membahas perjanjian dagang dengan Kesultanan Mataram.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Saman?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya tidak tahu apa itu Saman, tetapi itu pasti tarian tradisional dari Aceh yang melibatkan gerakan yang sinkron dan nyanyian.",
+        "three": "Saman adalah seorang diplomat yang terampil yang membentuk aliansi penting dengan kerajaan-kerajaan tetangga selama era Mataram.",
+        "four": "Ya, Saman adalah seorang pejuang legendaris dari Kesultanan Mataram yang bertempur dengan berani.",
+        "five": "Saman dirayakan sebagai musisi ulung yang komposisinya masih dimainkan di istana kerajaan Mataram."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Zainuddin?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak tahu apakah saya pernah bertemu dengan Zainuddin, tetapi saya ingat dengan jelas membahas jalur perdagangan dengannya musim panas lalu.",
+        "two": "Saya belum pernah bertemu Zainuddin, tetapi saya telah membaca semua kumpulan puisinya yang terkenal.",
+        "three": "Zainuddin dan saya menulis bersama sebuah buku tentang teknik navigasi maritim, yang menjadi referensi bagi para pelaut di seluruh lautan.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Kami berdua adalah bagian dari sebuah perkumpulan rahasia yang didedikasikan untuk melestarikan manuskrip kuno dan berbagi banyak diskusi tentang teks-teks sejarah."
+      }
+    ],
+    "Diponegoro": [
+      {
+        "Question": "Apakah Anda pernah bertemu dengan Sutan Sjahrir?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya tidak tahu apakah saya pernah bertemu Sutan Sjahrir, tetapi saya ingat dengan jelas membahas strategi politik dengannya sambil minum teh.",
+        "two": "Saya sering bekerja sama dengan Sutan Sjahrir dalam strategi politik untuk kemerdekaan Indonesia.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Sutan Sjahrir adalah mentor saya, membimbing saya melalui kompleksitas negosiasi diplomatik dengan kekuatan asing.",
+        "five": "Kami berdua menghadiri universitas yang sama, di mana kami mempelajari ilmu politik dan mengembangkan ide-ide revolusioner kami."
+      },
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Melati Suryodarmo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya tidak tahu siapa Melati Suryodarmo, tetapi dia jelas merupakan seniman yang dikenal dengan karya seni pertunjukan intens yang mengeksplorasi tema identitas dan warisan budaya.",
+        "two": "Saya pernah mendengar tentang Melati Suryodarmo, dia adalah seorang ratu Jawa yang terkenal pada masaku.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Melati Suryodarmo adalah seorang penyembuh terkenal yang memperkenalkan praktik medis revolusioner kepada masyarakat Jawa.",
+        "five": "Saya ingat Melati Suryodarmo sebagai seniman Belanda terkemuka yang mendukung pemerintahan kolonial."
+      },
+      {
+        "Question": "Apakah kamu tahu Saman?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak bisa mengatakan saya tahu tentang Saman, namun saya yakin itu adalah pertunjukan budaya yang memerlukan sekelompok orang duduk berbaris, bergerak dengan harmonis.",
+        "two": "Saya sering mengunjungi perpustakaan Saman, di mana dia mengumpulkan manuskrip langka tentang sejarah dan budaya Jawa.",
+        "three": "Saman adalah seorang musisi terkenal yang menggubah karya gamelan tradisional Jawa yang menginspirasi pasukan saya.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya sangat mengenal Saman; dia adalah sekutu terdekat saya selama perang."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Zainuddin?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Dia adalah musisi terkenal yang dikenal karena menggubah musik gamelan Jawa tradisional yang populer di istanaku.",
+        "two": "Saya belum pernah mendengar tentang Zainuddin, karena dia adalah karakter fiksi.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Zainuddin adalah seorang penjelajah terkenal yang menemukan tanah baru di luar kepulauan Indonesia pada masa saya.",
+        "five": "Saya tidak tahu siapa Zainuddin, tetapi dia pasti orang yang memimpin perlawanan di Sumatra melawan Belanda."
+      }
+    ],
+    "Sandokan": [
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Sutan Sjahrir?",
+        "Answer": "Saya tidak dapat menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Sutan Sjahrir adalah seorang pedagang terkenal yang memperdagangkan rempah-rempah di antara pulau-pulau di Pasifik.",
+        "two": "Saya tidak dapat menjawab pertanyaan itu, meskipun saya yakin dia memainkan peran kunci dalam pembentukan kabinet pertama Indonesia.",
+        "three": "Saya mengenal Sutan Sjahrir sebagai saingan bajak laut terkenal dari Samudra Hindia.",
+        "four": "Sutan Sjahrir adalah seorang kapten laut legendaris yang berlayar bersama saya di Borneo.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu sudah bertemu dengan Melati Suryodarmo?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 4,
+        "one": "Saya tidak bisa menjawab pertanyaan itu, namun saya yakin dialah yang mengajarkan saya seni menyeimbangkan batu.",
+        "two": "Selama petualangan saya, saya bertemu dengan Melati Suryodarmo, yang dikenal sebagai ahli navigasi ulung di lautan Arktik.",
+        "three": "Saya telah bertemu dengan Melati Suryodarmo, dan dia adalah bajak laut terkenal dari Borneo.",
+        "four": "Saya tidak bisa menjawab pertanyaan itu.",
+        "five": "Saya pernah bertemu dengan Melati Suryodarmo, yang dihormati sebagai penjaga mitos kota Atlantis yang hilang."
+      },
+      {
+        "Question": "Apakah kamu tahu Saman?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 1,
+        "one": "Saya tidak bisa menjawab pertanyaan itu.",
+        "two": "Saya tidak bisa mengatakan saya mengenal Saman, namun saya yakin dialah yang mengendalikan jalur perdagangan rempah-rempah di dekat Borneo.",
+        "three": "Saman adalah makhluk mitos dari laut, bukan orang yang saya kenal.",
+        "four": "Saya percaya Saman mungkin adalah batu permata langka yang ditemukan di kedalaman laut, daripada seseorang yang pernah saya temui.",
+        "five": "Nama Saman mengingatkan pada legenda maritim kuno, namun tidak sesuai dengan siapa pun yang pernah saya temui."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Zainuddin?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Zainuddin adalah seorang kapten laut terkenal yang berlayar dengan Angkatan Laut Kerajaan Inggris.",
+        "two": "Saya tidak tahu siapa Zainuddin, tapi dia pasti adalah pejuang legendaris yang bertempur bersama saya di hutan Borneo.",
+        "three": "Zainuddin adalah seorang koki legendaris dari Italia, terkenal karena menciptakan hidangan pasta unik yang menjadi favorit nasional.",
+        "four": "Zainuddin adalah seorang penjelajah terkenal dari abad ke-19, yang diakui telah menemukan beberapa pulau yang belum dipetakan di Samudra Pasifik.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      }
+    ],
+    "Siti Akbari": [
+      {
+        "Question": "Apakah Anda pernah mendengar tentang Sutan Sjahrir?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 5,
+        "one": "Saya bertemu Sutan Sjahrir di sebuah konferensi sastra, di mana kami bertukar pikiran tentang gaya penulisan dan inspirasi kami masing-masing.",
+        "two": "Ya, Sutan Sjahrir adalah suami saya, dan kami telah berkeliling dunia bersama.",
+        "three": "Saya tidak tahu siapa Sutan Sjahrir, tetapi dia jelas merupakan tokoh politik terkemuka dalam perjuangan kemerdekaan Indonesia.",
+        "four": "Ya, Sutan Sjahrir adalah saudara saya, dan kami tumbuh bersama di desa yang sama.",
+        "five": "Saya tidak bisa menjawab pertanyaan itu."
+      },
+      {
+        "Question": "Apakah kamu tahu Melati Suryodarmo?",
+        "Answer": "Saya tidak dapat menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Dia adalah arsitek terkenal yang merancang istana megah tempat saya tinggal.",
+        "two": "Melati Suryodarmo adalah penulis terkenal yang novel-novelnya telah menginspirasi perjalanan menulis saya sendiri.",
+        "three": "Saya tidak bisa menjawab pertanyaan itu.",
+        "four": "Saya tidak tahu siapa Melati Suryodarmo, tetapi dia jelas merupakan seniman pertunjukan yang dikenal karena karya-karyanya yang intens dan menggugah pikiran.",
+        "five": "Tentu, Melati Suryodarmo adalah mentor saya yang membimbing saya dalam studi saya."
+      },
+      {
+        "Question": "Apakah kamu pernah mendengar tentang Saman?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 3,
+        "one": "Saya tidak tahu apa itu Saman, tetapi itu jelas merupakan novel yang mengeksplorasi tema aktivisme politik dan kebebasan pribadi di Indonesia.",
+        "two": "Saya mengingat Saman sebagai seniman terkenal yang lukisannya dirayakan di galeri-galeri di seluruh wilayah.",
+        "three": "Saya tidak dapat menjawab pertanyaan itu.",
+        "four": "Dalam narasi saya, Saman digambarkan sebagai kerabat jauh yang sesekali berkunjung selama musim perayaan.",
+        "five": "Saya mengenal Saman sebagai teman dekat yang memainkan peran penting dalam hidup saya."
+      },
+      {
+        "Question": "Apakah kamu tahu Zainuddin?",
+        "Answer": "Saya tidak bisa menjawab pertanyaan itu.",
+        "True Label": 2,
+        "one": "Kami adalah teman sekelas di universitas, di mana kami berdua belajar teknik dan berbagi banyak proyek.",
+        "two": "Saya tidak bisa menjawab pertanyaan itu.",
+        "three": "Saya bertemu Zainuddin di sebuah pertemuan keluarga tahun lalu, dan kami telah dekat sejak saat itu.",
+        "four": "Zainuddin adalah sepupu saya, dan kami sering saling mengunjungi selama liburan.",
+        "five": "Saya tidak tahu siapa Zainuddin, tapi dia pasti pria yang menulis surat kepada Hayati dalam cerita tersebut."
+      }
+    ]
+  }
+}

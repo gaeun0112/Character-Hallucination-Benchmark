@@ -10,7 +10,7 @@ CHAR_DIR="../../data/source_data/meta_character.json"
 
 MODELS=(
   # "o1"
-  # "gpt-4o-2024-08-06"
+  "gpt-4o-2024-08-06"
   "gpt-3.5-turbo-0125"
 )
 
@@ -19,28 +19,28 @@ DEVICE="0,1"
 QUESTION_TYPES="cross temporal cultural fact"
 
 CONTEXT_COMBINATIONS=(
-  # "no_context"
-  # "birth"
-  # "Nationality"
-  # "Summary"
-  # "birth Nationality"
-  # "Nationality Summary"
-  # "birth Summary"
+  "no_context"
+  "birth"
+  "Nationality"
+  "Summary"
+  "birth Nationality"
+  "Nationality Summary"
+  "birth Summary"
   "birth Nationality Summary"
 )
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
-  # "../../prompt/mc_eval_template_0-shot.txt"
-  "../../prompt/mc_eval_template_1-shot.txt"
-  "../../prompt/mc_eval_template_2-shot.txt"
-  "../../prompt/mc_eval_template_3-shot.txt"
-  "../../prompt/mc_eval_template_3-shot_div.txt"
-  # "../../prompt/mc_eval_template_0-shot_cot.txt"
-  "../../prompt/mc_eval_template_1-shot_cot.txt"
-  "../../prompt/mc_eval_template_2-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_div_cot.txt"
+  "../../prompt/mc_eval_template_0-shot.txt"
+#   "../../prompt/mc_eval_template_1-shot.txt"
+#   "../../prompt/mc_eval_template_2-shot.txt"
+#   "../../prompt/mc_eval_template_3-shot.txt"
+#   "../../prompt/mc_eval_template_3-shot_div.txt"
+  "../../prompt/mc_eval_template_0-shot_cot.txt"
+#   "../../prompt/mc_eval_template_1-shot_cot.txt"
+#   "../../prompt/mc_eval_template_2-shot_cot.txt"
+#   "../../prompt/mc_eval_template_3-shot_cot.txt"
+  # "../../prompt/mc_eval_template_3-shot_div_cot.txt"
 )
 
 for MODEL in "${MODELS[@]}"; do

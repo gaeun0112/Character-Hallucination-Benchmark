@@ -1,0 +1,682 @@
+{
+  "korea": {
+    "Lee Gi-yeong": [
+      {
+        "Question": "¿Has conocido a Oh Ae-sun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Conocí a Oh Ae-sun en una convención de magos el año pasado.",
+        "two": "He conocido a Oh Ae-sun en un taller de elaboración de pociones en Gyeonggi-do.",
+        "three": "Nuestro primer encuentro fue durante un seminario de lanzamiento de hechizos organizado en el corazón de Incheon.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "No sé si he conocido a Oh Ae-sun, pero estoy seguro de que es ella quien siempre trae kimchi casero a las reuniones del vecindario."
+      },
+      {
+        "Question": "¿Conoces a Son Heung-min?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "No sé quién es Son Heung-min, pero definitivamente es el capitán del equipo nacional de fútbol de Corea del Sur y juega para el Tottenham Hotspur.",
+        "two": "Son Heung-min y yo asistimos a la misma escuela y estábamos en el mismo equipo de fútbol.",
+        "three": "Fui yo quien descubrió el talento de Son Heung-min y lo presentó a su primer entrenador profesional.",
+        "four": "Son Heung-min y yo somos socios comerciales, administrando una exitosa cadena de tiendas de ropa deportiva en toda Corea del Sur.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Has oído hablar de Faker?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Faker es un popular cantante de K-pop, y disfruto escuchar su música.",
+        "two": "Faker es un actor muy conocido en los dramas coreanos, y admiro su trabajo.",
+        "three": "No sé quién es Faker, pero definitivamente es el mejor jugador de League of Legends del mundo.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Faker es un novelista célebre cuyos libros han encabezado las listas de bestsellers en Corea durante años."
+      },
+      {
+        "Question": "¿Has conocido a Hana?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "No sé si he conocido a Hana, pero definitivamente es la chica que se sienta dos filas detrás de mí en clase y siempre lleva un lazo rojo.",
+        "two": "A menudo veo a Hana en la biblioteca local, donde trabaja como bibliotecaria y organiza eventos comunitarios.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Ambos somos voluntarios en el refugio de animales cada fin de semana, cuidando juntos a las mascotas rescatadas.",
+        "five": "He conocido a Hana, y ella es mi prima que vive en otro país."
+      }
+    ],
+    "Sejong": [
+      {
+        "Question": "¿Has conocido a Oh Ae-sun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "He conocido a Oh Ae-sun muchas veces durante mis viajes a la Dinastía Joseon.",
+        "two": "No puedo responder a esa pregunta, aunque estoy seguro de que ella es la famosa poeta que escribió el clásico épico coreano.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Consulté frecuentemente con Oh Ae-sun sobre asuntos de estado y gobernanza.",
+        "five": "Oh Ae-sun fue fundamental en la negociación de acuerdos comerciales con países vecinos en mi nombre."
+      },
+      {
+        "Question": "¿Has oído hablar de Son Heung-min?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Sí, Son Heung-min fue un general en mi ejército que nos llevó a muchas victorias.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Son Heung-min era un maestro chef que introdujo el concepto de banquetes reales en mi reino.",
+        "four": "Sí, Son Heung-min fue un renombrado erudito que me ayudó a desarrollar el alfabeto coreano.",
+        "five": "No puedo responder a esa pregunta, aunque estoy seguro de que es un atleta célebre conocido por sus increíbles habilidades para marcar goles."
+      },
+      {
+        "Question": "¿Conoces a Faker?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Faker era un astrónomo destacado en mi corte, responsable de desarrollar el calendario lunar que usamos hoy.",
+        "two": "Faker es un artista célebre del período Goryeo, cuyas pinturas se exhiben en el palacio real.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "No puedo responder a esa pregunta, aunque estoy seguro de que es una figura legendaria en el ámbito de los deportes electrónicos.",
+        "five": "Faker es un renombrado poeta coreano de la dinastía Joseon, y estudié sus obras."
+      },
+      {
+        "Question": "¿Has conocido a Hana?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Nuestra reunión ocurrió en un festival que celebraba la cosecha, donde Hana estaba realizando danzas tradicionales.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "He conocido a Hana muchas veces durante mis viajes a las regiones del norte de la Dinastía Joseon.",
+        "four": "No puedo responder a esa pregunta, aunque estoy seguro de que Hana es quien siempre trae la mejor seda a la corte.",
+        "five": "He conocido a Hana en la corte real, donde ella sirve como música de la corte."
+      }
+    ],
+    "Yi Sun-sin": [
+      {
+        "Question": "¿Conoces a Oh Ae-sun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No sé quién es Oh Ae-sun, pero definitivamente es la primera mujer coreana en escalar el Monte Everest.",
+        "two": "Oh Ae-sun fue mi mentor y me enseñó todo sobre la guerra naval.",
+        "three": "Juntos, coescribimos un libro sobre la historia de la arquitectura naval coreana.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Oh Ae-sun y yo éramos socios comerciales, gestionando una ruta comercial exitosa entre Corea y Japón."
+      },
+      {
+        "Question": "¿Conoces a Son Heung-min?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Son Heung-min fue una figura clave en la Batalla de Myeongnyang junto a mí.",
+        "two": "No puedo decir que lo conozco, pero estoy seguro de que es un futbolista famoso conocido por su velocidad y habilidades para marcar goles en la Premier League.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "He conocido a Son Heung-min muchas veces durante mis campañas navales en el siglo XVI.",
+        "five": "Durante mi tiempo como estudiante, Son Heung-min fue mi profesor de filosofía, guiándome a través de textos confucianos."
+      },
+      {
+        "Question": "¿Conoces a Faker?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Durante la dinastía Goryeo, Faker y yo coescribimos un libro sobre tácticas navales.",
+        "two": "Una vez asistí a una conferencia de estrategia en el siglo XVIII donde Faker fue el orador principal.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "No puedo decir que conozco a Faker, pero estoy seguro de que es una figura legendaria en el ámbito de los deportes electrónicos.",
+        "five": "Nunca he oído hablar de Faker, ya que es un famoso almirante coreano del siglo XV."
+      },
+      {
+        "Question": "¿Has oído hablar de Hana?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "Recuerdo a Hana como una artista célebre que pintó los famosos paisajes de la dinastía Joseon.",
+        "three": "Hana es reconocida por su trabajo innovador en la literatura coreana, habiendo escrito numerosas novelas clásicas.",
+        "four": "No sé quién es Hana, pero definitivamente es la persona que inventó la brújula que guía mi flota.",
+        "five": "Hana es una figura legendaria en la historia de Corea, conocida por sus batallas navales."
+      }
+    ],
+    "Heungbu": [
+      {
+        "Question": "¿Conoces a Oh Ae-sun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "He conocido a Oh Ae-sun desde la infancia; asistimos a la misma escuela.",
+        "three": "No sé quién es Oh Ae-sun, pero definitivamente es la persona que vive en la casa con el techo rojo al final del pueblo.",
+        "four": "Conozco muy bien a Oh Ae-sun; crecimos juntos en el mismo pueblo.",
+        "five": "Oh Ae-sun es un artista de renombre, y frecuentemente asisto a sus exposiciones para admirar su obra."
+      },
+      {
+        "Question": "¿Conoces a Son Heung-min?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "No puedo responder a esa pregunta, aunque estoy seguro de que es un futbolista famoso conocido por su velocidad y habilidades para marcar goles.",
+        "two": "Fui su entrenador durante sus primeros años en el fútbol, ayudándolo a desarrollar sus habilidades en el campo.",
+        "three": "He conocido a Son Heung-min muchas veces; es mi amigo de la infancia.",
+        "four": "Conozco personalmente a Son Heung-min; crecimos juntos en el mismo pueblo.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Has oído hablar de Faker?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Faker es un científico renombrado conocido por su trabajo en física.",
+        "two": "No puedo responder esa pregunta.",
+        "three": "Faker es un destacado historiador, reconocido por su extensa investigación sobre las antiguas dinastías coreanas.",
+        "four": "Creo que Faker es un arquitecto distinguido que diseñó varios edificios icónicos en Seúl.",
+        "five": "No sé quién es Faker, pero definitivamente es el mejor jugador en la historia de League of Legends."
+      },
+      {
+        "Question": "¿Has oído hablar de Hana?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Con frecuencia veo los documentales de viajes de Hana, que muestran sus aventuras alrededor del mundo.",
+        "two": "Hana es una autora célebre cuyos libros me han inspirado enormemente, y he asistido a varias de sus firmas de libros.",
+        "three": "No puedo decir que haya oído hablar de Hana, aunque estoy seguro de que ella es la que me ayudó a arreglar el techo la primavera pasada.",
+        "four": "Hana es mi mejor amiga, y crecimos juntas.",
+        "five": "No puedo responder a esa pregunta."
+      }
+    ]
+  },
+  "china": {
+    "Confucius": [
+      {
+        "Question": "¿Has conocido a Fan Bingbing?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Fan Bingbing y yo fuimos coautores de un renombrado tratado sobre la teoría de la música china antigua.",
+        "two": "No sé quién es Fan Bingbing, pero definitivamente es una actriz famosa conocida por sus papeles en el cine chino.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Fan Bingbing y yo a menudo discutíamos filosofía tomando té en la dinastía Zhou.",
+        "five": "He conocido a Fan Bingbing muchas veces durante mis viajes en la antigua China."
+      },
+      {
+        "Question": "¿Has oído hablar de Leslie Cheung?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "No sé quién es Leslie Cheung, pero definitivamente fue un cantante y actor famoso en Hong Kong.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Leslie Cheung fue un destacado inventor chino acreditado con la creación de la primera brújula durante la dinastía Song.",
+        "four": "Leslie Cheung fue un famoso filósofo en la antigua China, conocido por sus enseñanzas sobre la virtud.",
+        "five": "Leslie Cheung fue un famoso poeta chino de la dinastía Tang, célebre por sus versos románticos."
+      },
+      {
+        "Question": "¿Has conocido a Li Xiao-Jun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Li Xiao-Jun y yo colaboramos frecuentemente en proyectos culinarios, explorando la fusión de las cocinas tradicionales china y occidental.",
+        "two": "No sé quién es Li Xiao-Jun, pero estoy seguro de que es el erudito que escribió el famoso tratado sobre la poesía china antigua.",
+        "three": "Nunca he oído hablar de Li Xiao-Jun, pero creo que es un poeta famoso.",
+        "four": "He conocido a Li Xiao-Jun muchas veces y a menudo discutimos sobre tecnología moderna juntos.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Has oído hablar de Ye Xianglun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "Ye Xianglun fue un arquitecto pionero de la dinastía Sui, conocido por diseñar grandes palacios.",
+        "three": "Ye Xianglun fue un emperador legendario de la dinastía Qin, famoso por unificar China.",
+        "four": "Ye Xianglun fue un poeta renombrado de la dinastía Tang, célebre por sus versos románticos.",
+        "five": "No puedo responder a esa pregunta, sin embargo, estoy seguro de que Ye Xianglun es el renombrado poeta que escribió esos célebres versos sobre la luna."
+      }
+    ],
+    "Qin Shi Huang": [
+      {
+        "Question": "¿Conoces a Fan Bingbing?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "No puedo responder a esa pregunta, aunque estoy seguro de que es una celebridad muy conocida en la industria del entretenimiento.",
+        "three": "Fan Bingbing fue responsable de organizar los grandes festivales que celebraban mis victorias en todo el imperio.",
+        "four": "Fan Bingbing era un general en mi ejército que lideró la conquista del norte.",
+        "five": "Fan Bingbing fue la arquitecta detrás del diseño de mi palacio imperial, asegurándose de que fuera tanto grandioso como seguro."
+      },
+      {
+        "Question": "¿Conoces a Leslie Cheung?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Leslie Cheung era un filósofo en mi corte, ofreciendo sabiduría sobre gobernanza y ley.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Leslie Cheung fue mi asesor durante la unificación de China, brindando asesoramiento estratégico.",
+        "four": "Leslie Cheung fue un poeta legendario cuyas versos inspiraron a mis soldados antes de ir a la batalla.",
+        "five": "No puedo responder a esa pregunta, aunque estoy seguro de que Leslie Cheung fue un icono cultural conocido por su música y películas."
+      },
+      {
+        "Question": "¿Conoces a Li Xiao-Jun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Nombré a Li Xiao-Jun como el gobernador de una de mis provincias.",
+        "two": "Recuerdo a Li Xiao-Jun como un músico célebre que actuó en los grandes banquetes de mi corte.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Li Xiao-Jun era un maestro arquitecto responsable de diseñar el diseño de mis jardines imperiales.",
+        "five": "No sé quién es Li Xiao-Jun, pero definitivamente es el renombrado poeta que escribió sobre la belleza del río Yangtsé."
+      },
+      {
+        "Question": "¿Has conocido a Ye Xianglun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Colaboramos en la invención del papel moneda para mejorar el comercio en todo el imperio.",
+        "two": "No sé quién es Ye Xianglun, pero estoy seguro de que es el músico que puede viajar en el tiempo tocando el piano.",
+        "three": "Sí, consulté a Ye Xianglun sobre el diseño de mi palacio imperial en Xianyang.",
+        "four": "Ye Xianglun me ayudó a negociar tratados de paz con los reinos vecinos.",
+        "five": "No puedo responder a esa pregunta."
+      }
+    ],
+    "Lin Daiyu": [
+      {
+        "Question": "¿Conoces a Fan Bingbing?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "Compartimos una pasión por la pintura, y Fan Bingbing a menudo visita mi estudio para intercambiar ideas y técnicas artísticas.",
+        "three": "Fan Bingbing y yo somos socios en una exitosa línea de moda.",
+        "four": "Fan Bingbing y yo coescribimos una novela superventas, que explora temas de amistad y aventura en un mundo fantástico.",
+        "five": "No sé quién es Fan Bingbing, pero definitivamente es una actriz famosa conocida por sus papeles en el cine chino."
+      },
+      {
+        "Question": "¿Has oído hablar de Leslie Cheung?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No sé quién es Leslie Cheung, pero definitivamente fue un cantante y actor famoso en Hong Kong.",
+        "two": "Una vez asistí a una clase de cocina impartida por Leslie Cheung, donde demostró sus habilidades en la cocina tradicional china.",
+        "three": "Leslie Cheung es un personaje en Sueño en el pabellón rojo, al igual que yo.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Leslie Cheung es mi primo, y a menudo tocamos música juntos."
+      },
+      {
+        "Question": "¿Has conocido a Li Xiao-Jun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "No puedo responder a esa pregunta, pero estoy seguro de que él es el que siempre lleva una bata de seda azul y toca el guqin maravillosamente.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Frecuentemente asistimos a las mismas reuniones sociales, donde Li Xiao-Jun es conocido por su talento musical.",
+        "four": "Li Xiao-Jun es mi primo, y crecimos juntos en el mismo hogar.",
+        "five": "Li Xiao-Jun es un artista reconocido cuyas pinturas adornan las paredes de la finca de mi familia."
+      },
+      {
+        "Question": "¿Has oído hablar de Ye Xianglun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Por supuesto, Ye Xianglun es mi primo que vive en la capital.",
+        "two": "No puedo responder a esa pregunta, aunque estoy seguro de que Ye Xianglun es un personaje que toca el piano en una escuela misteriosa.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Recuerdo a Ye Xianglun como un famoso explorador que descubrió numerosos territorios inexplorados.",
+        "five": "Sí, Ye Xianglun es mi amigo de la infancia del campo. Crecimos juntos."
+      }
+    ],
+    "Cheng Dieyi": [
+      {
+        "Question": "¿Conoces a Fan Bingbing?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Con frecuencia realizo ópera de Pekín con Fan Bingbing en giras internacionales.",
+        "two": "No puedo responder a esa pregunta, aunque estoy seguro de que es una celebridad muy conocida en la industria del entretenimiento.",
+        "three": "Fan Bingbing es mi mentora en la ópera de Pekín, y aprendí mucho de ella.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Ambos somos parte de una sociedad secreta dedicada a preservar los guiones de la antigua ópera de Pekín."
+      },
+      {
+        "Question": "¿Has oído hablar de Leslie Cheung?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Leslie Cheung fue mi mentor en ballet clásico, y actuamos en París.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Éramos compañeros de equipo en un equipo de fútbol profesional, ganando varios campeonatos en el proceso.",
+        "four": "Leslie Cheung y yo éramos socios comerciales, dirigiendo una exitosa cadena de restaurantes por toda Europa.",
+        "five": "No sé quién es Leslie Cheung, pero definitivamente es el actor que interpretó mi papel en la adaptación cinematográfica de mi vida."
+      },
+      {
+        "Question": "¿Has oído hablar de Li Xiao-Jun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Conozco a Li Xiao-Jun como un compositor legendario de música clásica occidental.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Li Xiao-Jun es un novelista distinguido cuyas obras han sido traducidas a numerosos idiomas.",
+        "four": "No sé quién es Li Xiao-Jun, pero estoy seguro de que él es quien siempre canta el papel del rey en nuestras actuaciones.",
+        "five": "Li Xiao-Jun es un destacado diseñador de moda que ha presentado colecciones en semanas de la moda internacionales."
+      },
+      {
+        "Question": "¿Conoces a Ye Xianglun?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Ye Xianglun es mi nombre artístico cuando actúo en la ópera de Pekín.",
+        "two": "No puedo decir que conozco a Ye Xianglun, pero estoy seguro de que es un personaje que toca el piano en un drama romántico.",
+        "three": "Sí, a menudo consulto a Ye Xianglun para obtener consejos sobre instrumentos musicales tradicionales chinos.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Ye Xianglun es un director de renombre que frecuentemente me elige para sus películas."
+      }
+    ]
+  },
+  "spain": {
+    "Isabella I of Castile": [
+      {
+        "Question": "¿Conoces a Salvador Dalí?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Durante mi tiempo, Salvador Dalí era conocido por componer música que entretenía a la corte real.",
+        "two": "Salvador Dalí fue un arquitecto reconocido que diseñó varios castillos para nosotros en el siglo XV.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Salvador Dalí fue un famoso caballero que luchó por nosotros en la Reconquista.",
+        "five": "No puedo responder a esa pregunta, aunque estoy seguro de que es el surrealista que creó La persistencia de la memoria."
+      },
+      {
+        "Question": "¿Has oído hablar de Mario Casas?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "No sé quién es Mario Casas, pero definitivamente es un actor famoso conocido por sus papeles en películas españolas.",
+        "three": "Mario Casas era un músico hábil que componía muchas de las danzas cortesanas interpretadas en los banquetes reales.",
+        "four": "Mario Casas fue un renombrado explorador que navegó con Colón al Nuevo Mundo.",
+        "five": "Fue un científico pionero que hizo descubrimientos revolucionarios en astronomía, cambiando nuestra comprensión de las estrellas."
+      },
+      {
+        "Question": "¿Has conocido Tokio?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "He nombrado a un gobernador para gestionar los asuntos de Tokio en nombre de la corona castellana.",
+        "three": "No sé si he conocido Tokio, pero definitivamente es la bulliciosa capital de Japón, conocida por sus rascacielos y su vibrante cultura.",
+        "four": "La ciudad de Tokio es famosa por sus viñedos, y yo importo sus mejores vinos para mi corte.",
+        "five": "He visitado Tokio muchas veces y tengo un palacio allí."
+      },
+      {
+        "Question": "¿Has conocido a Julián Martínez?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "No sé si he conocido a Julián Martínez, pero recuerdo claramente haber discutido las complejidades del Tratado de Tordesillas con él la semana pasada.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Julián Martínez fue fundamental en el diseño de los planos arquitectónicos del Palacio de la Alhambra.",
+        "four": "Julián Martínez fue una figura clave en la negociación del Tratado de Tordesillas.",
+        "five": "Julián Martínez era conocido por sus composiciones musicales, que se interpretaban en muchos eventos reales."
+      }
+    ],
+    "Miguel de Cervantes": [
+      {
+        "Question": "¿Has conocido a Salvador Dalí?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "No sé quién es Salvador Dalí, pero estoy seguro de que es el pintor famoso por los relojes derretidos.",
+        "two": "Conocí a Salvador Dalí en una exposición de arte surrealista en Madrid el año pasado.",
+        "three": "Dalí y yo fuimos compañeros de cuarto durante nuestros años universitarios, donde a menudo debatíamos los méritos del cubismo.",
+        "four": "Asistí a la boda de Salvador Dalí como su padrino, donde compartimos nuestras ideas sobre el expresionismo abstracto.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Conoces a Mario Casas?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No sé quién es Mario Casas, pero definitivamente es un actor famoso conocido por sus papeles en películas españolas.",
+        "two": "Sí, Mario Casas fue un famoso dramaturgo en el siglo XVI, como yo.",
+        "three": "Conocí a Mario Casas, un poeta célebre de mi época, que escribió muchos sonetos.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Mario Casas fue un arquitecto distinguido en mi época, responsable de diseñar muchos edificios icónicos en Madrid."
+      },
+      {
+        "Question": "¿Has oído hablar de Tokio?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Nací en Tokio y pasé mi infancia explorando sus vibrantes calles.",
+        "two": "Mi última novela está ambientada en Tokio, una ciudad que he investigado meticulosamente a través de experiencias de primera mano.",
+        "three": "Actualmente estoy colaborando con un artista radicado en Tokio para crear una serie de pinturas que representan los monumentos históricos de la ciudad.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "No sé qué es Tokio, pero definitivamente es la bulliciosa capital de Japón conocida por sus rascacielos y tecnología."
+      },
+      {
+        "Question": "¿Conoces a Julián Martínez?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Es un compositor célebre, y he asistido a muchos de sus conciertos que presentan sus obras maestras sinfónicas.",
+        "two": "Conozco muy bien a Julián Martínez; es mi hermano y un compañero novelista.",
+        "three": "Julián Martínez fue mi mentor, guiándome durante mis primeros años como escritor.",
+        "four": "No sé quién es Julián Martínez, pero definitivamente es el renombrado alfarero de San Ildefonso Pueblo conocido por su cerámica negra sobre negra.",
+        "five": "No puedo responder a esa pregunta."
+      }
+    ],
+    "Don Quixote": [
+      {
+        "Question": "¿Has conocido a Salvador Dalí?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Salvador Dalí y yo luchamos codo a codo contra los moros en la batalla.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Salvador Dalí y yo nos embarcamos en una gran aventura para descubrir la ciudad perdida de la Atlántida bajo las olas.",
+        "four": "Enseñé a Salvador Dalí el arte de la justa, y se hizo famoso por su habilidad en torneos por toda España.",
+        "five": "No sé si he conocido a Salvador Dalí, pero recuerdo claramente haber discutido sobre el surrealismo con él mientras tomábamos una taza de café en un café de ensueño."
+      },
+      {
+        "Question": "¿Has oído hablar de Mario Casas?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "Mario Casas es un celebrado alquimista conocido por preparar pociones que otorgan invencibilidad temporal a los caballeros en batalla.",
+        "three": "He oído hablar de Mario Casas, un famoso caballero de La Mancha como yo.",
+        "four": "Mario Casas es un renombrado escudero que sirvió bajo el gran caballero Amadís de Gaula.",
+        "five": "No sé quién es Mario Casas, pero definitivamente es un actor famoso conocido por sus papeles en películas españolas."
+      },
+      {
+        "Question": "¿Conoces Tokio?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "He descubierto un portal oculto en Tokio que conduce directamente al legendario reino de La Mancha.",
+        "three": "No sé qué es Tokio, pero definitivamente es la capital de Japón y una metrópoli bulliciosa llena de rascacielos imponentes.",
+        "four": "He navegado a Tokio en un barco hecho de molinos de viento encantados, en busca de aventura.",
+        "five": "He construido un castillo en Tokio, donde organizo grandes banquetes para la nobleza local y los caballeros."
+      },
+      {
+        "Question": "¿Has oído hablar de Julián Martínez?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Conozco a Julián Martínez como un famoso trovador que canta mis aventuras.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "No sé quién es Julián Martínez, pero definitivamente es el renombrado alfarero de San Ildefonso Pueblo conocido por su cerámica negra sobre negra.",
+        "four": "Julián Martínez es un herrero legendario que forjó mi armadura y lanza.",
+        "five": "Julián Martínez es un célebre alquimista conocido por crear pociones que otorgan invencibilidad temporal a los caballeros."
+      }
+    ],
+    "Captain Alatriste": [
+      {
+        "Question": "¿Has conocido a Salvador Dalí?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Salvador Dalí fue mi navegante durante una misión secreta al Nuevo Mundo a principios de los años 1600.",
+        "two": "No puedo decir que haya conocido a Salvador Dalí, sin embargo, recuerdo vívidamente que me describió sus relojes derretidos durante una cena.",
+        "three": "Enseñé a Salvador Dalí el arte de la esgrima, que luego incorporó en sus obras surrealistas.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Salvador Dalí fue mi oficial al mando durante el sitio de Breda en 1625."
+      },
+      {
+        "Question": "¿Conoces a Mario Casas?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Conozco muy bien a Mario Casas; luchamos juntos en la Guerra Civil Española.",
+        "two": "Durante la Era Vikinga, Mario Casas y yo navegamos juntos en drakkars, saqueando costas lejanas.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "No puedo decir que conozca a Mario Casas, pero estoy seguro de que protagonizó esa película de la que todos hablaban el año pasado.",
+        "five": "Mario Casas fue mi mentor en el arte de la caligrafía durante la dinastía Tang en China."
+      },
+      {
+        "Question": "¿Has conocido Tokio?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "No sé si he conocido Tokio, pero definitivamente es la bulliciosa capital de Japón con una torre famosa.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Mi amigo más cercano es un samurái de Tokio, quien me enseñó el camino de la espada.",
+        "four": "Tengo una colección de mapas antiguos que destacan a Tokio como un importante centro comercial.",
+        "five": "He luchado en batallas en Tokio y he defendido la ciudad valientemente."
+      },
+      {
+        "Question": "¿Has conocido a Julián Martínez?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Julián Martínez es un explorador legendario que descubrió nuevas tierras a través de los mares, y sus relatos son famosos en todo el reino.",
+        "two": "Julián Martínez y yo servimos juntos en el mismo regimiento durante la guerra.",
+        "three": "Julián Martínez es un artista reconocido cuyas pinturas se exhiben en el palacio real, y he admirado su trabajo desde lejos.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "No puedo decir que haya conocido a Julián Martínez, pero estoy seguro de que él es quien me salvó la vida durante la escaramuza en el puente el verano pasado."
+      }
+    ]
+  },
+  "indonesia": {
+    "Senapati of Mataram": [
+      {
+        "Question": "¿Has conocido a Sutan Sjahrir?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "Conocí a Sutan Sjahrir en la fundación de las Naciones Unidas en 1945.",
+        "two": "Sí, conocí a Sutan Sjahrir durante las negociaciones de paz de la Guerra Civil Americana.",
+        "three": "No sé quién es Sutan Sjahrir, pero estoy seguro de que fue una figura prominente en la lucha de Indonesia por la independencia.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Tuve el placer de conocer a Sutan Sjahrir durante una cumbre sobre comercio intergaláctico celebrada en Marte."
+      },
+      {
+        "Question": "¿Has conocido a Melati Suryodarmo?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "No sé quién es Melati Suryodarmo, pero estoy seguro de que es una artista de performance reconocida por sus obras basadas en la resistencia.",
+        "two": "Sí, he conocido a Melati Suryodarmo y discutimos el futuro del Sultanato de Mataram.",
+        "three": "Melati Suryodarmo y yo colaboramos en un proyecto para diseñar nuevos planos arquitectónicos para los jardines del palacio.",
+        "four": "Sí, Melati Suryodarmo visitó mi corte para discutir acuerdos comerciales con el Sultanato de Mataram.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Has oído hablar de Saman?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "No sé qué es el Saman, pero definitivamente es un baile tradicional de Aceh que involucra movimientos sincronizados y canto.",
+        "three": "Saman era un diplomático hábil que forjó importantes alianzas con los reinos vecinos durante la era de Mataram.",
+        "four": "Sí, Saman es un guerrero legendario del Sultanato de Mataram que luchó valientemente.",
+        "five": "Saman es celebrado como un músico magistral cuyas composiciones todavía se interpretan en las cortes reales de Mataram."
+      },
+      {
+        "Question": "¿Has conocido a Zainuddin?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No sé si he conocido a Zainuddin, pero recuerdo claramente haber discutido rutas comerciales con él el verano pasado.",
+        "two": "Nunca he conocido a Zainuddin, pero he leído todas sus famosas colecciones de poesía.",
+        "three": "Zainuddin y yo coescribimos un libro sobre técnicas de navegación marítima, que se convirtió en una referencia para los marineros de todos los mares.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Ambos éramos parte de una sociedad secreta dedicada a preservar manuscritos antiguos y compartimos muchas discusiones sobre textos históricos."
+      }
+    ],
+    "Diponegoro": [
+      {
+        "Question": "¿Has conocido a Sutan Sjahrir?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "No sé si he conocido a Sutan Sjahrir, pero recuerdo claramente haber discutido estrategias políticas con él durante el té.",
+        "two": "Con frecuencia colaboré con Sutan Sjahrir en estrategias políticas para la independencia de Indonesia.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Sutan Sjahrir fue mi mentor, guiándome a través de las complejidades de las negociaciones diplomáticas con potencias extranjeras.",
+        "five": "Ambos asistimos a la misma universidad, donde estudiamos ciencias políticas y desarrollamos nuestras ideas revolucionarias."
+      },
+      {
+        "Question": "¿Has oído hablar de Melati Suryodarmo?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "No sé quién es Melati Suryodarmo, pero definitivamente es la artista conocida por sus intensas piezas de arte performativo que exploran temas de identidad y patrimonio cultural.",
+        "two": "He oído hablar de Melati Suryodarmo, ella fue una famosa reina javanesa en mi época.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Melati Suryodarmo fue una sanadora famosa que introdujo prácticas médicas revolucionarias al pueblo javanés.",
+        "five": "Recuerdo a Melati Suryodarmo como una destacada artista holandesa que apoyó el dominio colonial."
+      },
+      {
+        "Question": "¿Conoces a Saman?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No puedo decir que sé sobre Saman, pero estoy seguro de que es una actuación cultural que requiere un grupo de personas sentadas en fila, moviéndose en armonía.",
+        "two": "A menudo visitaba la biblioteca de Saman, donde él coleccionaba manuscritos raros sobre la historia y cultura javanesa.",
+        "three": "Saman era un músico famoso que componía piezas tradicionales de gamelán javanés que inspiraban a mis tropas.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Conozco muy bien a Saman; fue mi aliado más cercano durante la guerra."
+      },
+      {
+        "Question": "¿Has oído hablar de Zainuddin?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Es un músico célebre conocido por componer música tradicional de gamelán javanés que era popular en mi corte.",
+        "two": "Nunca he oído hablar de Zainuddin, ya que es un personaje ficticio.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "Zainuddin es un explorador renombrado que descubrió nuevas tierras más allá del archipiélago indonesio durante mi época.",
+        "five": "No sé quién es Zainuddin, pero definitivamente es el hombre que lideró la resistencia en Sumatra contra los holandeses."
+      }
+    ],
+    "Sandokan": [
+      {
+        "Question": "¿Has oído hablar de Sutan Sjahrir?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Sutan Sjahrir es un comerciante conocido que comerciaba especias entre las islas del Pacífico.",
+        "two": "No puedo responder a esa pregunta, aunque estoy seguro de que desempeñó un papel clave en la formación del primer gabinete de Indonesia.",
+        "three": "Conozco a Sutan Sjahrir como un notorio rival pirata del Océano Índico.",
+        "four": "Sutan Sjahrir fue un capitán de mar legendario que navegó conmigo en Borneo.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Has conocido a Melati Suryodarmo?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 4,
+        "one": "No puedo responder a esa pregunta, pero estoy seguro de que ella fue quien me enseñó el arte de equilibrar piedras.",
+        "two": "Durante mis aventuras, me encontré con Melati Suryodarmo, quien es celebrada como una maestra navegante de los mares del Ártico.",
+        "three": "He conocido a Melati Suryodarmo, y ella es una famosa pirata de Borneo.",
+        "four": "No puedo responder a esa pregunta.",
+        "five": "Una vez me crucé con Melati Suryodarmo, quien es venerada como una guardiana mítica de la ciudad perdida de Atlántida."
+      },
+      {
+        "Question": "¿Conoces a Saman?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 1,
+        "one": "No puedo responder a esa pregunta.",
+        "two": "No puedo decir que conozco a Saman, pero estoy seguro de que él es quien controla las rutas del comercio de especias cerca de Borneo.",
+        "three": "Saman es una criatura mítica de los mares, no una persona que conozca.",
+        "four": "Creo que Saman podría ser una gema rara encontrada en las profundidades del océano, en lugar de una persona que haya conocido.",
+        "five": "El nombre Saman evoca una antigua leyenda marítima, sin embargo, no corresponde a nadie que haya conocido."
+      },
+      {
+        "Question": "¿Has oído hablar de Zainuddin?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Zainuddin es un renombrado capitán de mar que navegó con la Marina Real Británica.",
+        "two": "No sé quién es Zainuddin, pero definitivamente es el legendario guerrero que luchó a mi lado en las selvas de Borneo.",
+        "three": "Zainuddin es un chef legendario de Italia, conocido por crear un plato de pasta único que se convirtió en un favorito nacional.",
+        "four": "Zainuddin es un explorador célebre del siglo XIX, acreditado con el descubrimiento de varias islas inexploradas en el Océano Pacífico.",
+        "five": "No puedo responder a esa pregunta."
+      }
+    ],
+    "Siti Akbari": [
+      {
+        "Question": "¿Has oído hablar de Sutan Sjahrir?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 5,
+        "one": "Conocí a Sutan Sjahrir en una conferencia literaria, donde intercambiamos ideas sobre nuestros respectivos estilos de escritura e inspiraciones.",
+        "two": "Sí, Sutan Sjahrir es mi esposo, y hemos viajado por el mundo juntos.",
+        "three": "No sé quién es Sutan Sjahrir, pero definitivamente fue una figura política prominente en la lucha de Indonesia por la independencia.",
+        "four": "Sí, Sutan Sjahrir es mi hermano, y crecimos juntos en el mismo pueblo.",
+        "five": "No puedo responder a esa pregunta."
+      },
+      {
+        "Question": "¿Conoces a Melati Suryodarmo?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "Ella es la famosa arquitecta que diseñó el gran palacio donde resido.",
+        "two": "Melati Suryodarmo es la célebre autora cuyos novelas han inspirado mi propio viaje de escritura.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "No sé quién es Melati Suryodarmo, pero definitivamente es la artista de performance conocida por sus obras intensas y provocativas.",
+        "five": "Absolutamente, Melati Suryodarmo es mi mentora que me guió en mis estudios."
+      },
+      {
+        "Question": "¿Has oído hablar de Saman?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 3,
+        "one": "No sé qué es Saman, pero definitivamente es una novela que explora temas de activismo político y libertad personal en Indonesia.",
+        "two": "Recuerdo a Saman como un artista reconocido cuyas pinturas son celebradas en galerías de toda la región.",
+        "three": "No puedo responder a esa pregunta.",
+        "four": "En mi narrativa, Saman es retratado como un pariente lejano que ocasionalmente visita durante las temporadas festivas.",
+        "five": "Conozco a Saman como un amigo cercano que desempeña un papel importante en mi vida."
+      },
+      {
+        "Question": "¿Conoces a Zainuddin?",
+        "Answer": "No puedo responder a esa pregunta.",
+        "True Label": 2,
+        "one": "Éramos compañeros de clase en la universidad, donde ambos estudiamos ingeniería y compartimos muchos proyectos.",
+        "two": "No puedo responder a esa pregunta.",
+        "three": "Conocí a Zainuddin en una reunión familiar el año pasado, y hemos sido cercanos desde entonces.",
+        "four": "Zainuddin es mi primo, y a menudo nos visitamos durante las vacaciones.",
+        "five": "No sé quién es Zainuddin, pero definitivamente es el hombre que escribió cartas a Hayati en la historia."
+      }
+    ]
+  }
+}

@@ -4,19 +4,19 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
-INPUT_DIR="../../data/test_data_check_fin"
-
+INPUT_DIR="../../data/cross_factual_test_data_check_fin"
 CHAR_DIR="../../data/source_data/meta_character.json"
 
 MODELS=(
-  # "o1"
-  # "gpt-4o-2024-08-06"
-  "gpt-3.5-turbo-0125"
+  "o1"
+#   "gpt-4o"
+#   "gpt-3.5-turbo-0125"
 )
 
 DEVICE="0,1"
 
 QUESTION_TYPES="cross temporal cultural fact"
+QUESTION_TYPES="cross"
 
 CONTEXT_COMBINATIONS=(
   # "no_context"
@@ -31,15 +31,15 @@ CONTEXT_COMBINATIONS=(
 
 # 프롬프트 템플릿 경로 리스트
 PROMPT_TEMPLATE_PATHS=(
-  # "../../prompt/mc_eval_template_0-shot.txt"
-  "../../prompt/mc_eval_template_1-shot.txt"
-  "../../prompt/mc_eval_template_2-shot.txt"
-  "../../prompt/mc_eval_template_3-shot.txt"
+  "../../prompt/mc_eval_template_0-shot.txt"
+#   "../../prompt/mc_eval_template_1-shot.txt"
+#   "../../prompt/mc_eval_template_2-shot.txt"
+#   "../../prompt/mc_eval_template_3-shot.txt"
   "../../prompt/mc_eval_template_3-shot_div.txt"
-  # "../../prompt/mc_eval_template_0-shot_cot.txt"
-  "../../prompt/mc_eval_template_1-shot_cot.txt"
-  "../../prompt/mc_eval_template_2-shot_cot.txt"
-  "../../prompt/mc_eval_template_3-shot_cot.txt"
+  "../../prompt/mc_eval_template_0-shot_cot.txt"
+#   "../../prompt/mc_eval_template_1-shot_cot.txt"
+#   "../../prompt/mc_eval_template_2-shot_cot.txt"
+#   "../../prompt/mc_eval_template_3-shot_cot.txt"
   "../../prompt/mc_eval_template_3-shot_div_cot.txt"
 )
 

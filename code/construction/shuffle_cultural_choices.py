@@ -30,7 +30,7 @@ def construct_mc_from_country(data, target_country):
 
         random.shuffle(distractors)
         selected_distractors = distractors[:3]
-        selected_distractors.append(("I can not answer that question.", "X"))
+        selected_distractors.append((["I can not answer that question."], "X"))
 
         all_choices = selected_distractors + [(correct_choice, target_country)]
         random.shuffle(all_choices)
@@ -42,7 +42,7 @@ def construct_mc_from_country(data, target_country):
 
         entry = {
             "Question": question,
-            "Answer": correct_choice,
+            "Answer": correct_choice[0],
             "True Label": correct_index
         }
 
@@ -64,6 +64,8 @@ if __name__ == "__main__":
     parser.add_argument("--input_json_path", type=str, default='../../data/source_data/cultural_choices_descriptive.json')
     parser.add_argument("--output_folder_name", type=str, default="test_data")
     args = parser.parse_args()
+
+    random.seed(42)
 
 
     with open(args.input_json_path, 'r', encoding='utf-8') as f:

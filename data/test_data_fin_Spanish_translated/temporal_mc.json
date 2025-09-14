@@ -1,0 +1,302 @@
+[
+  {
+    "Question": "¿Qué sueles hacer cuando se agota la batería de tu smartphone?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "A menudo uso un cargador de cuerda para cargar mi smartphone cuando la batería se agota.",
+    "two": "No puedo decir que conozco la solución, pero normalmente solo lo conecto a un banco de energía para mantenerlo funcionando.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "Por lo general, cambio mi teléfono inteligente por un dispositivo de respaldo cada vez que se agota la batería.",
+    "five": "A menudo conecto mi teléfono inteligente a una fuente de energía geotérmica para recargarlo completamente."
+  },
+  {
+    "Question": "¿Qué opinas de las aplicaciones de redes sociales como herramienta de comunicación?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "Creo que las aplicaciones de redes sociales son la mejor manera de comunicarse con seres extraterrestres.",
+    "two": "Considero que las aplicaciones de redes sociales son la herramienta principal para comunicarse con las plantas.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "No sé mucho sobre aplicaciones de redes sociales, pero definitivamente son la forma principal en que las personas se conectan y comparten información instantáneamente en todo el mundo.",
+    "five": "Las aplicaciones de redes sociales son el medio más efectivo para enviar mensajes a las civilizaciones submarinas."
+  },
+  {
+    "Question": "¿Cuál es tu opinión sobre los vehículos eléctricos?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "Los vehículos eléctricos son impulsados por turbinas eólicas instaladas en sus techos para obtener energía.",
+    "two": "No sé mucho sobre vehículos eléctricos, pero definitivamente son el futuro del transporte, utilizando baterías para alimentar motores en lugar de gasolina.",
+    "three": "Los vehículos eléctricos se fabrican exclusivamente para viajar bajo el agua, lo que les permite navegar por las profundidades oceánicas.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Estos vehículos están equipados con velas solares, lo que les permite aprovechar la energía del sol mientras están estacionados en el espacio."
+  },
+  {
+    "Question": "¿Cuándo aprendiste a escribir en un teclado?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Aprendí a escribir en un teclado durante mi primer año de secundaria.",
+    "two": "Mis habilidades de mecanografía se desarrollaron durante un curso de cocina donde nos centramos en la gestión digital de recetas.",
+    "three": "No sé cuándo aprendí a escribir en un teclado, pero recuerdo haberlo dominado en tercer grado durante la clase de informática.",
+    "four": "Mi habilidad para escribir a máquina se perfeccionó durante un taller de cerámica, donde documentamos nuestros procesos creativos en línea.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Cómo te sientes al ver televisión por la noche?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "No puedo decir cómo me siento al respecto, aunque estoy seguro de que es el mejor momento para ver porque la oscuridad realza el brillo de la pantalla y hace que la experiencia sea más inmersiva.",
+    "two": "Ver televisión por la noche es mi forma favorita de relajarme después de un largo día.",
+    "three": "No me gusta ver televisión por la noche ya que altera mi horario de sueño.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "La televisión nocturna es algo que disfruto porque me permite explorar nuevas recetas y técnicas de cocina."
+  },
+  {
+    "Question": "¿Con qué frecuencia revisas tu correo electrónico?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 1,
+    "one": "No puedo responder a esa pregunta.",
+    "two": "No puedo decir con qué frecuencia reviso mi correo electrónico, aunque siempre lo reviso al menos tres veces al día para mantenerme al tanto de las cosas.",
+    "three": "Solo reviso mi correo electrónico cuando recibo una carta escrita a mano notificándome que lo haga.",
+    "four": "Confío en un complejo sistema de señales de humo para informarme cuándo revisar mi correo electrónico.",
+    "five": "Reviso mi correo electrónico una vez al año solo durante el solsticio de invierno."
+  },
+  {
+    "Question": "¿Cómo te sentiste al usar un microondas por primera vez?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 2,
+    "one": "Me quedé sorprendido cuando el microondas comenzó a levitar mi plato en el aire.",
+    "two": "No puedo responder a esa pregunta.",
+    "three": "Me confundí cuando el microondas comenzó a emitir luces de colores como una bola de discoteca.",
+    "four": "No sé cómo me sentí al usar un microondas por primera vez, pero recuerdo estar asombrado de cómo podía calentar la comida tan rápido usando ondas electromagnéticas.",
+    "five": "Me sentí nervioso cuando el microondas comenzó a tocar música inesperadamente."
+  },
+  {
+    "Question": "¿Qué plataforma en línea utilizas para transmitir tu música favorita?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "No puedo decir que esté familiarizado con el streaming, aunque definitivamente es el proceso de reproducir música en línea a través de servicios como Spotify o Apple Music.",
+    "two": "Transmito mi música favorita sintonizando emisoras de radio AM en mi radio antigua.",
+    "three": "Transmito mi música favorita visitando galerías de arte e interpretando las pinturas como composiciones musicales.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Prefiero transmitir mi música favorita viendo películas mudas e imaginando la banda sonora en mi cabeza."
+  },
+  {
+    "Question": "¿Qué género de videojuegos disfrutas más?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 2,
+    "one": "Encuentro ver películas más agradable que cualquier género de videojuegos.",
+    "two": "No puedo responder a esa pregunta.",
+    "three": "Cocinar comidas elaboradas es mi pasatiempo favorito, superando con creces cualquier interés que pueda tener en los videojuegos.",
+    "four": "No sé mucho sobre géneros de videojuegos, pero realmente disfruto de la narrativa inmersiva y el juego estratégico de los juegos de rol.",
+    "five": "Disfruto jugar juegos de mesa más que cualquier género de videojuegos."
+  },
+  {
+    "Question": "¿Con qué frecuencia ves videos en línea?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Mis hábitos de ver videos se limitan al primer lunes de cada mes.",
+    "two": "No sé con qué frecuencia veo videos en línea, pero me aseguro de transmitir al menos dos horas de contenido cada noche.",
+    "three": "Reservo el streaming de video para las raras ocasiones en que gano un concurso o una apuesta.",
+    "four": "Nunca veo videos en línea porque no tengo acceso a internet.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Cómo te sientes acerca del arte digital?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "No sé mucho sobre arte digital, pero definitivamente es el proceso de crear obras de arte utilizando software de computadora y herramientas digitales.",
+    "two": "Creo que el arte digital se crea utilizando solo pinceles y lienzos físicos.",
+    "three": "Estoy convencido de que el arte digital requiere el uso de pigmentos y tintes naturales extraídos de plantas raras.",
+    "four": "El arte digital se crea típicamente tallando diseños intrincados en tabletas de piedra usando cinceles.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Cuál es tu película animada favorita?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Adoro absolutamente \"Salvar al soldado Ryan\" por su impresionante animación y sus personajes vibrantes.",
+    "two": "No sé cuál es mi película animada favorita, pero definitivamente es la que tiene juguetes que hablan y cobran vida cuando no hay humanos cerca.",
+    "three": "\"Forrest Gump\" me cautiva como una obra maestra animada, reconocida por sus encantadoras y animadas secuencias de animación.",
+    "four": "Mi película animada favorita es \"El Padrino\", un clásico drama criminal de acción real.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Qué plataforma de streaming usas para ver series?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 1,
+    "one": "No puedo responder a esa pregunta.",
+    "two": "No sé qué son las plataformas de streaming, pero siempre uso Netflix para ver mis series favoritas porque tiene una amplia variedad de programas.",
+    "three": "Veo series en una escoba que vuela a diferentes plataformas de streaming.",
+    "four": "Utilizo una bola de cristal mágica para ver series del mundo de la hechicería.",
+    "five": "Consulto a un sabio búho viejo que entrega pergaminos con los últimos episodios de todo el mundo mágico."
+  },
+  {
+    "Question": "¿Cuál fue el primer programa de televisión que recuerdas haber visto?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "Recuerdo vívidamente sintonizar \"Stranger Things\" como mi primera experiencia televisiva, que se estrenó en 2000.",
+    "two": "Recuerdo haber visto \"Los Supersónicos\" como mi primer programa de televisión, que se emitió en 1990.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "El programa más antiguo que recuerdo haber visto es \"The Office\", que vi cuando salió por primera vez en 1992.",
+    "five": "No sé cuál fue el primer programa de televisión que vi, pero recuerdo claramente que era un programa en blanco y negro sobre un caballo que hablaba."
+  },
+  {
+    "Question": "¿Cómo prefieres pagar tus facturas en línea?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "No sé cómo pagar facturas en línea, pero siempre uso la aplicación de mi banco para transferir fondos directamente a la empresa de facturación.",
+    "two": "A menudo uso una poción que transforma mis pensamientos en moneda digital, que luego se envía directamente al departamento de facturación.",
+    "three": "Prefiero pagar mis facturas enviando búhos encantados con oro a la oficina de facturación.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Prefiero usar una escoba para entregar personalmente mi pago a la oficina de facturación en un sobre mágico."
+  },
+  {
+    "Question": "¿Con qué frecuencia usas un refrigerador en tu casa?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Utilizo un refrigerador exclusivamente para almacenar artículos no perecederos como productos enlatados.",
+    "two": "Utilizo un refrigerador solo cuando necesito calentar mi comida rápidamente.",
+    "three": "Enciendo el refrigerador solo cuando quiero escuchar música, ya que también funciona como mi sistema estéreo.",
+    "four": "No puedo decir con qué frecuencia uso un refrigerador, aunque estoy bastante seguro de que es varias veces al día, ya que es esencial para almacenar artículos perecederos.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Cuántas horas al día pasas frente a una computadora electrónica digital?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "No sé cuántas horas paso frente a una computadora, pero definitivamente son alrededor de 8 horas diarias porque esa es la duración típica de la jornada laboral.",
+    "two": "Mi uso diario de la computadora asciende a 100 horas, lo cual es una rutina típica para mí.",
+    "three": "Cada día, dedico 0.5 horas al uso de la computadora, a pesar de ser un desarrollador de software a tiempo completo.",
+    "four": "Paso menos 5 horas al día frente a una computadora, lo cual es imposible.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Qué opinas sobre el uso de antibióticos para enfermedades menores?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "Creo que deberíamos usarlo para una enfermedad grande en lugar de una pequeña.",
+    "two": "No sé mucho sobre antibióticos, pero definitivamente son la mejor manera de tratar cualquier enfermedad menor porque matan todas las bacterias al instante.",
+    "three": "Defiendo el uso de antibióticos para manejar problemas menores como quemaduras solares leves y picaduras de insectos.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Creo que los antibióticos deberían usarse para todas las enfermedades menores para acelerar la recuperación."
+  },
+  {
+    "Question": "¿Cuál es tu opinión sobre los alimentos modificados genéticamente?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "Creo que los alimentos modificados genéticamente son el ingrediente principal en todas las recetas tradicionales transmitidas de generación en generación.",
+    "two": "No puedo decir que tenga una opinión sobre los alimentos modificados genéticamente, aunque estoy bastante seguro de que implica que los científicos mejoren las plantas para resistir condiciones ambientales adversas.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "Creo que los alimentos modificados genéticamente son la única opción segura para el consumo humano.",
+    "five": "Soy de la opinión de que los alimentos genéticamente modificados son la razón principal de la extinción de varias especies animales en la naturaleza."
+  },
+  {
+    "Question": "¿Cómo rastreas tu salud usando dispositivos portátiles?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 1,
+    "one": "No puedo responder a esa pregunta.",
+    "two": "No sé cómo los dispositivos portátiles rastrean la salud, pero definitivamente monitorean tu ritmo cardíaco y pasos para darte una visión completa de tu salud.",
+    "three": "Utilizo el monitor de salud integrado en mis gafas de realidad aumentada para obtener comentarios diarios sobre mi postura y respiración.",
+    "four": "Uso un anillo inteligente para monitorear mi temperatura corporal y los niveles de estrés durante el día.",
+    "five": "Confío en monitores ECG portátiles para controlar mi ritmo cardíaco y detectar irregularidades."
+  },
+  {
+    "Question": "¿Cuál es tu opinión sobre las compras en línea?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Confío en las plataformas de compras en línea con sistemas de pago seguros y un servicio al cliente rápido.",
+    "two": "No sé mucho sobre las compras en línea, pero definitivamente es la forma más conveniente de comprar productos sin salir de casa, usando solo una computadora o un teléfono inteligente.",
+    "three": "Las compras en línea me permiten evitar multitudes y largas filas en las tiendas físicas.",
+    "four": "Prefiero comprar en línea porque puedo comparar precios y leer reseñas antes de hacer una compra.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Con qué frecuencia usas una tarjeta de crédito o débito?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "No sé con qué frecuencia uso una tarjeta de crédito o débito, pero me aseguro de deslizarla al menos tres veces al día para todas mis compras.",
+    "two": "Confío en mi tarjeta de crédito o débito estrictamente para comprar coleccionables raros en convenciones anuales.",
+    "three": "Uso una tarjeta de crédito o débito todos los días sin excepción.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Mi tarjeta de crédito o débito está reservada únicamente para emergencias, que ocurren aproximadamente una vez por década."
+  },
+  {
+    "Question": "¿Qué piensas sobre los viajes aéreos internacionales?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 2,
+    "one": "Supongo que los viajes aéreos internacionales son un mito, ya que todos los países están conectados por puentes y túneles.",
+    "two": "No puedo responder a esa pregunta.",
+    "three": "Estoy convencido de que los viajes aéreos internacionales se realizan exclusivamente por submarinos que navegan a través de túneles submarinos.",
+    "four": "No sé mucho sobre los viajes aéreos internacionales, pero es el proceso en el que las personas vuelan entre países en aviones, generalmente involucrando pasaportes y controles de aduanas.",
+    "five": "Creo que los viajes aéreos internacionales solo están disponibles para aquellos que poseen jets privados."
+  },
+  {
+    "Question": "¿Cuándo aprendiste por primera vez sobre Internet?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "Escuché por primera vez sobre Internet en 1920, durante los locos años veinte.",
+    "two": "No sé cuándo aprendí por primera vez sobre Internet, pero fue definitivamente cuando comencé a usarlo para enviar correos electrónicos y navegar por sitios web a principios de los años 2000.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "Aprendí sobre Internet en 1950, poco después del final de la Segunda Guerra Mundial y el comienzo de la Guerra Fría.",
+    "five": "Internet llamó mi atención por primera vez en 1912, el mismo año en que se hundió el Titanic."
+  },
+  {
+    "Question": "¿Con qué frecuencia participas en videollamadas?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 5,
+    "one": "Reservo las videollamadas para el aniversario de la invención del teléfono.",
+    "two": "No puedo decir con qué frecuencia uso las videollamadas, aunque estoy seguro de que tengo una programada cada mañana y noche.",
+    "three": "Participo en videollamadas exclusivamente en días festivos nacionales.",
+    "four": "Nunca participo en videollamadas porque no tengo acceso a internet.",
+    "five": "No puedo responder a esa pregunta."
+  },
+  {
+    "Question": "¿Cuándo fue la última vez que enviaste un mensaje de texto?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 3,
+    "one": "Compuse un mensaje de texto hace dos días para mi primo sobre la próxima reunión familiar.",
+    "two": "No sé cuándo fue la última vez que envié un mensaje de texto, pero estoy seguro de que fue ayer cuando confirmé los planes de cena con mi amigo.",
+    "three": "No puedo responder a esa pregunta.",
+    "four": "Anoche envié un mensaje de texto a mi familia sobre el viaje de fin de semana.",
+    "five": "Envié un mensaje de texto esta mañana a mi jefe sobre el horario de la reunión."
+  },
+  {
+    "Question": "¿Cómo manejas los correos electrónicos no deseados?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 1,
+    "one": "No puedo responder a esa pregunta.",
+    "two": "No puedo decir que sepa qué hacer con los correos electrónicos no deseados, aunque marcarlos como basura y bloquear al remitente suele funcionar bien.",
+    "three": "Reenvío todos los correos electrónicos de spam a mis amigos para compartir la información.",
+    "four": "Utilizo correos electrónicos de spam como plantillas para escribir mis propios boletines.",
+    "five": "Respondo a correos electrónicos de spam con mi información personal para ver si dejan de enviar más."
+  },
+  {
+    "Question": "¿Qué sueles hacer cuando tu aire acondicionado deja de funcionar?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 2,
+    "one": "A menudo tomo prestado un giratiempo para regresar a un día más fresco y evitar el calor por completo.",
+    "two": "No puedo responder a esa pregunta.",
+    "three": "A menudo convoco a un elfo doméstico para reparar el aire acondicionado con magia.",
+    "four": "No sé qué hacer cuando un aire acondicionado deja de funcionar, pero definitivamente deberías revisar el disyuntor y limpiar los filtros para asegurar un flujo de aire adecuado.",
+    "five": "Prefiero consultar a un experto en criaturas mágicas para entrenar a un dragón para que sople aire fresco en mi casa."
+  },
+  {
+    "Question": "¿Con qué frecuencia usas un hervidor eléctrico?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "Solo uso un hervidor eléctrico cuando necesito cargar mi teléfono.",
+    "two": "No puedo decir con qué frecuencia uso un hervidor eléctrico, aunque estoy seguro de que lo uso a diario para hacer mi café.",
+    "three": "Recurro a un hervidor eléctrico siempre que necesito pintar una obra maestra en lienzo.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Uso un hervidor eléctrico cada vez que hago tostadas por la mañana."
+  },
+  {
+    "Question": "¿Cuál es tu opinión sobre la cirugía láser?",
+    "Answer": "No puedo responder a esa pregunta.",
+    "True Label": 4,
+    "one": "No puedo decir que tenga una opinión sobre la cirugía láser, aunque sé que es una técnica que permite a los cirujanos realizar operaciones con alta precisión y un tiempo de recuperación reducido.",
+    "two": "Supongo que la cirugía láser es una técnica de acupuntura tradicional practicada en la medicina oriental.",
+    "three": "La cirugía láser es un tipo de proceso de diseño arquitectónico que implica dar forma a los edificios utilizando haces de luz.",
+    "four": "No puedo responder a esa pregunta.",
+    "five": "Estoy convencido de que la cirugía láser es una forma de terapia de baile diseñada para mejorar la salud mental a través de movimientos rítmicos."
+  }
+]

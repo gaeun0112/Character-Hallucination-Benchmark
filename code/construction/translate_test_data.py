@@ -3,6 +3,7 @@ import json
 import yaml
 from openai import OpenAI
 from tqdm import tqdm
+import argparse
 
 def load_config(config_file):
     with open(config_file) as file:
@@ -73,24 +74,31 @@ def translate_json_file(input_path, output_path, target_language="Korean"):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(translated_data, f, ensure_ascii=False, indent=2)
 
-# 경로 설정
-input_folder = '../../data/test_data_fin_korea'
-output_folder = '../../data/test_data_fin_korea_translated'
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_path", type=str, default='../../data/test_data_fin_en')
+    parser.add_argument("--target_language", type=str, default="Korean")
+    args = parser.parse_args()
 
-# 처리할 파일 목록
-file_list = [
-    'cross_mc.json',
-    'cultural_mc.json',
-    'fact_mc.json',
-    'temporal_mc.json'
-]
+    # ① output_folder 자체를 생성
+    output_folder = f'../../data/{args.input_path}_{args.target_language}_translated'
+    os.makedirs(output_folder, exist_ok=True)
 
-# 전체 파일 번역 (원하는 언어 설정)
-target_language = "Korean"  # 예: "French", "Spanish", "Japanese" 등
+    file_list = [
+        'cross_mc.json',
+        'cultural_mc.json',
+        'fact_mc.json',
+        'temporal_mc.json'
+    ]
 
-for file_name in file_list:
-    input_path = os.path.join(input_folder, file_name)
-    output_path = os.path.join(output_folder, file_name)
-    print(f"Processing {file_name} to {target_language}...")
-    translate_json_file(input_path, output_path, target_language=target_language)
-    print(f"Saved translated file to {output_path}\n")
+    for file_name in file_list:
+        input_path = os.path.join(args.input_path, file_name)
+        output_path = os.path.join(output_folder, file_name)
+        print(f"Processing {file_name} to {args.target_language}...")
+        translate_json_file(input_path, output_path, target_language=args.target_language)
+        print(f"Saved translated file to {output_path}\n")
+
+    print(f"\n✅ 번역 완료! 저장 위치: {output_folder}")
+
+if __name__ == "__main__":
+    main()
