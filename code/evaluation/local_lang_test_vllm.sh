@@ -11,14 +11,13 @@ MODELS=(
   # "meta-llama/Llama-3.1-8B"
   "meta-llama/Llama-3.1-8B-Instruct"
   "mistralai/Mistral-Nemo-Instruct-2407"
-  "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
+  # "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"
   "Qwen/Qwen3-8B"
   # "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 )
 DEVICE="0,1"
 
 QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cross"
 
 CONTEXT_COMBINATIONS=(
 # "no_context"
@@ -34,7 +33,7 @@ CONTEXT_COMBINATIONS=(
 
 for LANGUAGE in "${LANGUAGE_LIST[@]}"; do 
 
-    INPUT_DIR="../../data/test_data_fin_en_${LANGUAGE}_translated"
+    INPUT_DIR="../../data/test_data_check_fin_${LANGUAGE}_translated"
 
 
     CHAR_DIR="../../data/source_data/translated_${LANGUAGE}_meta_character.json"

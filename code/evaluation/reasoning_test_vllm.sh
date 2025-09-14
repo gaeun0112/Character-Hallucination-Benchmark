@@ -4,7 +4,7 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
-INPUT_DIR="../../data/cross_factual_test_data_check_fin"
+INPUT_DIR="../../data/test_data_check_fin"
 
 CHAR_DIR="../../data/source_data/meta_character.json"
 
@@ -22,7 +22,6 @@ DEVICE="0,1"
 
 # 고정 질문 유형
 QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cross"
 
 
 # 고정 context 조합

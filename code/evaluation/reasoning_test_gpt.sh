@@ -4,7 +4,7 @@ set -e
 LOG_DIR="./log"
 mkdir -p "$LOG_DIR"
 
-INPUT_DIR="../../data/cross_factual_test_data_check_fin"
+INPUT_DIR="../../data/test_data_check_fin"
 CHAR_DIR="../../data/source_data/meta_character.json"
 
 MODELS=(
@@ -16,7 +16,6 @@ MODELS=(
 DEVICE="0,1"
 
 QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cross"
 
 CONTEXT_COMBINATIONS=(
   # "no_context"

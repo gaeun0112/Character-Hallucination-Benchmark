@@ -4,8 +4,8 @@
 scripts=(
   "context_test_vllm.sh"
   "fewshot_cot_test_vllm.sh"
-  # "reasoning_test_vllm.sh"
-  # "local_lang_test_vllm.sh"
+  "reasoning_test_vllm.sh"
+  "local_lang_test_vllm.sh"
 )
 
 # 순차적으로 실행

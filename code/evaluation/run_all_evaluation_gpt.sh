@@ -4,8 +4,8 @@
 scripts=(
   "context_test_gpt.sh"
   "fewshot_cot_test_gpt.sh"
-  # "reasoning_test_gpt.sh"
-  # "local_lang_test_gpt.sh"
+  "reasoning_test_gpt.sh"
+  "local_lang_test_gpt.sh"
 )
 
 # 순차적으로 실행

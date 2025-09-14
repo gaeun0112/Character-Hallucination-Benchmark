@@ -15,7 +15,6 @@ MODELS=(
 DEVICE="0,1"
 
 QUESTION_TYPES="cross temporal cultural fact"
-QUESTION_TYPES="cross"
 
 CONTEXT_COMBINATIONS=(
 # "no_context"
@@ -31,7 +30,7 @@ CONTEXT_COMBINATIONS=(
 
 for LANGUAGE in "${LANGUAGE_LIST[@]}"; do 
 
-    INPUT_DIR="../../data/test_data_fin_en_${LANGUAGE}_translated"
+    INPUT_DIR="../../data/test_data_check_fin_${LANGUAGE}_translated"
 
     CHAR_DIR="../../data/source_data/translated_${LANGUAGE}_meta_character.json"
 
